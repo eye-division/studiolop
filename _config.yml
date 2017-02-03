@@ -48,13 +48,6 @@ defaults:
         values:
             layout: "gallery"
 
-    -
-        scope:
-            path: "poems"
-            type: "pages"
-        values:
-            layout: "page"
-
 # Disqus comments
 # disqus_shortname:
 
