@@ -4,24 +4,205 @@ title: About
 permalink: /about/
 ---
 
-##Training
-My formal training has been a Foundation year in Leamington Spa, then much later, in my 30s, the Craft Materials course (HND equivalent) at Coventry Faculty of Art and Design. I intended to specialize in Jewelry – I come from a long line of jewelers – but Textiles was taught by the Head of the Art School, [Pat Shenstone](http://www.patshenstone.co.uk/Pat_Shenstone_ARTIST/Welcome.html) who was really inspiring, and I specialized in textile art, in particular, Islamic patterns. I consider Pat Shenstone to be a big influence still – in terms of there being a story to my art, and it being pro-woman, often turning myths and iconography around (see Mozambican Chess series, and <a href="/gallery/women-in-science/">Women in Medicine</a>). 
+    Thanks to art,instead of seeing one world,we see it multiplied and as many original artists there are,so many worlds at our disposal ~ Proust
+
+Barbara Harrison Caban is a Swedish born artist & designer who devides her time between her studios in Oxford UK & New York City USA. Her main focus in on painting but she also explores textiles,papier mache , wood sculpture & other decorative arts. She is a member of Art Weeks - Oxfordshires Annual Art Festival , BWAC - Brooklyn Waterfront Artist Coalition  and PLG Arts .Barbara exhibits regulary in the UK & USA and her work is sold widely.Commissions are welcome.
+*photo by emily -greta tabourin 
  
-##Techniques
-I constantly love to learn new techniques and would like to do more photography and film. **Any poets out there who want to collaborate on a film - do get in touch**. Currently, I mostly work in acrylics with mixed media elements – although occasionally I tackle the same subject in two or more media.  
-I’m fascinated by the synergy between different art forms, especially poetry and painting, hence the <a href="/gallery/poet-in-exile/">Poet in Exile</a> series, and <a href="/gallery/various/">Buskers.
+##Links   
+- www.bwac.org                        
+- www.brooklynartscouncil.org 
+- www.plgarts.org     
+- www.artweeks.org 
+- www.bricartsmedia.org      
+- www.oxonarts.info 
+- www.craftanddesign.net 
+- www.thejamfactoryoxford.com 
+- www.carloscaban.wordpress.com   
 
-##Influences and Inspiration
-* [Reinata Sadimba](http://www.africancontemporary.com/Reinata%20Sadimba%20Passema.htm) Mozambican sculptor, see my portrait of her as Creator Queen in the Mozambican Chess series   
-* John Piper – for his use of colour  
-* Turner – my *Websters Brickworks, Coventry* is roughly the same place as his view of *Coventry from the North West* (1830). And I was inspired by his paintings of shipwrecks to do a search ‘Shipwreck Today’ which resulted in *Shipwreck*, the first of the 3 <a href="/gallery/in-the-mediterranean/">In the Mediterranean series</a>.
+##NEWS 2016 !
+---
 
-##Recent exhibitions
-* Virginia APGAR selected for ‘First 1001 Critical days’ at House of Commons, London June -July 2016
-* Summer 2016, Botley Arts at the Old Tattoo Parlour, Westway, <a href="/gallery/in-the-mediterranean/">In the Mediterranean series</a>
-* May 2016, Group exhibition ‘Experiments with Light’, *4 Sufi Stories about Light* (<a href="/gallery/sufi-stories/">pictures and explanations</a>)
-* Jan-March 2016 Nuffield Orthopaedic Hospital, with Alex Singleton and Malcolm Hayden-Smith
-* Dec 2015 – Feb 2016, P Café moving to Peace Hub, Birmingham *Moving a Country* painted in response to poem of the same name for ‘Displacement: Stories of Hope’ -  [View the film](https://leaveners.wordpress.com/our-work/projects/)  
-* May 2015 – Aug 2015, Botley Arts Inaugural Exhibition ( St. Peter & St.Paul’s Church, Westway, Botley, Oxford) Group exhibition, featuring <a href="/gallery/in-the-mediterranean/">In the Mediterranean series</a>
+Open Studio - Oxfordshire Artweeks Festival 2016
+
+May 7th-15th 2016 - Daily 11-6pm [ Thu/Fri 11-8pm ]
+
+Site No 149
+
+Apt.1 Victoria Gate ,1A Victoria Rd , Oxford OX2 7LS
+
+Ph. +44.(0) 1865.554555
+
+www.artweeks.org
+---
+
+2014 
+---
+
+OUTER LIMITS , BWAC -  BROOKLYN WATERFRONT ARTIST COALITION
+
+22nd Annual Spring Pier Art Show
+
+April 26 - June 1 ~ Open Weekends ( Sat / Sun only ) 1-6 pm
+
+499 Van Brunt Street , Red Hook , Brooklyn NY 11231
+
+Ph; 718.596.2506/7
+
+www.bwac.org
+---
+
+OPEN EXHIBITION - THE JAM FACTORY
+
+April 29 - June 2 
+
+Hollybush Row , 27 Park End Street , Oxford OX! 1HU
+
+Tel; 01865 - 244613
+---
+
+ARTWEEKS - OXFORDSHIRES VISUAL ART FESTIVAL
+
+Open Studio Event
+
+May 17 - May 26
+
+Daily 12 - 6pm Thur / Fri 12 - 8 pm
+
+SITE NO 385
+
+Venue ; Apt.1 Victoria Gate , 1A Victoria Road , Oxford OX2 7LS  UK
+
+Ph; 07446.558776
+
+www.artweeks.org
+
+---
+I have a painting on show at The Bookhouse , South Parade , Summertown Oxford UK
+
+April 28th - May 26th 2014 .
+---
+** BARBARA HARRISON CABAN & CARLOS CABAN @ TUGBOAT **
+
+" Flowers at the Party "
+
+ September 19th  - October 31st  , 7 am - 7 pm
+
+546 Flatbush Avenue, Brooklyn NY
+
+Opening Reception - Friday September 19th  6pm -9pm !
+
+---
+2013
+---
+ON THE WATERFRONT - BWAC , BROOKLYN WATERFRON ARTIST COALITION
+
+21st Annual Spring Pier Art Show
+
+Over 1000 works in all styles & mediums from 250+ local artists
+
+May 11 - June 16
+
+499 Van Brunt Street , Red Hook , Brooklyn NY11231
+
+Phone;1718.596.2506/7
+
+www.bwac.org
+---
+
+ARTWEEKS - OXFORDSHIRES VISUAL ART FESTIVAL
+
+Open Studio Event 
+
+May 4 - May 12
+
+Daily 12 - 6pm , Thur. Frid. 12 - 8 pm
+
+Site Nb 141 
+
+Venue; Apt.1 Victoria Gate , 1A Victoria Road , Oxford OX2 7LS UK
+
+Visit www.artweeks.org for more details
+
+---
+Group Show ~ Tugboat Tea Company
+
+April 1 - April 30 2013
+
+OPENING RECEPTION APRIL 4TH - 6 - 9PM
+
+546 Flatbush Avenue , Brooklyn NY 11225 
+
+www.tugboatteacompany.com
+--- 
+2012
+---
+PARALLAX AF
+
+3 - 5 August 2012 
+
+82 Mercer Street , Soho  New York
+
+www.parallaxaf.com
+---
+COLOR -BWAC's Spring Art Show
+
+Brooklyn Waterfront Artist Coalition
+
+28 July - 19 August 2012
+
+Open Weekends 1 - 6pm - Opening Reception Saturday 28 July
+
+Venue; 499 Van Brunt Street , Red Hook , Brooklyn NY 11231
+
+Ph; 718-596-2506/7      www.bwac.org
+---      
+CELEBRATE - BWAC's Spring Pier Art Show
+
+Celebarting 20 Years of exhibtions in Red Hook,Brooklyn,NYC
+
+Brooklyn Waterfront Artist Coalition
+
+12 May - 17 June 2012
+
+Open weekends 1 - 6pm
+
+Opening Reception - Saturday 12 May 
+
+Venue; 499 Van Brunt Street , Red Hook, Brooklyn NY 11231
+
+Ph; 718-596-2506/7   www.bwac.org
+
+---
+Artweeks - Oxfordshires Visual Art Festival
+
+12 May - 20 May 2012
+
+OPEN STUDIO
+
+Every Day  12- 6pm , Thur. & Fri. 12- 8pm
+
+Apt.1 Victoria Gate , 1A Victoria Road , Oxford OX2 7 LS  UK
+
+Site No 270 - I can be found in the Artweeks Guide
+
+---
+'The Starters Block ' -  Artweeks Taster Exhibition
+
+2 April - 30 April 2012
+
+AND
+
+'Oxford Artist Open '
+
+30 April - 28 May 2012
+
+Open Daily 10am - 11pm
+
+The Jam Factory
+
+Hollybush Row , 27 Park End Street , Oxford OX1 1HU  UK
+
+Phone ; 01865 - 244613
 
 

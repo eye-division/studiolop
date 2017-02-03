@@ -7,19 +7,19 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: A Painter
-subtitle: Great artist
-email: support@eyedivision.com
-name: A Painter
-description: Great artist
+title: Barbara Caban
+subtitle: Studiolop
+email: a.ward@eyedivision.com
+name: Barbara Caban
+description: Artist and designer
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net/"
-cover: "/assets/images/in_the_mediterranean_syrianboydreaming.jpg"
-logo:
+url: ""
+cover: "/assets/images/party-painting.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -29,8 +29,8 @@ inter_post_navigation: false
 permalink: pretty
 
 # Image CDN
-imagecdn:
-  staging: "http://ed-eyegallery-dev.imgix.net"
+#imagecdn:
+  #staging: "http://ed-eyegallery-dev.imgix.net"
   #production: "http://ed-eyegallery.imgix.net"
 
 # Collections Example
@@ -59,7 +59,7 @@ defaults:
 # disqus_shortname:
 
 # Google analytics
-ga_tracking_id: ""
+ga_tracking_id: "UA-16735011-16"
 
 
 # Social icons and sharing options
@@ -81,8 +81,8 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: A Painter
-    url:
+    username: Studiolop
+    url: https://www.facebook.com/Studiolop-423264891118417/?fref=ts
     desc: Like on Facebook
     share: true
 
@@ -90,10 +90,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/in_the_mediterranean_syrianboydreaming.jpg"
+    fb_image: "/assets/images/party-painting.jpg"
     fb_image_width: 1024
     fb_image_height: 307
     fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/in_the_mediterranean_syrianboydreaming.jpg"
+    twitter_image: "/assets/images/party-painting.jpg"
 
