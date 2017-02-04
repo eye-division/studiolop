@@ -28,6 +28,8 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 permalink: pretty
 
+uploads_dir: "assets/images"
+
 # Image CDN
 imagecdn:
   #staging: "http://ed-eyegallery-dev.imgix.net"
