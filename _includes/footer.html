@@ -10,9 +10,9 @@
           {% if social.url != null %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
+              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
             </a>
+
           </li>
           {% endif %}
         {% endfor %}
@@ -22,7 +22,8 @@
 
 
     <div class="site-signature">
-      <p class="text"><strong>Site by <a href="https://www.eyedivision.com">Eye Division</a></strong></p>
+      <p class="text">&copy; All work is copyright the artist, no reproduction without permission.<br />
+      {% include img.html src="/assets/eyegallery.gif" alt="Eye Division site" %}<br />site by <a href="https://www.eyedivision.com">Eye Division</a></p>
     </div>
 
 

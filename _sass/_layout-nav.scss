@@ -4,7 +4,7 @@
 
 .navigation {
     margin: 0;
-    @include outer-container;
+    //@include outer-container;
     padding: 0 1em;
     background-color: $white;
 }
@@ -93,11 +93,17 @@ li.nav-link {
         width: auto;
     }
     a {
+        color: $navigation-color;
         display: inline-block;
         @include media ($tablet) {
             padding-right: 1.5em;
         }
+        &:hover {
+            color: $navigation-color-hover;
+            text-decoration: none;
+        }
     }
+
     &:last-child a {
         @include media ($tablet) {
             padding-right: 1em;

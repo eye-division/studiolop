@@ -120,12 +120,15 @@ images:
     title: Life as a Fish Silkscreen
     description: 
     vieworder: 3
+_comments:
+    title: add a Gallery title
+    permalink: page URL name
 ---
 
 Works on paper are executed useing block printing ink for lino printing or watercolour,acrylic & ink for other works.
 
-Useing heavy quality paper for printing and french watercolour paper  for one off painted designs.
+Using heavy quality paper for printing and french watercolour paper  for one off painted designs.
 
 Lino prints are hand cut designs useing soft european linoleum,typically producing a limited edition of prints.
 
-All Note & PostCards are on good quality card .Envelopes included.
+All Note & PostCards are on good quality card. Envelopes included.

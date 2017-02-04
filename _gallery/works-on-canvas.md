@@ -4,7 +4,7 @@ description:
 gallery_date: 2016-05-01T00:00:00.000Z
 permalink: /gallery/works-on-canvas/
 list: true
-main_image_path: /assets/images/party-painting.jpg
+main_image_path: /assets/images/4f46c484624ac.jpg
 images:
  - image_path: /assets/images/4f46c484624ac.jpg       
    title: Happy Hour2
@@ -273,6 +273,9 @@ images:
    title: Party Painting 
    description: 4.11ft x 3.4ft ( 150cm x 100cm ), Acrylic on Canvas, 2016,   
    vieworder: 1
+_comments:
+    title: add a Gallery title
+    permalink: page URL name
 ---
 
-All works on canvas are useing acrylic based paint, at times incorporating pastels and mixed media such as beads,glitter,varnish ( shelack ) and tissue paper.
+All works on canvas are using acrylic based paint, at times incorporating pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue paper.

@@ -5,19 +5,20 @@ layout: default
 
   <div class="page">
 
-      <p class="editable"></p>
+    <p class="editable"><span class="pink">barbara harrison caban</span></p>
 
       <div class="gallery">
       {% for gallery in site.gallery%}
 
            <div class="gallery-box{% cycle '', ' last' %}">
             <a href="{{ gallery.url }}">
-              <h3>{{ gallery.title }}</h3>
+
               {% if gallery.main_image_path %}
-              {% include img.html src=gallery.main_image_path width=400 height=300 %}
+                {% include img.html src=gallery.main_image_path width=400 height=300 %}
               {% else %}
-              {% include img.html src="/siteicon.png" width=400 height=300 %}
+                {% include img.html src="/siteicon.png" width=400 height=300 %}
               {% endif %}
+              <h3>{{ gallery.title }}</h3>
             </a>
 
 

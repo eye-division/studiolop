@@ -4,7 +4,7 @@ description:
 gallery_date: 2016-05-01T00:00:00.000Z
 permalink: /gallery/mixed-media/
 list: true
-main_image_path: /assets/images/party-painting.jpg
+main_image_path: /assets/images/4f70ad87c1a95.jpg
 images:            
   - image_path: /assets/images/4f70ad87c1a95.jpg
     title: Spring Flowers Pillow / Cushion Cover
@@ -315,14 +315,14 @@ images:
     description: 18'x18', 2014, SOLD
     vieworder: 1
 _comments:
-    title: add a Gallery   title
+    title: add a Gallery title
     permalink: page URL name
 ---
 
 Textile designs are 100% cotton,hand dyed unless item carries natural colour. Individually hand painted, useing acrylic based, water fast , non toxic paints. Pillows/cushions are zippered. 
 
-Wood Sculptures are hand cut or using exsisting shapes.Primed,acrylic paint & varnish.Mixed media finds incorporated. Ready for wall hanging.
+Wood Sculptures are hand cut or using exsisting shapes.Primed,acrylic paint & varnish. Mixed media finds incorporated. Ready for wall hanging.
 
-Decorated wood boxes - hand painted ,  primed, varnished with felt base.
+Decorated wood boxes - hand painted,  primed, varnished with felt base.
 
 All woods are birch or other light wood

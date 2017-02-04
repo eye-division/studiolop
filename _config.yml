@@ -9,7 +9,7 @@ exclude:
 # Site settings
 title: Barbara Caban
 subtitle: Studiolop
-email: a.ward@eyedivision.com
+email: barbaramolin2000@yahoo.com
 name: Barbara Caban
 description: Artist and designer
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -29,9 +29,9 @@ inter_post_navigation: false
 permalink: pretty
 
 # Image CDN
-#imagecdn:
+imagecdn:
   #staging: "http://ed-eyegallery-dev.imgix.net"
-  #production: "http://ed-eyegallery.imgix.net"
+  production: "http://ed-studiolop.imgix.net"
 
 # Collections Example
 collections:
@@ -73,10 +73,24 @@ ga_tracking_id: "UA-16735011-16"
 social:
 
   - name: Facebook
-    icon: facebook
+    icon: icon-facebook_sign
     username: Studiolop
     url: https://www.facebook.com/Studiolop-423264891118417/?fref=ts
     desc: Like on Facebook
+    share: true
+
+  - name: Instagram
+    icon: icon-instagram
+    username: studiolop
+    url: https://www.instagram.com/studiolop/
+    desc: Follow me on Instagram
+    share: false
+
+  - name: Twitter
+    icon: icon-twitter_sign
+    username: BarbaraCaban
+    url: https://twitter.com/BarbaraCaban
+    desc: Follow us on Twitter
     share: true
 
 # Social sharing protocols
