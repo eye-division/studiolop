@@ -81,14 +81,14 @@ social:
 
   - name: Instagram
     icon: icon-instagram
-    username: @studiolop
+    username: studiolop
     url: https://www.instagram.com/studiolop/
     desc: Follow me on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: @BarbaraCaban
+    username: BarbaraCaban
     url: https://twitter.com/BarbaraCaban
     desc: Follow us on Twitter
     share: true
