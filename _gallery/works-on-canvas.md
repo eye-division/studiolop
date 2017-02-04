@@ -5,7 +5,7 @@ description_markdown:  |
    All works on canvas are using acrylic based paint, at times incorporating pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue paper.
 
 _gallery_date: 2016-05-01T00:00:00.000Z
-_permalink: /gallery/works-on-canvas/
+permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/4f46c484624ac.jpg
 images:
  - image_path: /assets/images/4f46c484624ac.jpg       
@@ -277,5 +277,7 @@ images:
     
 _comments:
     title: add a Gallery title
+    main_image_path: This is the image used to represent your gallery
+    images: Add and edit your gallery images here
 ---
 

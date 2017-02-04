@@ -6,11 +6,11 @@ description_markdown:  |
 
   Wood Sculptures are hand cut or using exsisting shapes. Primed, acrylic paint & varnish. Mixed media finds incorporated. Ready for wall hanging.  
   Decorated wood boxes - hand painted,  primed, varnished with felt base.  
-  
+
   All woods are birch or other light wood
 
 _gallery_date: 2016-05-01T00:00:00.000Z
-_permalink: /gallery/mixed-media/
+permalink: /gallery/mixed-media/
 main_image_path: /assets/images/4f70ad87c1a95.jpg
 images:            
   - image_path: /assets/images/4f70ad87c1a95.jpg
@@ -323,6 +323,8 @@ images:
      
 _comments:
     title: add a Gallery title
+    main_image_path: This is the image used to represent your gallery
+    images: Add and edit your gallery images here
 ---
 
 

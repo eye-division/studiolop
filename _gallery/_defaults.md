@@ -1,14 +1,13 @@
 ---
 title: 
-description: 
-gallery_date: 
-permalink:
+description_markdown: 
+_gallery_date: 
+_permalink:
 main_image_path:
 images:
   - image_path:
-    description:
-    title:
-    vieworder:
+    image_description:
+    image_title:
 _comments:
     title: add a Gallery title
     permalink: page URL name

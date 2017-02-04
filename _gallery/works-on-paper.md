@@ -6,9 +6,9 @@ description_markdown:  |
     Using heavy quality paper for printing and french watercolour paper  for one off painted designs.   
     Lino prints are hand cut designs useing soft european linoleum,typically producing a limited edition of prints.  
     All Note & PostCards are on good quality card. Envelopes included.
-    
+
 _gallery_date: 2016-05-01T00:00:00.000Z
-_permalink: /gallery/works-on-paper/
+permalink: /gallery/works-on-paper/
 main_image_path: /assets/images/4c8e9703e38c2.jpg
 images:
   - image_path: /assets/images/4c8e9703e38c2.jpg
@@ -126,6 +126,7 @@ images:
     image_description:  
      
 _comments:
-    main_image_path: image used on the front page
     title: your gallery title
+    main_image_path: This is the image used to represent your gallery
+    images: Add and edit your gallery images here
 ---
