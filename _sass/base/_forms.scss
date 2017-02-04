@@ -1,5 +1,5 @@
 fieldset {
-  background-color: lighten($base-border-color, 10%);
+  background-color: $white;
   border: $base-border;
   margin: 0 0 $small-spacing;
   padding: $base-spacing;
@@ -29,7 +29,7 @@ label {
 #{$all-text-inputs},
 select[multiple=multiple],
 textarea {
-  background-color: $base-background-color;
+  background-color: $white;
   border: $base-border;
   border-radius: $base-border-radius;
   box-shadow: $form-box-shadow;

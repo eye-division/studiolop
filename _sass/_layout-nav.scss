@@ -4,13 +4,13 @@
 
 .navigation {
     margin: 0;
-    //@include outer-container;
+    @include outer-container;
     padding: 0 1em;
     background-color: $white;
 }
 // Nav menu
 .navigation-wrapper {
-    @include outer-container;
+    //@include outer-container;
     @include clearfix;
     position: relative;
     background-color: $white;

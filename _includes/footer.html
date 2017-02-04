@@ -11,7 +11,7 @@
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
               <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
-            </a>
+            <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span></a>
 
           </li>
           {% endif %}
@@ -32,6 +32,7 @@
 </footer>
 
 <!-- Scripts -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>

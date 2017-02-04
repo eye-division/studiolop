@@ -11,18 +11,18 @@ html, body {
 
 body {
     height: 100%;
-    @include display(flex);
-    @include flex-direction(column);
+    //@include display(flex); // don't need flexbox on this simple gallery replica
+    //@include flex-direction(column);
     background-color: $base-background-color;
 }
 
 .navigation, .site-footer {
     //@include flex(none);
-    @include flex(1 0 auto);
+    //@include flex(1 0 auto);
 }
 
 .page-content {
-    @include flex(1 0 auto);
+    //@include flex(1 0 auto);
 }
 
 
@@ -161,7 +161,15 @@ pre code.hljs {
 .pink {
     color: rgb(255,0,255);
 }
-
+.half {
+    @include span-columns(12);
+    @include media ($mobile) {
+        @include span-columns(6);
+    }
+}
+.textright {
+    text-align: right;
+}
 /*
 *	Body
 */
@@ -339,7 +347,7 @@ pre code.hljs {
 *	Footer
 */
 .site-footer {
-    //@include outer-container;
+    @include outer-container;
     padding: 1em;
     background-color: $white;
     .wrapper {

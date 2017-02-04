@@ -43,12 +43,18 @@
     text-align: center;
     @include media ($tablet) {
         @include span-columns(4);
-        .last {
-            @include omega();
-        }
     }
 }
-
+.gallery-box-home {
+    @include media ($tablet) {
+        @include span-columns(6);
+    }
+}
+.last {
+    @include media ($tablet) {
+        @include omega();
+    }
+}
 /*
  * Lightbox
  */
