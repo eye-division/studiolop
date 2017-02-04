@@ -1,9 +1,11 @@
 ---
 title: Works on canvas
-_description: 
+_hide_content: true
+description_markdown:  |
+   All works on canvas are using acrylic based paint, at times incorporating pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue paper.
+
 _gallery_date: 2016-05-01T00:00:00.000Z
 _permalink: /gallery/works-on-canvas/
-list: true
 main_image_path: /assets/images/4f46c484624ac.jpg
 images:
  - image_path: /assets/images/4f46c484624ac.jpg       
@@ -256,7 +258,7 @@ images:
    vieworder: 56
  - image_path: /assets/images/5417350894b5b.jpg  
    image_title: Moonlit Party  
-   image_description:  4ft x 30inch + 1.20cm x 76cm, Acrylic on Canvas, 2014,   
+   image_description:  4ft x 30inch + 1.20cm x 76cm, Acrylic on Canvas, 2014   
    vieworder: 4
  - image_path: /assets/images/53ff409a1da84.jpg  
    image_title: Small still life    
@@ -277,4 +279,3 @@ _comments:
     title: add a Gallery title
 ---
 
-All works on canvas are using acrylic based paint, at times incorporating pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue paper.

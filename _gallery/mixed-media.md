@@ -1,9 +1,16 @@
 ---
 title: Mixed Media
-_description:  
+_hide_content: true
+description_markdown:  |
+  Textile designs are 100% cotton,hand dyed unless item carries natural colour. Individually hand painted, using acrylic based, water fast, non toxic paints. Pillows/cushions are zippered.  
+
+  Wood Sculptures are hand cut or using exsisting shapes. Primed, acrylic paint & varnish. Mixed media finds incorporated. Ready for wall hanging.  
+  Decorated wood boxes - hand painted,  primed, varnished with felt base.  
+  
+  All woods are birch or other light wood
+
 _gallery_date: 2016-05-01T00:00:00.000Z
 _permalink: /gallery/mixed-media/
-list: true
 main_image_path: /assets/images/4f70ad87c1a95.jpg
 images:            
   - image_path: /assets/images/4f70ad87c1a95.jpg
@@ -318,10 +325,4 @@ _comments:
     title: add a Gallery title
 ---
 
-Textile designs are 100% cotton,hand dyed unless item carries natural colour. Individually hand painted, useing acrylic based, water fast , non toxic paints. Pillows/cushions are zippered. 
 
-Wood Sculptures are hand cut or using exsisting shapes.Primed,acrylic paint & varnish. Mixed media finds incorporated. Ready for wall hanging.
-
-Decorated wood boxes - hand painted,  primed, varnished with felt base.
-
-All woods are birch or other light wood

@@ -11,7 +11,7 @@ layout: default
 
 <article id="content">
   <section class="main-content">
-    {{ content }}
+    {% if page.description_markdown %}{{ page.description_markdown | markdownify }}{% endif %}
   </section>
 
   {% if page.images[0].image_path %}
