@@ -30,7 +30,7 @@ ol.default {
     @extend %default-ol;
 }
 
-ul.default {
+ul.default, .no-list {
     @extend %default-ul;
 }
 
@@ -175,7 +175,8 @@ pre code.hljs {
 */
 .page-content {
 
-    @include outer-container;
+    @include outer-container($page-width);
+    box-shadow: 2px 2px 2px 0 red;
     padding: 1em;
     background-color: $white;
     .home, .page {
@@ -347,11 +348,12 @@ pre code.hljs {
 *	Footer
 */
 .site-footer {
-    @include outer-container;
+    @include outer-container($page-width);
+    box-shadow: 2px 2px 2px 0 red;
     padding: 1em;
     background-color: $white;
     .wrapper {
-        @include outer-container;
+        //@include outer-container;
         padding: 0 1em;
     }
     a {

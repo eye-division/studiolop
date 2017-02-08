@@ -1,5 +1,8 @@
 ---
 layout: default
+main_image_path: /assets/images/4e67c0db678eb.jpg
+main_image_title: Celebration
+
 ---
 
 
@@ -11,23 +14,12 @@ layout: default
     </div>
 
       <div class="gallery">
-      {% for gallery in site.gallery %}
 
-           <div class="gallery-box gallery-box-home {% cycle '', ' last' %}">
-              <a href="{{ gallery.url }}">
+        {% if page.main_image_path %}
+          {% include img.html src=page.main_image_path width=760 height=500 alt=page.main_image_title %}
+          <p>{{ page.main_image_title }}</p>
+        {% endif %}
 
-                {% if gallery.main_image_path %}
-                  {% include img.html src=gallery.main_image_path width=400 height=300 %}
-                {% else %}
-                  {% include img.html src="/siteicon.png" width=400 height=300 %}
-                {% endif %}
-
-                <h3>{{ gallery.title }}</h3>
-              </a>
-
-           </div>
-
-      {% endfor %}
       </div>
 
       <div class="editor-link">

@@ -91,8 +91,8 @@ social:
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: BarbaraCaban
-    url: https://twitter.com/BarbaraCaban
+    username:
+    url:
     desc: Follow us on Twitter
     share: true
 

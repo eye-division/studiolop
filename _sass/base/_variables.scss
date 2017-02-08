@@ -8,6 +8,8 @@ $heading-font-family: "Georgia", "Helvetica Neue", "Helvetica", "verdana", "Aria
 // Font Sizes
 $base-font-size: $em-base; // 16px
 
+$page-width: 75em;
+
 // Adjust modular scale ratio
 $modular-scale-ratio: $minor-third;
 
@@ -34,7 +36,7 @@ $green: #27ae60;	  	// Nephritis
 $blue: #2980b9;				// Belize Hole
 $purple: #8e44ad;			// Wisteria
 $orange: #d35400;			// Pumpkin
-$red:	#c0392b;				// Pomegranate
+$red:	#e30e1e;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
 $dark-gray: #333 !default;
 // Even more colors
@@ -42,7 +44,7 @@ $bc-red: #bc0000;
 $camouflage: #9a9a5d;
 
 // Font Colors
-$base-background-color: #e30e1e;
+$base-background-color: #eee;
 $base-font-color: $dark-gray;
 $action-color: $black;
 $highlight-color: $medium-gray;
@@ -100,5 +102,3 @@ $gallery-image-hover-color: $medium-gray;
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
-
-

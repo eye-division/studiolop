@@ -11,6 +11,21 @@
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <svg class="icon"><use xlink:href="#icon-reorder" /></svg>
     </a>
+
+    <ul class="social-media-list--header no-list">
+
+        {% for social in site.social %}
+          {% if social.url != null %}
+          <li>
+            <a href="{{ social.url }}" title="{{ social.desc }}">
+              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
+            </a>
+
+          </li>
+          {% endif %}
+        {% endfor %}
+
+      </ul>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
 
