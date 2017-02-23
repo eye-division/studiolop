@@ -6,7 +6,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/pink-party.jpg
 images:
-  - image_path:
+  - image_path: /assets/images/pink-party.jpg
     image_title:
     image_description:
   - image_path: /assets/images/4bbf52ffcc33d.jpg
