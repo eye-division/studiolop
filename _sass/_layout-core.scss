@@ -176,7 +176,7 @@ pre code.hljs {
 .page-content {
 
     @include outer-container($page-width);
-    box-shadow: 2px 2px 2px 0 red;
+    //box-shadow: 2px 2px 2px 0 red;
     padding: 1em;
     background-color: $white;
     .home, .page {
@@ -349,7 +349,8 @@ pre code.hljs {
 */
 .site-footer {
     @include outer-container($page-width);
-    box-shadow: 2px 2px 2px 0 red;
+    //box-shadow: 2px 2px 2px 0 red;
+    border-bottom: 1px solid red;
     padding: 1em;
     background-color: $white;
     .wrapper {
