@@ -12,20 +12,20 @@ images:
   - image_path: /assets/images/4bbf52ffcc33d.jpg
     image_title: Sitting Woman
     image_description: '36&quot;x24&quot; - 91cm x 61cm, This work is framed with glass. White frame., Acrylic , glitter, beads &amp; fabric on Canvas, 2009'
-  - image_path:
-    image_title:
+  - image_path: /assets/images/img-2095.jpg
+    image_title: Fish with Gold
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/fullsizeoutput-a64.jpeg
+    image_title: Still Life with Tea Pot
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/fullsizeoutput-a79.jpeg
+    image_title: Still Life with Bluebird
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/img-1804.JPG
+    image_title: Large Daytime Harbour
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/fullsizeoutput-a7e.jpeg
+    image_title: Small Nightime Harbour
     image_description:
   - image_path: /assets/images/4f4bf5c66b160.jpg
     image_title: Small Bird
