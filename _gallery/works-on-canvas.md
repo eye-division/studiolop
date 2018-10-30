@@ -78,10 +78,10 @@ images:
   - image_path: /assets/images/4f4bdfff0ea0d.jpg
     image_title: Small Bird SOLD
     image_description: '6x12inch - 15x30cm, Acrylic on Canvas, 2011,'
-  - image_path: /assets/images/4da0ee1490329.jpg
+  - image_path:
     image_title: Golden
   - image_path: /assets/images/4da8c578e6006.jpg
-    image_title: Oscar & The Bird
+    image_title: Oscar & The Bird SOLD
     image_description: '10&quot;x20&quot;/ 26x51cm, 2011,'
   - image_path:
     image_title:
