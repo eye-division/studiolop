@@ -92,9 +92,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4e67c0db678eb.jpg
-    image_title: Celebration !
-    image_description: '40 inch x 30 inch, Acrylic on Canvas, 2011,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title: The Singer
     image_description: 'Acrylic on Hessian / Burlap, 1998'
