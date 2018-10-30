@@ -86,9 +86,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4da8c6717fdb2.jpg
-    image_title: Three Hairclips on City Girl
-    image_description: '8&quot;x10&quot;/21x26cm, 2011,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
