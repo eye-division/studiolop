@@ -26,7 +26,9 @@ images:
       Canvas SOLD
     image_description:
   - image_path: /assets/images/fullsizeoutput-a79.jpeg
-    image_title: Still Life with Bluebird
+    image_title: >-
+      Still Life with Bluebird 2017 16 inch sq ( 40.6 cm sq ) Acrylic on Canvas
+      SOLD
     image_description:
   - image_path: /assets/images/img-1804.JPG
     image_title: Large Daytime Harbour
