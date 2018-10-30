@@ -34,7 +34,7 @@ images:
     image_title: Large Daytime Harbour 2017 ~ 24 inch sq ( 61cm sq ) Acrylic on Canvas
     image_description:
   - image_path: /assets/images/fullsizeoutput-a7e.jpeg
-    image_title: Small Nightime Harbour
+    image_title: Small Nightime Harbour SOLD
     image_description:
   - image_path: /assets/images/4f4bf5c66b160.jpg
     image_title: Small Bird
