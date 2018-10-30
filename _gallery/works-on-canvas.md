@@ -20,7 +20,7 @@ images:
       36&quot;x24&quot; - 91cm x 61cm, This work is framed with glass. White
       frame., Acrylic , glitter, beads &amp; fabric on Canvas, 2009
   - image_path: /assets/images/img-2095.jpg
-    image_title: Fish with Gold
+    image_title: Fish with Gold ~ Acrylic on Canvas 12 inch sq ( 30cm sq )
     image_description:
   - image_path: /assets/images/fullsizeoutput-a64.jpeg
     image_title: >-
