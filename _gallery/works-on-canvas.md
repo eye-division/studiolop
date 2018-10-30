@@ -70,7 +70,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/4d9fbcd6a0c70.jpg
-    image_title: Glitter
+    image_title: Glitter SOLD
     image_description: '9&quot;x12&quot;, 2011,'
   - image_path:
     image_title:
