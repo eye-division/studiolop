@@ -76,7 +76,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/4f4bdfff0ea0d.jpg
-    image_title: Small Bird
+    image_title: Small Bird SOLD
     image_description: '6x12inch - 15x30cm, Acrylic on Canvas, 2011,'
   - image_path: /assets/images/4da0ee1490329.jpg
     image_title: Golden
