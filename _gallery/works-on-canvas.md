@@ -1,7 +1,10 @@
 ---
 title: Works on canvas
 _hide_content: true
-description_markdown: 'All works on canvas are using acrylic based paint, at times incorporating pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue paper.'
+description_markdown: >-
+  All works on canvas are using acrylic based paint, at times incorporating
+  pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue
+  paper.
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/pink-party.jpg
@@ -11,12 +14,16 @@ images:
     image_description:
   - image_path: /assets/images/4bbf52ffcc33d.jpg
     image_title: Sitting Woman
-    image_description: '36&quot;x24&quot; - 91cm x 61cm, This work is framed with glass. White frame., Acrylic , glitter, beads &amp; fabric on Canvas, 2009'
+    image_description: >-
+      36&quot;x24&quot; - 91cm x 61cm, This work is framed with glass. White
+      frame., Acrylic , glitter, beads &amp; fabric on Canvas, 2009
   - image_path: /assets/images/img-2095.jpg
     image_title: Fish with Gold
     image_description:
   - image_path: /assets/images/fullsizeoutput-a64.jpeg
-    image_title: Still Life with Tea Pot
+    image_title: >-
+      Still Life with Tea Pot  2017 ~ 16 inch sq ( 40.46 cm sq ) Acrylic on
+      Canvas SOLD
     image_description:
   - image_path: /assets/images/fullsizeoutput-a79.jpeg
     image_title: Still Life with Bluebird
@@ -70,7 +77,7 @@ images:
   - image_path: /assets/images/4da0ee1490329.jpg
     image_title: Golden
   - image_path: /assets/images/4da8c578e6006.jpg
-    image_title: 'Oscar & The Bird'
+    image_title: Oscar & The Bird
     image_description: '10&quot;x20&quot;/ 26x51cm, 2011,'
   - image_path:
     image_title:
@@ -82,7 +89,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/4e67c0db678eb.jpg
-    image_title: 'Celebration !'
+    image_title: Celebration !
     image_description: '40 inch x 30 inch, Acrylic on Canvas, 2011,'
   - image_path:
     image_title: The Singer
@@ -192,10 +199,10 @@ images:
     image_title: Small still life
     image_description: '8&quot;x8&quot;, Acrylic on Canvas, 2014'
   - image_path: /assets/images/53ff40e592e25.jpg
-    image_title: 'Woman & Wallpaper'
+    image_title: Woman & Wallpaper
     image_description: '8&quot;x8&quot;, Acrylic on Canvas, 2014'
   - image_path: /assets/images/5728f79aba16f.jpg
-    image_title: 'Gorgeous !'
+    image_title: Gorgeous !
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting
     image_description: '4.11ft x 3.4ft ( 150cm x 100cm ), Acrylic on Canvas, 2016,'
