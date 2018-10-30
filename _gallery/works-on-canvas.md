@@ -10,7 +10,9 @@ permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/pink-party.jpg
 images:
   - image_path: /assets/images/pink-party.jpg
-    image_title:
+    image_title: >-
+      Party Painting on Pink 2016 Acrylic on Box Canvas ~ 40 x 20 inch ( 100 x
+      50 cm )
     image_description:
   - image_path: /assets/images/4bbf52ffcc33d.jpg
     image_title: Sitting Woman
