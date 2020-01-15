@@ -25,8 +25,8 @@ images:
   - image_path: /assets/images/img-0624.JPG
     image_title: Acrylic on Canvas 4ftx31inch ( 1.22x79cm ) SOLD
     image_description:
-  - image_path: /assets/images/img-1804.JPG
-    image_title: Large Daytime Harbour 2017 ~ 24 inch sq ( 61cm sq ) Acrylic on Canvas
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/fullsizeoutput-a7e.jpeg
     image_title: Small Nightime Harbour SOLD
