@@ -2,26 +2,51 @@
 layout: page
 main_image_path: /assets/images/booklcub2.jpg
 main_image_title: The Bookclub - Acrylic on Box Canvas - 1x1meter ( 40x40inch )
+_options:
+  layout:
+    hidden: true
+  image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  main_image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  content:
+    uploads_dir: "assets/:year"
+_comments:
+  main_image_path: Cover image
+  main_image_caption: Alt text for cover image
+  carousel: Edit the slideshow
+  show_carousel: Show the slideshow
+  show_blog: Show your latest posts on the homepage
+  posts_number: How many posts to show
+  alink: Optional web link from the slide
+  caption: optional caption
 ---
 
 <div class="page">
 
+    <div>
+      <div class="half textleft editable"><h3 class="pink">barbara harrison caban</h3></div>
+      <div class="half textright editable"><h3>artist &amp; designer</h3></div>
+    </div>
     <div class="editable">
-    <div class="half textleft"><h3 class="pink">barbara harrison caban</h3></div>
-    <div class="half textright"><h3>artist &amp; designer</h3></div>
     </div>
 
-      <div class="gallery">
+    <div class="gallery">
 
-        {% if page.main_image_path %}
-          {% include img.html src=page.main_image_path width=760 height=500 alt=page.main_image_title %}
-          <p>{{ page.main_image_title }}</p>
-        {% endif %}
+      {% if page.main_image_path %}
+        {% include img.html src=page.main_image_path alt=page.main_image_title %}
+        <p>{{ page.main_image_title }}</p>
+      {% endif %}
 
-      </div>
+    </div>
 
-      <div class="editor-link">
-        <!-- Editor Link to site status -->
-        <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
-      </div>
+
   </div>
