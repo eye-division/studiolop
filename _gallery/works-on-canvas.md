@@ -195,9 +195,9 @@ images:
   - image_path:
     image_title:
     image_description: '8&quot;x8&quot;, Acrylic on Canvas, 2014'
-  - image_path: /assets/images/53ff40e592e25.jpg
-    image_title: Woman & Wallpaper
-    image_description: '8&quot;x8&quot;, Acrylic on Canvas, 2014'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/5728f79aba16f.jpg
     image_title: Gorgeous !
   - image_path: /assets/images/58711c18bd66a.jpg
