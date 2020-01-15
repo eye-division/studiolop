@@ -25,8 +25,8 @@ images:
   - image_path: /assets/images/img-0624.JPG
     image_title: Acrylic on Canvas 4ftx31inch ( 1.22x79cm ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/booklcub2-1.jpg
+    image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
     image_description:
   - image_path: /assets/images/fullsizeoutput-a7e.jpeg
     image_title: Small Nightime Harbour SOLD
