@@ -19,16 +19,14 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+
 permalink: pretty
 
 uploads_dir: "assets/images"
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-eyegallery-dev.imgix.net"
+  staging: "https://ed-eyegallery-dev.imgix.net"
   production: "https://ed-studiolop.imgix.net"
 
 # Collections Example
