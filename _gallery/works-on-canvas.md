@@ -118,8 +118,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/516eb7c9c4453.jpg
-    image_title: Young Man
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/516ec0861cef8.jpg
     image_title: Dusk
