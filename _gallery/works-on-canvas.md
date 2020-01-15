@@ -127,9 +127,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/516eea700a4ac.jpg
-    image_title: Scull Cap
-    image_description: '12&quot;x12&quot;, Acrylic on Canvas'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
