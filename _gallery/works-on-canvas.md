@@ -198,8 +198,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/5728f79aba16f.jpg
-    image_title: Gorgeous !
+  - image_path:
+    image_title:
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting
     image_description: '4.11ft x 3.4ft ( 150cm x 100cm ), Acrylic on Canvas, 2016,'
