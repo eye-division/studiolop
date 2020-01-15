@@ -121,9 +121,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/516ec0861cef8.jpg
-    image_title: Dusk
-    image_description: 'Acrylic on Canvas, 2007'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
