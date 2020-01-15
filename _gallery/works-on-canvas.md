@@ -180,9 +180,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/53fdf4904bc10.jpg
-    image_title: Flower Bird on Purple
-    image_description: '8inch x 8inch =, Acrylic on Canvas, 2014'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
