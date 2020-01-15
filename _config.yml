@@ -1,10 +1,6 @@
-# External gems
-gems:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
+plugins:
+   - jekyll-seo-tag
 
-exclude:
-  - "/vendor/"
 
 # Site settings
 title: Barbara Caban
@@ -33,7 +29,7 @@ uploads_dir: "assets/images"
 # Image CDN
 imagecdn:
   #staging: "http://ed-eyegallery-dev.imgix.net"
-  production: "http://ed-studiolop.imgix.net"
+  production: "https://ed-studiolop.imgix.net"
 
 # Collections Example
 collections:
