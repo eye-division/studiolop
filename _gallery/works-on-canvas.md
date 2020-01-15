@@ -103,9 +103,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4f9abdfdd5b1d.jpg
-    image_title: Pale Pink
-    image_description: '18&quot;x18&quot;, Acrylic on Canvas, 2012,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
