@@ -191,7 +191,7 @@ images:
     image_description:
   - image_path: /assets/images/5417350894b5b.jpg
     image_title: Moonlit Party
-    image_description: '4ft x 30inch + 1.20cm x 76cm, Acrylic on Canvas, 2014'
+    image_description: '4ft x 30inch + 1.20cm x 76cm, Acrylic on Canvas, 2014 SOLD'
   - image_path:
     image_title:
     image_description: '8&quot;x8&quot;, Acrylic on Canvas, 2014'
