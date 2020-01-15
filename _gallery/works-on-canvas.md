@@ -73,8 +73,8 @@ images:
     image_description:
   - image_path:
     image_title: Golden
-  - image_path: /assets/images/4da8c578e6006.jpg
-    image_title: Oscar & The Bird SOLD
+  - image_path:
+    image_title:
     image_description: '10&quot;x20&quot;/ 26x51cm, 2011,'
   - image_path:
     image_title:
