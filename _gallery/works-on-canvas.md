@@ -168,9 +168,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/53540ccb5944a.jpg
-    image_title: Thinker
-    image_description: Acrylic on Canvas NFS
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
