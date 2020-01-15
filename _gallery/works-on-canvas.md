@@ -94,9 +94,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4f9ac00424cb7.jpg
+  - image_path:
     image_title: Memories
-    image_description: '22 1/2x1 81/2, Work is framed, Acrylic on Canvas, 2005,'
+    image_description:
   - image_path:
     image_title:
     image_description:
