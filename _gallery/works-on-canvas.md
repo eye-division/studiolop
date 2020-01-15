@@ -14,8 +14,10 @@ images:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
-  - image_path: /assets/images/img-2095.jpg
-    image_title: Fish with Gold ~ Acrylic on Canvas 12 inch sq ( 30cm sq )
+  - image_path: /assets/images/img-3800-1.JPG
+    image_title: >-
+      Party on Deep Pink 40x47inch ( 1.20x1.00cm ) Acrylic on Box Canvas
+      AVAILABLE
     image_description:
   - image_path: /assets/images/fullsizeoutput-a64.jpeg
     image_title: >-
