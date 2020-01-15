@@ -136,9 +136,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/5178267e7aa13.jpg
-    image_title: Blossom
-    image_description: '10&quot;x10&quot;, Acrylic on Canvas, 2011'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/517826e012f18.jpg
     image_title: Fancy Bird
     image_description: '8x8inch, Acrylic on Canvas, 2006, SOLD'
