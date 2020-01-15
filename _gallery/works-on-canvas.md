@@ -159,9 +159,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/532e12de1ec64.jpg
-    image_title: Friends
-    image_description: '60x45cm, Acrylic on Canvas, 2014,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
