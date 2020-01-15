@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> ![](/assets/images/photo-me-painting.JPG){: width="828" height="828"}Thanks to art,instead of seeing one world,we see it multiplied and as many original artists there are,so many worlds at our disposal ~ Proust
+> ![](/assets/images/photo-me-painting.JPG){: width="828" height="828"}**Thanks to art,instead of seeing one world,we see it multiplied and as many original artists there are,so many worlds at our disposal ~ Proust**
 
 Barbara Harrison Caban is a Swedish born artist & designer who devides her time between her studios in Oxford UK & New York City USA. Her main focus in on painting but she also explores textiles,papier mache , wood sculpture & other decorative arts. She is a member of Art Weeks - Oxfordshires Annual Art Festival , BWAC - Brooklyn Waterfront Artist Coalition and PLG Arts .Barbara exhibits regulary in the UK & USA and her work is sold widely. Commissions are welcome.&nbsp;
 
