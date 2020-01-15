@@ -1,10 +1,7 @@
 ---
-title: Works on canvas
+title: Party Paintings & Social Gatherings
 _hide_content: true
-description_markdown: >-
-  All works on canvas are using acrylic based paint, at times incorporating
-  pastels and mixed media such as beads, glitter, varnish ( shelack ) and tissue
-  paper.
+description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/pink-party.jpg
@@ -14,11 +11,9 @@ images:
     image_description: >-
       Party Painting on Pink 2016 Acrylic on Box Canvas ~ 40 x 20 inch ( 100 x
       50 cm )
-  - image_path: /assets/images/4bbf52ffcc33d.jpg
-    image_title: Sitting Woman
-    image_description: >-
-      36&quot;x24&quot; - 91cm x 61cm, This work is framed with glass. White
-      frame., Acrylic , glitter, beads &amp; fabric on Canvas, 2009
+  - image_path: /assets/images/barbara-harrison-caban.jpg
+    image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
+    image_description:
   - image_path: /assets/images/img-2095.jpg
     image_title: Fish with Gold ~ Acrylic on Canvas 12 inch sq ( 30cm sq )
     image_description:
