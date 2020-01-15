@@ -139,9 +139,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/517826e012f18.jpg
-    image_title: Fancy Bird
-    image_description: '8x8inch, Acrylic on Canvas, 2006, SOLD'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
