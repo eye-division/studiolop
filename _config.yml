@@ -26,7 +26,7 @@ uploads_dir: "assets/images"
 
 # Image CDN
 imagecdn:
-  staging: "https://ed-eyegallery-dev.imgix.net"
+  staging: "https://ed-studiolop-dev.imgix.net"
   production: "https://ed-studiolop.imgix.net"
 
 # Collections Example
