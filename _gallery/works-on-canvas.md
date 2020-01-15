@@ -22,10 +22,8 @@ images:
   - image_path: /assets/images/fullsizeoutput-ca2.jpeg
     image_title: Commission - SOLD - Acrylic on Canvas 4ftx30inch 9 1.20x76cm )
     image_description:
-  - image_path: /assets/images/fullsizeoutput-a79.jpeg
-    image_title: >-
-      Still Life with Bluebird 2017 16 inch sq ( 40.6 cm sq ) Acrylic on Canvas
-      SOLD
+  - image_path: /assets/images/img-0624.JPG
+    image_title: Acrylic on Canvas 4ftx31inch ( 1.22x79cm ) SOLD
     image_description:
   - image_path: /assets/images/img-1804.JPG
     image_title: Large Daytime Harbour 2017 ~ 24 inch sq ( 61cm sq ) Acrylic on Canvas
