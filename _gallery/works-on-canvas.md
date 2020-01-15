@@ -133,9 +133,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/517822255e9cc.jpg
-    image_title: Red Flower on Gold
-    image_description: '7&quot;x5&quot;, Acrylic on Canvas, 2013'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/5178267e7aa13.jpg
     image_title: Blossom
     image_description: '10&quot;x10&quot;, Acrylic on Canvas, 2011'
