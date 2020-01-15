@@ -40,9 +40,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4f46c2f1266df.jpg
+  - image_path:
     image_title: Small Flowers
-    image_description: '6x12inch - 15x30cm, Acrylic on Canvas, 2012, SOLD'
+    image_description:
   - image_path: /assets/images/4d94eaeadfae7.jpg
     image_title: Pink Flower ~ Acrylic on Hessian/Burlap 24 x 22 inch ( 61 x 56 cm )
   - image_path:
