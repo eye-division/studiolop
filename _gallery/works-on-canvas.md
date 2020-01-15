@@ -19,10 +19,8 @@ images:
       Party on Deep Pink 40x47inch ( 1.20x1.00cm ) Acrylic on Box Canvas
       AVAILABLE
     image_description:
-  - image_path: /assets/images/fullsizeoutput-a64.jpeg
-    image_title: >-
-      Still Life with Tea Pot  2017 ~ 16 inch sq ( 40.46 cm sq ) Acrylic on
-      Canvas SOLD
+  - image_path: /assets/images/fullsizeoutput-ca2.jpeg
+    image_title: Commission - SOLD - Acrylic on Canvas 4ftx30inch 9 1.20x76cm )
     image_description:
   - image_path: /assets/images/fullsizeoutput-a79.jpeg
     image_title: >-
