@@ -6,9 +6,11 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/mixed-media/
 main_image_path: /assets/images/small-harbour.JPG
 images:
-  - image_path: /assets/images/4f70ad87c1a95.jpg
-    image_title: Spring Flowers Pillow / Cushion Cover
-    image_description: '18''x18'', Acrylic based Textile paints on Cotton, 2012,'
+  - image_path: /assets/images/small-harbour-1.JPG
+    image_title: >-
+      Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch )
+      AVAILABLE
+    image_description:
   - image_path: /assets/images/4c8e8d822c53a.jpg
     image_title: Daisies Pillow/Cushion Cover
     image_description: '18&quot;x18&quot;, Acrylic based Textile paints on Cotton, 2009,'
