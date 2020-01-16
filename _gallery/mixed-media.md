@@ -4,7 +4,7 @@ _hide_content: true
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/mixed-media/
-main_image_path: /assets/images/4f70ad87c1a95.jpg
+main_image_path: /assets/images/small-harbour.JPG
 images:
   - image_path: /assets/images/4f70ad87c1a95.jpg
     image_title: Spring Flowers Pillow / Cushion Cover
