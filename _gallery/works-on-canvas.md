@@ -28,17 +28,19 @@ images:
   - image_path: /assets/images/booklcub2-1.jpg
     image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/garden-party.JPG
+    image_title: >-
+      Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
+      AVAILABLE
     image_description:
-  - image_path:
-    image_title: Small Bird SOLD
+  - image_path: /assets/images/dinner-party-in-summer-with-dog.JPG
+    image_title: Dinner Summer Party  2019 - Acrylic on Canvas 60cm sq (24inch sq ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/card-game---commission.jpg
+    image_title: Card Game - Commission SOLD - Acrylic on Box Canvas 60cm sq ( 24inch sq )
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/yellow-party.JPG
+    image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
   - image_path:
     image_title: Small Flowers
