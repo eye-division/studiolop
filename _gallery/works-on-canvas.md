@@ -28,8 +28,10 @@ images:
   - image_path: /assets/images/booklcub2-1.jpg
     image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/garden-party.JPG
+    image_title: >-
+      Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
+      AVAILABLE
     image_description:
   - image_path:
     image_title: Small Bird SOLD
