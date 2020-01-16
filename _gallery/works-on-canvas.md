@@ -36,8 +36,8 @@ images:
   - image_path: /assets/images/dinner-party-in-summer-with-dog.JPG
     image_title: Dinner Summer Party  2019 - Acrylic on Canvas 60cm sq (24inch sq ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/card-game---commission.jpg
+    image_title: Card Game - Commission SOLD - Acrylic on Box Canvas 60cm sq ( 24inch sq )
     image_description:
   - image_path:
     image_title:
