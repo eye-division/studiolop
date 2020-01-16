@@ -11,9 +11,11 @@ images:
       Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch )
       AVAILABLE
     image_description:
-  - image_path: /assets/images/4c8e8d822c53a.jpg
-    image_title: Daisies Pillow/Cushion Cover
-    image_description: '18&quot;x18&quot;, Acrylic based Textile paints on Cotton, 2009,'
+  - image_path: /assets/images/barbara-harrison-caban-oxford-city.JPG
+    image_title: >-
+      Harbour with 2 Orange Houses - Acrylic on Box Canvas - 60x60cm ( 24x24inch
+      ) SOLD
+    image_description:
   - image_path: /assets/images/4c8e8e2c79394.jpg
     image_title: Cobalt Blue Pillow/Cushion Cover
     image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton SOLD'
