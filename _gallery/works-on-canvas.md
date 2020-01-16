@@ -39,8 +39,8 @@ images:
   - image_path: /assets/images/card-game---commission.jpg
     image_title: Card Game - Commission SOLD - Acrylic on Box Canvas 60cm sq ( 24inch sq )
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/yellow-party.JPG
+    image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
   - image_path:
     image_title: Small Flowers
