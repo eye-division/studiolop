@@ -33,8 +33,8 @@ images:
       Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
       AVAILABLE
     image_description:
-  - image_path:
-    image_title: Small Bird SOLD
+  - image_path: /assets/images/dinner-party-in-summer-with-dog.JPG
+    image_title: Dinner Summer Party  2019 - Acrylic on Canvas 60cm sq (24inch sq ) SOLD
     image_description:
   - image_path:
     image_title:
