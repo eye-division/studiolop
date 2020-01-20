@@ -16,9 +16,11 @@ images:
       Harbour with 2 Orange Houses - Acrylic on Box Canvas - 60x60cm ( 24x24inch
       ) SOLD
     image_description:
-  - image_path: /assets/images/4c8e8e2c79394.jpg
-    image_title: Cobalt Blue Pillow/Cushion Cover
-    image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton SOLD'
+  - image_path: /assets/images/img-5941.jpg
+    image_title: >-
+      Large Night Time Harbour - Acrylic on Box Canvas 60x90cm ( 24x36inch ) -
+      AVAILABLE
+    image_description:
   - image_path: /assets/images/4c8e8e8dbe4a5.jpg
     image_title: Brown Flower Pillow/Cushion Cover
     image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton'
