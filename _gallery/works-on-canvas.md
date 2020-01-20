@@ -7,10 +7,10 @@ permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/pink-party.jpg
 images:
   - image_path: /assets/images/pink-party.jpg
-    image_title: Party Painting on Pink
-    image_description: >-
-      Party Painting onLight Pink 2016 Acrylic on Box Canvas ~ 40 x 20 inch (
-      100 x 50 cm ) AVAILABLE
+    image_title: >-
+      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
+      AVAILABLE
+    image_description:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
