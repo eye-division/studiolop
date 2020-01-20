@@ -29,8 +29,10 @@ images:
       Harbour 2019 with Trees & Orange - Acrylic on Box Canvas - 60x60cm (
       24x24inch )
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/small-square-harbour-evening.JPG
+    image_title: >-
+      Small Evening Harbour - Acrylic on Canvas - 25x25cm ( 10x10inch )
+      AVAILABLE
     image_description:
   - image_path:
     image_title:
