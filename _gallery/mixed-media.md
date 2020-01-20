@@ -30,9 +30,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4c8e92e59c236.jpg
-    image_title: Orange Flowers Pillow/Cushion Cover
-    image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4c8e932ba2a7c.jpg
     image_title: Three Trees Pillow/Cushion Cover
     image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton, 2009,'
