@@ -39,9 +39,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4cb7785f2e785.jpg
-    image_title: Wood Sculpture
-    image_description: 'Wood, Acrylic &amp; Varnish, 2009, SOLD'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4cb77a76bbab2.jpg
     image_title: Wood Sculpture
     image_description: 'Wood,acrylic &amp; varnish, 2009, SOLD'
