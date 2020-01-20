@@ -99,8 +99,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d9fc33ce0c7c.jpg
-    image_title: Box
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4e947bb45d264.jpg
     image_title: Tea Cosie
