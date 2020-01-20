@@ -7,10 +7,10 @@ permalink: /gallery/works-on-canvas/
 main_image_path: /assets/images/pink-party.jpg
 images:
   - image_path: /assets/images/pink-party.jpg
-    image_title: Party Painting on Pink
-    image_description: >-
-      Party Painting onLight Pink 2016 Acrylic on Box Canvas ~ 40 x 20 inch (
-      100 x 50 cm ) AVAILABLE
+    image_title: >-
+      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
+      AVAILABLE
+    image_description:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
@@ -192,8 +192,8 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/5417350894b5b.jpg
-    image_title: Moonlit Party
-    image_description: '4ft x 30inch + 1.20cm x 76cm, Acrylic on Canvas, 2014 SOLD'
+    image_title: Moonlit Party -  Acrylic on Canvas - 1.20x76cm ( 4ftx30inch ) - SOLD
+    image_description:
   - image_path:
     image_title:
     image_description: '8&quot;x8&quot;, Acrylic on Canvas, 2014'
@@ -203,8 +203,8 @@ images:
   - image_path:
     image_title:
   - image_path: /assets/images/58711c18bd66a.jpg
-    image_title: Party Painting
-    image_description: '4.11ft x 3.4ft ( 150cm x 100cm ), Acrylic on Canvas, 2016, SOLD'
+    image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
+    image_description:
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
