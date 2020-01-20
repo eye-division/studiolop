@@ -72,9 +72,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d9f503f0628e.jpg
-    image_title: Bird Pillow/Cushion Cover
-    image_description: '18, 2010,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4d9f508cc354f.jpg
     image_title: Queen on Orange Pillow/Cushion Cover
     image_description: '18x18, Acrylic based Textile paints on Cotton, 2010,'
