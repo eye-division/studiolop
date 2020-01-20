@@ -63,8 +63,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d96208d8f677.jpg
-    image_title: Mermaid Mirror ~ Papier Mache
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4d96217401d26.jpg
     image_title: Fish Mirror ~ Papier Mache
