@@ -60,9 +60,9 @@ images:
   - image_path:
     image_title:
     image_description: '1'
-  - image_path: /assets/images/4f70abf1723ef.jpg
-    image_title: Cat Pillow/ Cushion Cover
-    image_description: '18''x18'', Acrylic based Textile paints on Cotton, 2012,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4d96208d8f677.jpg
     image_title: Mermaid Mirror ~ Papier Mache
     image_description:
