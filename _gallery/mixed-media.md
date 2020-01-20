@@ -240,9 +240,9 @@ images:
   - image_path: /assets/images/53fdf8dcec80e.jpg
     image_title: New Cushion Cover 2014
     image_description: '18inch x 18inch, Acrylic based Textile paints on Cotton, 2014,'
-  - image_path: /assets/images/53fdffaddff92.jpg
-    image_title: Cushions & interior
-    image_description: '18''x18'', 2014, SOLD'
+  - image_path:
+    image_title:
+    image_description:
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
