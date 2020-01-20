@@ -45,9 +45,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4cb77af1555db.jpg
-    image_title: Wood Sculpture
-    image_description: 'Wood, Acrylic & Varnish, 2009,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4d4881c1a9d41.jpg
     image_title: Box
     image_description:
