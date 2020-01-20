@@ -123,9 +123,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4dcc437c96305.jpg
-    image_title: Green Bird Pillow / Cushion Cover
-    image_description: '18x18, Acrylic based Textile paints on Cotton, 2011,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4dcc43dc35e30.jpg
     image_title: Bag / 2 Long Straps
     image_description: '15&quot;x13&quot;, Acrylic based Textile paints on Cotton, 2011,'
