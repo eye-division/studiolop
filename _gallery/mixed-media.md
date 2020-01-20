@@ -54,8 +54,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d4882edc65dd.jpg
-    image_title: Box
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4f70ae1e536f8.jpg
     image_title: Three Orange Summer Flowers Pillow / Cushion Cover
