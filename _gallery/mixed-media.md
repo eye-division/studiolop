@@ -81,8 +81,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d9f52052761b.jpg
-    image_title: Wood Sculpture
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4d9f537069aee.jpg
     image_title: Black & White Flower Pillow/Cushion Cover
