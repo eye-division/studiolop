@@ -33,9 +33,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4c8e932ba2a7c.jpg
-    image_title: Three Trees Pillow/Cushion Cover
-    image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton, 2009,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4c8e93af3b748.jpg
     image_title: Two Bugs Pillow/Cushion Cover
     image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton'
