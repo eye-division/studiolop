@@ -36,9 +36,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4c8e93af3b748.jpg
-    image_title: Two Bugs Pillow/Cushion Cover
-    image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4cb7785f2e785.jpg
     image_title: Wood Sculpture
     image_description: 'Wood, Acrylic &amp; Varnish, 2009, SOLD'
