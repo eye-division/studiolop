@@ -228,9 +228,9 @@ images:
   - image_path: /assets/images/517834237f0a2.jpg
     image_title: Boat & Green Flag Pillow/Cushion Cover
     image_description: '18"x18", Acrylic based Textile paints on Cotton'
-  - image_path: /assets/images/53fdf7fcce222.jpg
-    image_title: New Cushion Cover 2014
-    image_description: '18inch x 18inch, Acrylic based Textile paints on Cotton, 2014,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
