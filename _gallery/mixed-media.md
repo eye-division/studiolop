@@ -102,8 +102,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4e947bb45d264.jpg
-    image_title: Tea Cosie
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4da0ea20135d1.jpg
     image_title: Buildings Pillow/Cushion Cover
