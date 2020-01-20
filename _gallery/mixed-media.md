@@ -111,9 +111,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4da0eaa47fc06.jpg
-    image_title: Blue Bird Pillow/Cushion Cover
-    image_description: '18x18, 2010,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4da0eadf5706b.jpg
     image_title: Sail Boat Pillow/Cushion Cover
     image_description: '18x18, 2010,'
