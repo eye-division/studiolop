@@ -132,9 +132,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4dcc443d3a6f8.jpg
-    image_title: Bag / 2 Short Straps
-    image_description: '15&quot;x13&quot;, Acrylic based Textile paints on Cotton, 2011,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4dcc448181d61.jpg
     image_title: Bag / 2 Short Straps
     image_description: '9&quot;x9&quot;, Acrylic based Textile paints on Cotton, 2011,'
