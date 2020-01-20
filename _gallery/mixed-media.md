@@ -51,8 +51,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d488241b78ff.jpg
-    image_title: Box
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4d4882edc65dd.jpg
     image_title: Box
