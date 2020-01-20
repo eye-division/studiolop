@@ -203,8 +203,8 @@ images:
   - image_path:
     image_title:
   - image_path: /assets/images/58711c18bd66a.jpg
-    image_title: Party Painting
-    image_description: '4.11ft x 3.4ft ( 150cm x 100cm ), Acrylic on Canvas, 2016, SOLD'
+    image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
+    image_description:
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
