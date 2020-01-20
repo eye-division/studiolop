@@ -66,8 +66,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d96217401d26.jpg
-    image_title: Fish Mirror ~ Papier Mache
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4d9f4f9eb4e32.jpg
     image_title: Mirror with White Flowers
