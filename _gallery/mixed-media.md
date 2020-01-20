@@ -21,9 +21,9 @@ images:
       Large Night Time Harbour - Acrylic on Box Canvas 60x90cm ( 24x36inch ) -
       AVAILABLE
     image_description:
-  - image_path: /assets/images/4c8e8e8dbe4a5.jpg
-    image_title: Brown Flower Pillow/Cushion Cover
-    image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton'
+  - image_path: /assets/images/img-1804-1.JPG
+    image_title: Harbour - Acrylic on Box Canvas - 60x60cm ( 24x24inch ) SOLD
+    image_description:
   - image_path: /assets/images/4c8e919d2a6ec.jpg
     image_title: Lime Green Flowers Pillow/Cushion Cover
     image_description: '18&quot; x 18&quot;, Acrylic based Textile paints on Cotton'
