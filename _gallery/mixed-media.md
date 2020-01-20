@@ -90,8 +90,8 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4d9fc19f629ae.jpg
-    image_title: Box
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/4d9fc266020a5.jpg
     image_title: Box
