@@ -105,9 +105,9 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/4da0ea20135d1.jpg
-    image_title: Buildings Pillow/Cushion Cover
-    image_description: '18x18, 2010,'
+  - image_path:
+    image_title:
+    image_description:
   - image_path: /assets/images/4da0ea579015d.jpg
     image_title: Buildings Pillow/Cushion Cover
     image_description: '18x18, 2010,'
