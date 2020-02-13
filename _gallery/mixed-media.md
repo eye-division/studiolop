@@ -45,8 +45,8 @@ images:
       Harbour/ Harbor - Acrylic on Canvas - 18x14inch ( 46x35cm ) This will come
       in a white float frame. AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/harbour-6x12.JPG
+    image_title: Harbour/Harbor - Acrylic on Canvas - 12x6inch ( 30x15cm approx ) AVAILABLE
     image_description:
   - image_path:
     image_title:
