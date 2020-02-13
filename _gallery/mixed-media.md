@@ -53,8 +53,10 @@ images:
       Small Night Time Harbour/Harbor - Acrylic on Canvas - 6x8inch ( 15x21cm )
       AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/fullsizeoutput-a91.jpeg
+    image_title: >-
+      Night Time Harbour/Harbor - Acrylic on Box Canvas - 18x18inch ( 46x46cm
+      approx ) SOLD
     image_description:
   - image_path:
     image_title:
