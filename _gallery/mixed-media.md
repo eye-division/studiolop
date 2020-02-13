@@ -40,17 +40,23 @@ images:
   - image_path: /assets/images/small-harbour-with-moon.jpg
     image_title: Small Harbour - Acrylic onCanvas - 30x15cm ( 12x6inch ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/harbour-18x14.JPG
+    image_title: >-
+      Harbour/ Harbor - Acrylic on Canvas - 18x14inch ( 46x35cm ) This will come
+      in a white float frame. AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/harbour-6x12.JPG
+    image_title: Harbour/Harbor - Acrylic on Canvas - 12x6inch ( 30x15cm approx ) AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/small-night-harbour.JPG
+    image_title: >-
+      Small Night Time Harbour/Harbor - Acrylic on Canvas - 6x8inch ( 15x21cm )
+      AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/fullsizeoutput-a91.jpeg
+    image_title: >-
+      Night Time Harbour/Harbor - Acrylic on Box Canvas - 18x18inch ( 46x46cm
+      approx ) SOLD
     image_description:
   - image_path:
     image_title:
