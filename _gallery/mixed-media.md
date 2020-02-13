@@ -48,8 +48,10 @@ images:
   - image_path: /assets/images/harbour-6x12.JPG
     image_title: Harbour/Harbor - Acrylic on Canvas - 12x6inch ( 30x15cm approx ) AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/small-night-harbour.JPG
+    image_title: >-
+      Small Night Time Harbour/Harbor - Acrylic on Canvas - 6x8inch ( 15x21cm )
+      AVAILABLE
     image_description:
   - image_path:
     image_title:
