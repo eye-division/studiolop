@@ -30,7 +30,7 @@ images:
     image_title: Sleeping Dog on Yellow - acrylic on Canvas 8x8inch ( 20x20cm ) AVAILABLE
     image_description:
   - image_path: /assets/images/img-1789.JPG
-    image_title: LUNA - Commission - Acrylic on Canvas 10x10inch ( 25.5x25.5cm ) SOLD
+    image_title: LUNA - Commission - Acrylic on Canvas 12x12inch ( 30x30cm approx ) SOLD
     image_description:
   - image_path: /assets/images/img-1575.JPG
     image_title: >-
