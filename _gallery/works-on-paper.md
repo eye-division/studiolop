@@ -7,8 +7,8 @@ permalink: /gallery/works-on-paper/
 main_image_path:
 images:
   - image_path: /assets/images/5159fda720182.jpg
-    image_title: Romano
-    image_description: '12inch x 12inch, Acrylic on Acrylic, linen finished paper, 2013, SOLD,'
+    image_title: ROMANO - Acrylic on Canvas paper - 12x12inch ( 45.5x45.5cm ) SOLD
+    image_description:
   - image_path: /assets/images/516eb22fb866b.jpg
     image_title: 'Romano III,12'
     image_description: 'Acrylic on Acrylic,linen finished paper, 2013, SOLD,'
