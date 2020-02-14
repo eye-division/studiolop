@@ -24,6 +24,11 @@ images:
   - image_path: /assets/images/img-1789.JPG
     image_title: LUNA - Commission - Acrylic on Canvas 10x10inch ( 25.5x25.5cm ) SOLD
     image_description:
+  - image_path: /assets/images/img-1575.JPG
+    image_title: >-
+      PERLE - Commission _ Acrylic on Canvaspaper - 12x12inch ( 45.5x45.5cm )
+      SOLD
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
