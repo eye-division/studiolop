@@ -34,8 +34,8 @@ images:
     image_description:
   - image_path: /assets/images/img-1575.JPG
     image_title: >-
-      PERLE - Commission _ Acrylic on Canvaspaper - 12x12inch ( 45.5x45.5cm )
-      SOLD
+      PERLE - Commission _ Acrylic on Canvaspaper - 12x12inch ( 30x30cm  approx
+      ) SOLD
     image_description:
   - image_path: /assets/images/dog-with-pink-collar-1.jpg
     image_title: >-
