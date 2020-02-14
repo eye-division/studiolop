@@ -4,7 +4,7 @@ _hide_content: true
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/works-on-paper/
-main_image_path: /assets/images/dog-with-pink-collar.jpg
+main_image_path: /assets/images/img-0823.JPG
 images:
   - image_path: /assets/images/5159fda720182.jpg
     image_title: >-
