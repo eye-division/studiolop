@@ -68,6 +68,11 @@ images:
       Sleeping dog on red - Acrylic on canvas - 8x8inch ( 20.5x20.5cm )
       AVAILABLE
     image_description:
+  - image_path: /assets/images/framed-dogs.JPG
+    image_title: Dogs -Framed - Gold wood frame - 12x12inch  ( 45.5x45.5cm ) AVAILABLE
+    image_description: |-
+      These dog portraits can be sold framed or unframed .
+      Email for details.
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
