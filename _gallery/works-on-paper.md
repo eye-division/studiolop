@@ -69,7 +69,7 @@ images:
       AVAILABLE
     image_description:
   - image_path: /assets/images/framed-dogs.JPG
-    image_title: Dogs -Framed - Gold wood frame - 12x12inch  ( 45.5x45.5cm ) AVAILABLE
+    image_title: Dogs -Framed - Gold wood frame - 12x12inch  ( 30x30cm  approx ) AVAILABLE
     image_description: |-
       These dog portraits can be sold framed or unframed .
       Email for details.
