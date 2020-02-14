@@ -47,6 +47,11 @@ images:
       Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
       45.5x45.5cm ) AVAILABLE
     image_description:
+  - image_path: /assets/images/toung-out-dog.jpg
+    image_title: >-
+      Tongue out dog - Acrylic on canvas linen finished paper - 12x12inch (
+      45.5x45.5cm ) AVAILABLE
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
