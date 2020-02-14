@@ -1,35 +1,78 @@
 ---
-title: Works on paper
+title: Dog Portraits
 _hide_content: true
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/works-on-paper/
-main_image_path:
+main_image_path: /assets/images/img-0823.JPG
 images:
-  - image_path: /assets/images/img-2163.JPG
-    image_title: Fish - Monoprint
-    image_description: '40cm x40cm, Lino Print, 2008'
   - image_path: /assets/images/5159fda720182.jpg
-    image_title: Romano
-    image_description: '12inch x 12inch, Acrylic on Acrylic, linen finished paper, 2013, SOLD,'
+    image_title: >-
+      ROMANO - Acrylic on canvas,linen finished paper, - 12x12inch ( 30x30cm 
+      approx) SOLD
+    image_description:
   - image_path: /assets/images/516eb22fb866b.jpg
-    image_title: 'Romano III,12'
-    image_description: 'Acrylic on Acrylic,linen finished paper, 2013, SOLD,'
+    image_title: >-
+      Dog - Acrylic on Canvas,linen finished paper - 12x12inch ( 30x30cm approx)
+      SOLD
+    image_description:
   - image_path: /assets/images/516eb1e223524.jpg
-    image_title: Romano II
+    image_title: >-
+      Romano II - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
+      approx ) SOLD
     image_description: '12"x12",Acrylic on Acrylic, linen finished paper, 2013'
   - image_path: /assets/images/516eb2825f981.jpg
-    image_title: Romano IIII
-    image_description: 'Acrylic on Acrylic , linen finished paper, 2013, SOLD,'
-  - image_path: /assets/images/5728f80f5c8e8.jpg
-    image_title: Silkscreen print
-    image_description: Silkscreen
-  - image_path: /assets/images/5728f83ed0ead.jpg
-    image_title: Pretty Pink Pike Silkscreen
-    image_description: '2016'
-  - image_path: /assets/images/5728f8a25a091.jpg
-    image_title: Life as a Fish Silkscreen
+    image_title: >-
+      Romano III - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm 
+      approx) SOLD
     image_description:
+  - image_path: /assets/images/7b90ab73-7e9c-427d-b096-e5a021f980d1.jpg
+    image_title: Sleeping Dog on Yellow - acrylic on Canvas 8x8inch ( 20x20cm ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/img-1789.JPG
+    image_title: LUNA - Commission - Acrylic on Canvas 12x12inch ( 30x30cm approx ) SOLD
+    image_description:
+  - image_path: /assets/images/img-1575.JPG
+    image_title: >-
+      PERLE - Commission _ Acrylic on Canvaspaper - 12x12inch ( 30x30cm  approx
+      ) SOLD
+    image_description:
+  - image_path: /assets/images/dog-with-pink-collar-1.jpg
+    image_title: >-
+      Black dog with pink collar - Acrylic on canvas linen finished paper  -
+      12x12inch ( 30x30cm approx ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/grey-dog.jpg
+    image_title: >-
+      Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
+      30x30cm approx ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/toung-out-dog.jpg
+    image_title: >-
+      Tongue out dog - Acrylic on canvas linen finished paper - 12x12inch (
+      30x30cm approx ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/brown-dog.jpg
+    image_title: >-
+      Brown dog - acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
+      approx ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/fudge.JPG
+    image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
+    image_description:
+  - image_path: /assets/images/dog-on-blue.jpg
+    image_title: Dog on blue - Acrylic on canvas - 8x8inch ( 20.5x20.5cm ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/sleeoing-dog-on-red.JPG
+    image_title: >-
+      Sleeping dog on red - Acrylic on canvas - 8x8inch ( 20.5x20.5cm )
+      AVAILABLE
+    image_description:
+  - image_path: /assets/images/framed-dogs.JPG
+    image_title: Dogs -Framed - Gold wood frame - 12x12inch  ( 30x30cm  approx ) AVAILABLE
+    image_description: |-
+      These dog portraits can be sold framed or unframed .
+      Email for details.
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
