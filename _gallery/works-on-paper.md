@@ -23,8 +23,8 @@ images:
     image_description: '12"x12",Acrylic on Acrylic, linen finished paper, 2013'
   - image_path: /assets/images/516eb2825f981.jpg
     image_title: >-
-      Romano III - Acrylic on canvas linen finished paper - 12x12inch (
-      45.5x45.5cm ) SOLD
+      Romano III - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm 
+      approx) SOLD
     image_description:
   - image_path: /assets/images/7b90ab73-7e9c-427d-b096-e5a021f980d1.jpg
     image_title: Sleeping Dog on Yellow - acrylic on Canvas 8x8inch ( 20x20cm ) AVAILABLE
