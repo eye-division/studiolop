@@ -18,6 +18,9 @@ images:
   - image_path: /assets/images/516eb2825f981.jpg
     image_title: Romano IIII
     image_description: 'Acrylic on Acrylic , linen finished paper, 2013, SOLD,'
+  - image_path: /assets/images/7b90ab73-7e9c-427d-b096-e5a021f980d1.jpg
+    image_title: Sleeping Dog on Yellow - acrylic on Canvas 8x8inch ( 20x20cm ) AVAILABLE
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
