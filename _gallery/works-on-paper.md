@@ -10,8 +10,10 @@ images:
     image_title: ROMANO - Acrylic on Canvas paper - 12x12inch ( 45.5x45.5cm ) SOLD
     image_description:
   - image_path: /assets/images/516eb22fb866b.jpg
-    image_title: 'Romano III,12'
-    image_description: 'Acrylic on Acrylic,linen finished paper, 2013, SOLD,'
+    image_title: >-
+      Dog - Acrylic on Canvas,linen finished paper - 12x12inch ( 45.5x45.5cm )
+      SOLD
+    image_description:
   - image_path: /assets/images/516eb1e223524.jpg
     image_title: Romano II
     image_description: '12"x12",Acrylic on Acrylic, linen finished paper, 2013'
