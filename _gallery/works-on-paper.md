@@ -45,7 +45,7 @@ images:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
       Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
-      45.5x45.5cm ) AVAILABLE
+      30x30cm approx ) AVAILABLE
     image_description:
   - image_path: /assets/images/toung-out-dog.jpg
     image_title: >-
