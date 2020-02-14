@@ -54,8 +54,8 @@ images:
     image_description:
   - image_path: /assets/images/brown-dog.jpg
     image_title: >-
-      Brown dog - acrylic on canvas linen finished paper - 12x12inch (
-      45.5x45.5cm ) AVAILABLE
+      Brown dog - acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
+      approx ) AVAILABLE
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
