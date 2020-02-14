@@ -17,7 +17,9 @@ images:
       SOLD
     image_description:
   - image_path: /assets/images/516eb1e223524.jpg
-    image_title: Romano II
+    image_title: >-
+      Romano II - Acrylic on canvas linen finished paper - 12x12inch (
+      45.5x45.5cm ) SOLD
     image_description: '12"x12",Acrylic on Acrylic, linen finished paper, 2013'
   - image_path: /assets/images/516eb2825f981.jpg
     image_title: Romano IIII
