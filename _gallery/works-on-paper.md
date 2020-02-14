@@ -63,6 +63,11 @@ images:
   - image_path: /assets/images/dog-on-blue.jpg
     image_title: Dog on blue - Acrylic on canvas - 8x8inch ( 20.5x20.5cm ) AVAILABLE
     image_description:
+  - image_path: /assets/images/sleeoing-dog-on-red.JPG
+    image_title: >-
+      Sleeping dog on red - Acrylic on canvas - 8x8inch ( 20.5x20.5cm )
+      AVAILABLE
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
