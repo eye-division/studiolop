@@ -40,7 +40,7 @@ images:
   - image_path: /assets/images/dog-with-pink-collar-1.jpg
     image_title: >-
       Black dog with pink collar - Acrylic on canvas linen finished paper  -
-      12x12inch ( 45.5x45.5cm ) AVAILABLE
+      12x12inch ( 30x30cm approx ) AVAILABLE
     image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
