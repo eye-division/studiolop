@@ -13,6 +13,11 @@ images:
   - image_path: /assets/images/853d6986-b342-4040-90bb-7c8ec8b00f2a.jpg
     image_description:
     image_title: BIRDS & BLOSSOM - Acrylic on canvas - 6x12inch ( 15.24x30.48cm ) SOLD
+  - image_path: /assets/images/bird---love-is.JPG
+    image_description:
+    image_title: >-
+      Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
+      30.48x30.48cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
