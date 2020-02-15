@@ -31,6 +31,11 @@ images:
     image_title: >-
       Bird on Yellow with Blossom - Acrylic on box canvas - 12x12inch (
       30.48x30.48cm ) AVAILABLE
+  - image_path: /assets/images/clay-bird.jpg
+    image_description:
+    image_title: >-
+      Clay Bird mounted on canvas paper , acrylic ,varnish/shellac - framed in a
+      shadow box w/glass 12x12inch ( 30.48x30.48cm ) AVAILABLE -
 _comments:
   title: add a Gallery title
   permalink: page URL name
