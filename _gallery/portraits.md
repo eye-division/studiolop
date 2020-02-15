@@ -32,7 +32,7 @@ images:
     image_description:
     image_title: >-
       WOMAN ON RED - Framed - Acrylic on canvas paper on wood board -
-      varnished/shellac - 20x21.5inch ) 51x55cm ) SOLD
+      varnish/shellac - 20x21.5inch ) 51x55cm ) SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
