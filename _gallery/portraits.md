@@ -38,6 +38,11 @@ images:
     image_title: >-
       WOMAN WITH BLUE HAIR - Acrylic on canvas paper on wood board - Framed -
       8x10inch ( 20x25.5cm ) AVAILABLE
+  - image_path: /assets/images/henrietta-isabella-talulah.JPG
+    image_description:
+    image_title: >-
+      Three Women - From left : Isabella - Talulah - Henrietta - Acrylic on box
+      canvas in white float frames - 8x8inch ( 20x20cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
