@@ -21,6 +21,11 @@ images:
   - image_path: /assets/images/bird-on-black.JPG
     image_description:
     image_title: Bird on Black - Acrylic on box canvas - 12x12inch ( 30.48x30.48cm ) SOLD
+  - image_path: /assets/images/bird-on-red.jpg
+    image_description:
+    image_title: >-
+      Bird on Red with Bowl - Acrylic on canvas - 12x12inch ( 30.48x30.48cm )
+      AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
