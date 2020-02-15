@@ -18,6 +18,11 @@ images:
   - image_path: /assets/images/friends-1.jpg
     image_description:
     image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) AVAILABLE
+  - image_path: /assets/images/barbara-harrison-caban---summertown-oxford-city.jpg
+    image_description:
+    image_title: >-
+      WOMAN WITH RED HAT  - Acrylic on Canvas in white wood float frame (not
+      shown ) 21x17inch ( 53x43cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
