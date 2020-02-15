@@ -48,6 +48,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/images/img-1977.JPG
+    image_description:
+    image_title: >-
+      Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
+      50x100cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
