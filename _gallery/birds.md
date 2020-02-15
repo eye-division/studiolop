@@ -41,6 +41,11 @@ images:
     image_title: >-
       Flying Bird with Trees - Acrylic on Canvas - 24x24inch ( 61x61cm )
       AVAILABLE
+  - image_path: /assets/images/framed-purple-bird.JPG
+    image_description:
+    image_title: >-
+      Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
+      ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
