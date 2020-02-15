@@ -28,6 +28,11 @@ images:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
+  - image_path: /assets/images/woman-in-red.jpg
+    image_description:
+    image_title: >-
+      WOMAN ON RED - Framed - Acrylic on canvas paper on wood board -
+      varnished/shellac - 20x21.5inch ) 51x55cm ) SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
