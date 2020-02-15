@@ -18,6 +18,9 @@ images:
     image_title: >-
       Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
       30.48x30.48cm ) AVAILABLE
+  - image_path: /assets/images/bird-on-black.JPG
+    image_description:
+    image_title: Bird on Black - Acrylic on box canvas - 12x12inch ( 30.48x30.48cm ) SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
