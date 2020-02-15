@@ -33,6 +33,11 @@ images:
     image_title: >-
       WOMAN ON RED - Framed - Acrylic on canvas paper on wood board -
       varnish/shellac - 20x21.5inch ) 51x55cm ) SOLD
+  - image_path: /assets/images/woman-with-blue-hair.jpg
+    image_description:
+    image_title: >-
+      WOMAN WITH BLUE HAIR - Acrylic on canvas paper on wood board - Framed -
+      8x10inch ( 20x25.5cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
