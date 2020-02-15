@@ -36,6 +36,11 @@ images:
     image_title: >-
       Clay Bird mounted on canvas paper , acrylic ,varnish/shellac - framed in a
       shadow box w/glass 12x12inch ( 30.48x30.48cm ) AVAILABLE -
+  - image_path: /assets/images/flying-bird.jpg
+    image_description:
+    image_title: >-
+      Flying Bird with Trees - Acrylic on Canvas - 24x24inch ( 61x61cm )
+      AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
