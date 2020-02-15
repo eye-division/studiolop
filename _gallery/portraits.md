@@ -15,6 +15,9 @@ images:
     image_title: >-
       Brunette Woman on Pink - One of a Pair - Acrylic on Box Canvas - 14x18inch
       ( 35.5x45.5cm ) AVAILABLE
+  - image_path: /assets/images/friends-1.jpg
+    image_description:
+    image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
