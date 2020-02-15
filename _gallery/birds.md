@@ -10,6 +10,9 @@ images:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
       - 18.5x12inch ( 45.72x30.48cm approx ) AVAILABLE
+  - image_path: /assets/images/853d6986-b342-4040-90bb-7c8ec8b00f2a.jpg
+    image_description:
+    image_title: BIRDS & BLOSSOM - Acrylic on canvas - 6x12inch ( 15.24x30.48cm ) SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
