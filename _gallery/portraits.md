@@ -43,6 +43,11 @@ images:
     image_title: >-
       Three Women - From left : Isabella - Talulah - Henrietta - Acrylic on box
       canvas in white float frames - 8x8inch ( 20x20cm ) AVAILABLE
+  - image_path: /assets/images/portrait-of-tracy.JPG
+    image_description:
+    image_title: >-
+      PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
+      14x18inch (35.5x45.4cm ) SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
