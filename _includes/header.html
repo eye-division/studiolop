@@ -39,9 +39,7 @@
               <ul class="submenu">
 
                 {% for subcategory in link.subcategories %}
-
                      <li><a href="{{ subcategory.subhref | prepend: site.baseurl }}">{{ subcategory.subtitle }}</a></li>
-
                 {% endfor %}
 
               </ul>
@@ -55,6 +53,17 @@
           </li>
 
           {% endif %}
+
+        {% endfor %}
+
+        <!-- end row 1 -->
+        {% assign galleries = site.gallery | sort: 'surname' %}
+        <br>
+        {% for gallery in galleries %}
+
+          <li class="nav-link{% if page.url == gallery.permalink | prepend: site.baseurl %} active{% endif %}">
+            <a href="{{ gallery.permalink | prepend: site.baseurl }}" class="">{{ gallery.title }}</a>
+          </li>
 
         {% endfor %}
 

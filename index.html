@@ -50,5 +50,20 @@ _comments:
 
     </div>
 
+  <section class="gallery">
+    {% for gallery in site.gallery %}
+
+
+        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+            <img src="{{ gallery.main_image_path }}" alt="{{ gallery.title }}"/>
+            <h4>{{ gallery.title }}</h4>
+          </a>
+        </div>
+
+    {% endfor %}
+
+  </section>
+
 
   </div>

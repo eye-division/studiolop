@@ -3,7 +3,7 @@ title: Harbour Paintings
 _hide_content: true
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/mixed-media/
+permalink: /gallery/harbour-paintings/
 main_image_path: /assets/images/small-harbour.JPG
 images:
   - image_path: /assets/images/small-harbour-1.JPG

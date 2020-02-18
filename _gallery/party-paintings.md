@@ -3,7 +3,7 @@ title: Party Paintings & Social Gatherings
 _hide_content: true
 description_markdown:
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/works-on-canvas/
+permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
   - image_path: /assets/images/pink-party.jpg
