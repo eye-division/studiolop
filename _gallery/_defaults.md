@@ -2,7 +2,7 @@
 title: 
 description_markdown: 
 _gallery_date: 
-_permalink:
+permalink:
 main_image_path:
 images:
   - image_path:

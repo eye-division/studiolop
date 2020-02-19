@@ -2,7 +2,7 @@
 title: Portraits
 description_markdown:
 _gallery_date:
-_permalink:
+permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
   - image_path: /assets/images/img-6318-jpg-blond.jpg

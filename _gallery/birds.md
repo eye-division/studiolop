@@ -2,7 +2,7 @@
 title: Birds
 description_markdown:
 _gallery_date:
-_permalink:
+permalink: /gallery/birds/
 main_image_path: /assets/images/bird-with-gold-frame.JPG
 images:
   - image_path: /assets/images/bird-with-gold-frame.JPG

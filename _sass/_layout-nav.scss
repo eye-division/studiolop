@@ -67,13 +67,14 @@ nav {
     float: none;
     padding: 1.25em 0;
     @include media ($tablet) {
-        float: right;
+        //float: right;
         line-height: 1.5em;
     }
 }
 
 ul.navigation-menu {
     clear: both;
+    text-align: center;
     display: none;
     margin: 0 auto;
     overflow: visible;
