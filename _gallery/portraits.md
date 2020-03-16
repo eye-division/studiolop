@@ -63,6 +63,9 @@ images:
       Small Woman on Pink - Acrylic on Canvas - 5x7inch ( 12.5x17.5cm )
       AVAILABLE
     image_title:
+  - image_path: /assets/images/woman-on-turqoise.jpg
+    image_description: Small Woman on Turquoise - 8x8inch ( 20.5x20.5cm ) AVAILABLE
+    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
