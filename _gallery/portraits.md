@@ -59,9 +59,7 @@ images:
       AVAILABLE
     image_title:
   - image_path: /assets/images/woman-on-pink.jpg
-    image_description: >-
-      Small Woman on Pink - Acrylic on Canvas - 5x7inch ( 12.5x17.5cm )
-      AVAILABLE
+    image_description:
     image_title: >-
       Small Woman on Pink - Acrylic on Canvas - 5x7inch ( 12.5x17.5cm )
       AVAILABLE
