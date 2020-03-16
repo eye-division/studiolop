@@ -53,11 +53,11 @@ images:
     image_title: >-
       Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
       50x100cm ) AVAILABLE
-  - image_path: /assets/images/3-women.jpg
-    image_description:
-    image_title: >-
-      Three Women - Acrylic on canvas - 5x7inch(12.5x17.5cm )Bottom Row - Top
-      Image - 8x8inch(20.5x20.5cm) AVAILABLE
+  - image_path: /assets/images/woman-on-yellow.jpg
+    image_description: >-
+      Small Woman on Pale Yellow - Acrylic on canvas - 5x7inch ( 12.5x17.5cm )
+      AVAILABLE
+    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
