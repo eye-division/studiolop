@@ -64,8 +64,8 @@ images:
       AVAILABLE
     image_title:
   - image_path: /assets/images/woman-on-turqoise.jpg
-    image_description: Small Woman on Turquoise - 8x8inch ( 20.5x20.5cm ) AVAILABLE
-    image_title:
+    image_description:
+    image_title: Small Woman on Turquoise - 8x8inch ( 20.5x20.5cm ) AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
