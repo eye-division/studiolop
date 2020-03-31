@@ -6,7 +6,15 @@ permalink: /about/
 
 > ![](/assets/images/photo-me-painting.JPG){: width="828" height="828"}**Thanks to art,instead of seeing one world,we see it multiplied and as many original artists there are,so many worlds at our disposal ~ Proust**
 
-Barbara Harrison Caban is a Swedish born artist & designer who devides her time between her studios in Oxford UK & New York City USA. Her main focus in on painting but she also explores textiles,papier mache , wood sculpture & other decorative arts. She is a member of Art Weeks - Oxfordshires Annual Art Festival , BWAC - Brooklyn Waterfront Artist Coalition and PLG Arts .Barbara exhibits regulary in the UK & USA and her work is sold widely. Commissions are welcome.&nbsp;
+Barbara Harrison Caban is a Swedish born artist & designer who's family moved to the UK 1975.After teaching preschool &nbsp;children in Oxford UK for 20 years Barbara became a full time artist in 1995. After the death of her first husband she moved to NYC in 2000 and since then she's divided her time between Oxford UK & NYC USA. Barbara's main attraction is painting people either in social gatherings or as portraits . A love for the sea as well as nature and animals &nbsp;shines through her paintings of harbors,birds,dogs & flowers. Through the years she has also created art using papier mache,textiles,clay and printing. Acrylic paints are Barbara's main medium .
+
+Commissions are welcome whereby the client is invited to provide photographs for Barbara to work from. The client would be asked to talk through sizing ,color choices & layout of the painting. She &nbsp;produce's the drawing first for the client to see before applying the paints. &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Links
 
@@ -15,19 +23,22 @@ Barbara Harrison Caban is a Swedish born artist & designer who devides her time 
 * [plgarts.org](http://www.plgarts.org)
 * [artweeks.org](http://www.artweeks.org)
 * [bricartsmedia.org](http://www.bricartsmedia.org)
-* [oxonarts.inf](http://www.oxonarts.info)o
-* [thejamfactoryoxford.com](http://www.thejamfactoryoxford.com)
+* [oxo](http://www.oxonarts.info){: target="_blank"}narts.info
 * [carloscaban.wordpress.com](http://www.carloscaban.wordpress.com)
 
 ## **2020**
+
+# CANCELLED&nbsp;
+
+&nbsp; **&nbsp;DUE TO CORONAVIRUS&nbsp;**
+
+**PLEASE GO TO www.artweeks.org TO SEE ONLINE GALLERIES OF THE FESTIVALS ARTISTS .ENJOY A VIRTUAL TOUR \!&nbsp;**
 
 Open Studio - Oxfordshire Artweeks Festival 2020
 
 May 16th - 25th ( Bank Holiday Monday )
 
-Daily 11am - 6pm
-
-Private View TBA
+Daily 11am - 6pM
 
 Apt.1 Victoria Gate, 1A Victoria Road OXFORD OX2 7LS
 
@@ -51,7 +62,7 @@ Espacio Gallery
 
 159 Bethnal Green Road , London E2 7DG
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----------------------------
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; —————————-
 
 Open Studio - Oxfordshire Artweeks Festival 2019
 
