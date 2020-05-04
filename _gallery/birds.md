@@ -10,27 +10,47 @@ images:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
       - 18.5x12inch ( 45.72x30.48cm approx ) AVAILABLE
-  - image_path: /assets/images/853d6986-b342-4040-90bb-7c8ec8b00f2a.jpg
+  - image_path: /assets/images/black-bird-on-paper.jpg
     image_description:
-    image_title: BIRDS & BLOSSOM - Acrylic on canvas - 6x12inch ( 15.24x30.48cm ) SOLD
+    image_title: >-
+      Black Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
+      20.5cm sq - AVAILABLE
+  - image_path: /assets/images/bullfinch-bird-on-paper.jpg
+    image_description:
+    image_title: >-
+      Bullfinch - Acrylic on handmade acid free  cotton Khadi paper - 8inch sq -
+      20.5cm sq - AVAILABLE
+  - image_path: /assets/images/brown-bird-on-paper.jpg
+    image_description:
+    image_title: >-
+      Brown Bird - Acrylic on handmade acid free cotton Khadi cotton paper -
+      8inch sq - 20.5cm sq - AVAILABLE
+  - image_path: /assets/images/blue-bird-on-paper.jpg
+    image_description:
+    image_title: >-
+      Blue Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
+      20.5cm sq - AVAILABLE
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
       Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
       30.48x30.48cm ) AVAILABLE
-  - image_path: /assets/images/bird-on-black.JPG
-    image_description:
-    image_title: Bird on Black - Acrylic on box canvas - 12x12inch ( 30.48x30.48cm ) SOLD
-  - image_path: /assets/images/bird-on-red.jpg
-    image_description:
-    image_title: >-
-      Bird on Red with Bowl - Acrylic on canvas - 12x12inch ( 30.48x30.48cm )
-      AVAILABLE
   - image_path: /assets/images/bird-on-yellow.JPG
     image_description:
     image_title: >-
       Bird on Yellow with Blossom - Acrylic on box canvas - 12x12inch (
       30.48x30.48cm ) AVAILABLE
+  - image_path: /assets/images/853d6986-b342-4040-90bb-7c8ec8b00f2a.jpg
+    image_description:
+    image_title: BIRDS & BLOSSOM - Acrylic on canvas - 6x12inch ( 15.24x30.48cm ) SOLD
+  - image_path: /assets/images/bird-on-red.jpg
+    image_description:
+    image_title: >-
+      Bird on Red with Bowl - Acrylic on canvas - 12x12inch ( 30.48x30.48cm )
+      AVAILABLE
+  - image_path: /assets/images/bird-on-black.JPG
+    image_description:
+    image_title: Bird on Black - Acrylic on box canvas - 12x12inch ( 30.48x30.48cm ) SOLD
   - image_path: /assets/images/clay-bird.jpg
     image_description:
     image_title: >-
@@ -52,3 +72,4 @@ _comments:
   main_image_path: This is the image used to represent your gallery
   images: Add and edit your gallery images here
 ---
+
