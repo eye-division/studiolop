@@ -61,6 +61,11 @@ images:
     image_title: >-
       Brown Bird - Acrylic on handmade acid free cotton Khadi cotton paper -
       8inch sq - 20.5cm sq - AVAILABLE
+  - image_path: /assets/images/bullfinch-bird-on-paper.jpg
+    image_description:
+    image_title: >-
+      Bullfinch - Acrylic on handmade acid free  cotton Khadi paper - 8inch sq -
+      20.5cm sq - AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
