@@ -46,9 +46,15 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
+  - image_path: /assets/images/black-bird-on-paper.jpg
+    image_description: >-
+      Black Bird - Acrylic on handmade cotton ,acid free Khadi paper - 8inch sq
+      - 2-.5cm sq - AVAI;ABLE
+    image_title: Black Bird
 _comments:
   title: add a Gallery title
   permalink: page URL name
   main_image_path: This is the image used to represent your gallery
   images: Add and edit your gallery images here
 ---
+
