@@ -15,10 +15,10 @@ layout: default
   </section>
 
   {% if page.images[0].image_path %}
-  <section class="gallery">
+  <section class="gallery gallery--list">
     {% for image in page.images %}
       {% if image.image_path %}
-      <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+      <div class="gallery--box">
         <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_description }}">
           {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_description %}
         </a>

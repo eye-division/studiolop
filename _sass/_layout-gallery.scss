@@ -64,3 +64,52 @@
     padding: 1em
 }
 
+/* 2020 styleee */
+.gallery--list {
+
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    @include media ($mobile) {
+        justify-content: center;
+    }
+
+    a {
+        img {
+            opacity: 1;
+            transition: all 0.2s ease-in-out;
+            &:hover,
+            &:active,
+            &:focus {
+                opacity: 0.8;
+                transition: all 0.2s ease-in-out
+            }
+        }
+        h3 {
+            color: $base-font-color;
+        }
+
+        &:active,
+        &:focus,
+        &:hover {
+            text-decoration: none;
+            color: darken($action-color, 20%);
+            h3 {
+                //color: $camouflage;
+            }
+        }
+    }
+}
+.gallery--box {
+  // this is the grid element
+    @include media ($mobile) {
+      width: 45%;
+        //flex: 0 1 auto;
+    }
+    @include media ($tablet) {
+      width: calc(100% / 3.6);
+    }
+    margin: 1em;
+    text-align: center;
+
+}

@@ -4,11 +4,11 @@ title: Galleries
 permalink: /gallery/
 ---
 
-<div class="gallery">
+<div class="gallery gallery--list">
 
 {% for gallery in site.gallery%}
 
-     <div class="gallery-box{% cycle '', ' last' %}">
+     <div class="gallery--box">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
 	          <img src="{{ gallery.image_path }}" alt="{{ gallery.title }}"/>
