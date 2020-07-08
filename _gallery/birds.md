@@ -24,7 +24,7 @@ images:
     image_description:
     image_title: >-
       Brown Bird - Acrylic on handmade acid free cotton Khadi cotton paper -
-      8inch sq - 20.5cm sq - AVAILABLE
+      8inch sq - 20.5cm sq - SOLD
   - image_path: /assets/images/blue-bird-on-paper.jpg
     image_description:
     image_title: >-
