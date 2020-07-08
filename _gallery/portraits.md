@@ -17,7 +17,7 @@ images:
       ( 35.5x45.5cm ) AVAILABLE
   - image_path: /assets/images/friends-1.jpg
     image_description:
-    image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) AVAILABLE
+    image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) SOLD
   - image_path: /assets/images/barbara-harrison-caban---summertown-oxford-city.jpg
     image_description:
     image_title: >-
