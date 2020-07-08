@@ -22,7 +22,7 @@ images:
     image_description:
     image_title: >-
       WOMAN WITH RED HAT  - Acrylic on Canvas in white wood float frame (not
-      shown ) 21x17inch ( 53x43cm ) AVAILABLE
+      shown ) 21x17inch ( 53x43cm )SOLD
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
