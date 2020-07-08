@@ -14,7 +14,7 @@ images:
     image_description:
     image_title: >-
       Black Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
-      20.5cm sq - AVAILABLE
+      20.5cm sq -SOLD
   - image_path: /assets/images/bullfinch-bird-on-paper.jpg
     image_description:
     image_title: >-
