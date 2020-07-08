@@ -9,27 +9,27 @@ images:
     image_description:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
-      - 18.5x12inch ( 45.72x30.48cm approx ) AVAILABLE
+      - 18.5x12inch ( 45.72x30.48cm approx ) SOLD
   - image_path: /assets/images/black-bird-on-paper.jpg
     image_description:
     image_title: >-
       Black Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
-      20.5cm sq - AVAILABLE
+      20.5cm sq -SOLD
   - image_path: /assets/images/bullfinch-bird-on-paper.jpg
     image_description:
     image_title: >-
       Bullfinch - Acrylic on handmade acid free  cotton Khadi paper - 8inch sq -
-      20.5cm sq - AVAILABLE
+      20.5cm sq -SOLD
   - image_path: /assets/images/brown-bird-on-paper.jpg
     image_description:
     image_title: >-
       Brown Bird - Acrylic on handmade acid free cotton Khadi cotton paper -
-      8inch sq - 20.5cm sq - AVAILABLE
+      8inch sq - 20.5cm sq - SOLD
   - image_path: /assets/images/blue-bird-on-paper.jpg
     image_description:
     image_title: >-
       Blue Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
-      20.5cm sq - AVAILABLE
+      20.5cm sq -SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-

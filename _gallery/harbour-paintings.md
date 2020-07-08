@@ -7,9 +7,7 @@ permalink: /gallery/harbour-paintings/
 main_image_path: /assets/images/small-harbour.JPG
 images:
   - image_path: /assets/images/small-harbour-1.JPG
-    image_title: >-
-      Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch )
-      AVAILABLE
+    image_title: Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch ) SOLD
     image_description:
   - image_path: /assets/images/barbara-harrison-caban-oxford-city.JPG
     image_title: >-
@@ -27,12 +25,10 @@ images:
   - image_path: /assets/images/harbour-2019-with-side-trees.JPG
     image_title: >-
       Harbour 2019 with Trees & Orange - Acrylic on Box Canvas - 60x60cm (
-      24x24inch )AVAILABLE
+      24x24inch )SOLD
     image_description:
   - image_path: /assets/images/small-square-harbour-evening.JPG
-    image_title: >-
-      Small Evening Harbour - Acrylic on Canvas - 25x25cm ( 10x10inch )
-      AVAILABLE
+    image_title: Small Evening Harbour - Acrylic on Canvas - 25x25cm ( 10x10inch ) SOLD
     image_description:
   - image_path: /assets/images/small-hourbour.jpg
     image_title: Small Harbour - Acrylic on Canvas - 30x15cm ( 12x6inch ) SOLD
@@ -46,12 +42,12 @@ images:
       in a white float frame. AVAILABLE
     image_description:
   - image_path: /assets/images/harbour-6x12.JPG
-    image_title: Harbour/Harbor - Acrylic on Canvas - 12x6inch ( 30x15cm approx ) AVAILABLE
+    image_title: Harbour/Harbor - Acrylic on Canvas - 12x6inch ( 30x15cm approx ) SOLD
     image_description:
   - image_path: /assets/images/small-night-harbour.JPG
     image_title: >-
       Small Night Time Harbour/Harbor - Acrylic on Canvas - 6x8inch ( 15x21cm )
-      AVAILABLE
+      SOLD
     image_description:
   - image_path: /assets/images/fullsizeoutput-a91.jpeg
     image_title: >-
