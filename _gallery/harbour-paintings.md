@@ -7,9 +7,7 @@ permalink: /gallery/harbour-paintings/
 main_image_path: /assets/images/small-harbour.JPG
 images:
   - image_path: /assets/images/small-harbour-1.JPG
-    image_title: >-
-      Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch )
-      AVAILABLE
+    image_title: Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch ) SOLD
     image_description:
   - image_path: /assets/images/barbara-harrison-caban-oxford-city.JPG
     image_title: >-
