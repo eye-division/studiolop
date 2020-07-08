@@ -29,7 +29,7 @@ images:
     image_description:
     image_title: >-
       Blue Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
-      20.5cm sq - AVAILABLE
+      20.5cm sq -SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
