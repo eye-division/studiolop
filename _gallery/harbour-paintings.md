@@ -28,9 +28,7 @@ images:
       24x24inch )SOLD
     image_description:
   - image_path: /assets/images/small-square-harbour-evening.JPG
-    image_title: >-
-      Small Evening Harbour - Acrylic on Canvas - 25x25cm ( 10x10inch )
-      AVAILABLE
+    image_title: Small Evening Harbour - Acrylic on Canvas - 25x25cm ( 10x10inch ) SOLD
     image_description:
   - image_path: /assets/images/small-hourbour.jpg
     image_title: Small Harbour - Acrylic on Canvas - 30x15cm ( 12x6inch ) SOLD
