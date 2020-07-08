@@ -9,7 +9,7 @@ images:
     image_description:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
-      - 18.5x12inch ( 45.72x30.48cm approx ) AVAILABLE
+      - 18.5x12inch ( 45.72x30.48cm approx ) SOLD
   - image_path: /assets/images/black-bird-on-paper.jpg
     image_description:
     image_title: >-
