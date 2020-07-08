@@ -25,7 +25,7 @@ images:
   - image_path: /assets/images/harbour-2019-with-side-trees.JPG
     image_title: >-
       Harbour 2019 with Trees & Orange - Acrylic on Box Canvas - 60x60cm (
-      24x24inch )AVAILABLE
+      24x24inch )SOLD
     image_description:
   - image_path: /assets/images/small-square-harbour-evening.JPG
     image_title: >-
