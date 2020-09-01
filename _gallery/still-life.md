@@ -20,6 +20,9 @@ images:
   - image_path: /assets/images/still-life-with-fish.jpg
     image_description:
     image_title: Still Life with Fish
+  - image_path: /assets/images/still-life-with-oranges.jpg
+    image_description:
+    image_title: Still Life with Oranges
 _comments:
   title: add a Gallery title
   permalink: page URL name
