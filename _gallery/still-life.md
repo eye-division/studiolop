@@ -23,6 +23,9 @@ images:
   - image_path: /assets/images/still-life-with-oranges.jpg
     image_description:
     image_title: Still Life with Oranges
+  - image_path: /assets/images/fullsizeoutput-a64.jpeg
+    image_description:
+    image_title: Still Life with Tea Pot - SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
