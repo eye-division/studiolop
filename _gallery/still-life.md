@@ -7,7 +7,9 @@ main_image_path: /assets/images/still-life-with-cherries.jpg
 images:
   - image_path: /assets/images/still-life-with-cherries.jpg
     image_description:
-    image_title: Still Life with Cherries
+    image_title: >-
+      Still Life with Cherries - AVAILABLE - Acrylic on Box Canvas - 12inch sq /
+      30.5cm sq
   - image_path: /assets/images/still-life-with-olives.jpg
     image_description:
     image_title: Still Life with Olives
