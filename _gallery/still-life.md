@@ -29,6 +29,9 @@ images:
   - image_path: /assets/images/fullsizeoutput-a79.jpeg
     image_description:
     image_title: Still Life with Bird
+  - image_path:
+    image_description:
+    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
