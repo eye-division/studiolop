@@ -5,9 +5,9 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/still-life-with-cherries.jpg
 images:
-  - image_path:
+  - image_path: /assets/images/still-life-with-cherries.jpg
     image_description:
-    image_title:
+    image_title: Still Life with Cherries
   - image_path: /assets/images/still-life-with-olives.jpg
     image_description:
     image_title: Still Life with Olives
