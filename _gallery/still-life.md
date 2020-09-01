@@ -11,6 +11,9 @@ images:
   - image_path: /assets/images/still-life-with-olives.jpg
     image_description:
     image_title: Still Life with Olives
+  - image_path: /assets/images/still-life--coffee-morning-.jpg
+    image_description:
+    image_title: Still Life " Coffee Morning "
 _comments:
   title: add a Gallery title
   permalink: page URL name
