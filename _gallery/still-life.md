@@ -17,6 +17,9 @@ images:
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples
+  - image_path: /assets/images/still-life-with-fish.jpg
+    image_description:
+    image_title: Still Life with Fish
 _comments:
   title: add a Gallery title
   permalink: page URL name
