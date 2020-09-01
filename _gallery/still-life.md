@@ -26,6 +26,9 @@ images:
   - image_path: /assets/images/fullsizeoutput-a64.jpeg
     image_description:
     image_title: Still Life with Tea Pot - SOLD
+  - image_path: /assets/images/fullsizeoutput-a79.jpeg
+    image_description:
+    image_title: Still Life with Bird
 _comments:
   title: add a Gallery title
   permalink: page URL name
