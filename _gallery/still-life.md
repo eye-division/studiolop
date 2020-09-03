@@ -16,8 +16,8 @@ images:
   - image_path: /assets/images/still-life--coffee-morning-.jpg
     image_description:
     image_title: >-
-      Still Life " Coffee Morning " - AVAILABLE - Acrylic on Box Canvas - 12inch
-      sq/30.5cm sq
+      Still Life " Coffee Morning "-Acrylic on Box Canvas -12inch sq/30.5cm
+      sq-AVAILABLE
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples
