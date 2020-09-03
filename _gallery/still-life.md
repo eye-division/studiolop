@@ -26,7 +26,9 @@ images:
     image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/still-life-with-oranges.jpg
     image_description:
-    image_title: Still Life with Oranges
+    image_title: >-
+      Still Life with Oranges-Acrylic on Box Canvas-12inch sq/30.5cm sq -
+      AVAILABLE
   - image_path: /assets/images/fullsizeoutput-a64.jpeg
     image_description:
     image_title: Still Life with Tea Pot - SOLD
