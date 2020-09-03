@@ -23,7 +23,7 @@ images:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/still-life-with-fish.jpg
     image_description:
-    image_title: Still Life with Fish
+    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/still-life-with-oranges.jpg
     image_description:
     image_title: Still Life with Oranges
