@@ -35,9 +35,9 @@ images:
   - image_path: /assets/images/fullsizeoutput-a79.jpeg
     image_description:
     image_title: Still Life with Bird-Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
-  - image_path:
+  - image_path: /assets/images/fish-2017.jpg
     image_description:
-    image_title:
+    image_title: Fish with Lemons - Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
