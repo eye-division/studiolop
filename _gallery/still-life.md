@@ -34,7 +34,7 @@ images:
     image_title: Still Life with Tea Pot-Acrylic on Box Canvas -16inch sq/40.5cm sq- SOLD
   - image_path: /assets/images/fullsizeoutput-a79.jpeg
     image_description:
-    image_title: Still Life with Bird
+    image_title: Still Life with Bird-Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
   - image_path:
     image_description:
     image_title:
