@@ -68,8 +68,8 @@ images:
       Sleeping dog on red - Acrylic on canvas - 8x8inch ( 20.5x20.5cm )
       AVAILABLE
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/ted.jpg
+    image_title: Ted - Commission -Acrylic on Canvas - 12inch sq/30.5cm sq - SOLD
     image_description:
 _comments:
   title: your gallery title
