@@ -12,7 +12,7 @@ images:
       30.5cm sq
   - image_path: /assets/images/still-life-with-olives.jpg
     image_description:
-    image_title: Still Life with Olives
+    image_title: Still Life with Olives-Acrylic on Box Canvas-12inch sq/30.5cm sq - SOLD
   - image_path: /assets/images/still-life--coffee-morning-.jpg
     image_description:
     image_title: >-
