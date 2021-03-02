@@ -30,6 +30,11 @@ images:
     image_title: >-
       Blue Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
       20.5cm sq -SOLD
+  - image_path: /assets/images/bird-2021.jpg
+    image_description:
+    image_title: >-
+      Yellow Bird 2021 - Gouache & Metallic Paint on Handmade 100% Cotton Paper
+      - 20.3cm sq / 8inch sq - SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
@@ -63,11 +68,6 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
-  - image_path: /assets/images/bird-2021.jpg
-    image_description:
-    image_title: >-
-      Yellow Bird 2021 - Gouache & Metallic Paint on Handmade 100% Cotton Paper
-      - 20.3cm sq / 8inch sq - SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
