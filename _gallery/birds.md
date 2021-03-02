@@ -30,6 +30,11 @@ images:
     image_title: >-
       Blue Bird - Acrylic on handmade acid free cotton Khadi paper - 8inch sq -
       20.5cm sq -SOLD
+  - image_path: /assets/images/bird-2021.jpg
+    image_description:
+    image_title: >-
+      Yellow Bird 2021 - Gouache & Metallic Paint on Handmade 100% Cotton Paper
+      - 20.3cm sq / 8inch sq - SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
@@ -40,9 +45,6 @@ images:
     image_title: >-
       Bird on Yellow with Blossom - Acrylic on box canvas - 12x12inch (
       30.48x30.48cm ) AVAILABLE
-  - image_path: /assets/images/853d6986-b342-4040-90bb-7c8ec8b00f2a.jpg
-    image_description:
-    image_title: BIRDS & BLOSSOM - Acrylic on canvas - 6x12inch ( 15.24x30.48cm ) SOLD
   - image_path: /assets/images/bird-on-red.jpg
     image_description:
     image_title: >-
@@ -72,4 +74,3 @@ _comments:
   main_image_path: This is the image used to represent your gallery
   images: Add and edit your gallery images here
 ---
-
