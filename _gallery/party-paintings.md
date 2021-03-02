@@ -6,6 +6,10 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
+  - image_path: /assets/images/new-party-painting-2020-1.JPG
+    image_title: >-
+      NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
+      AVAILABLE
   - image_path: /assets/images/pink-party.jpg
     image_title: >-
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
@@ -47,10 +51,6 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path: /assets/images/new-party-painting-2020-1.JPG
-    image_title: >-
-      NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
-      AVAILABLE
   - image_path:
     image_title:
   - image_path:
