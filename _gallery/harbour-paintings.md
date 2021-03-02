@@ -54,8 +54,8 @@ images:
       Night Time Harbour/Harbor - Acrylic on Box Canvas - 18x18inch ( 46x46cm
       approx ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/small-harbour-2-2021.jpg
+    image_title: Harbour with Blue 2021 - Acrylic on Canvas - 30.5cm sq  AVAILABLE
     image_description:
   - image_path:
     image_title:
@@ -164,5 +164,3 @@ _comments:
   main_image_path: This is the image used to represent your gallery
   images: Add and edit your gallery images here
 ---
-
-
