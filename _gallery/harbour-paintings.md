@@ -60,7 +60,9 @@ images:
       AVAILABLE
     image_description:
   - image_path: /assets/images/small-harbour-2021.jpg
-    image_title: Small Harbour with Orange 2021 -Acrylic on Canvas -30.5cm sq /12inch sq
+    image_title: >-
+      Small Harbour with Orange 2021 -Acrylic on Canvas -30.5cm sq /12inch sq
+      AVAILABLE
     image_description:
   - image_path:
     image_title:
