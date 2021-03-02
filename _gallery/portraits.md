@@ -51,6 +51,11 @@ images:
   - image_path: /assets/images/friends-1.jpg
     image_description:
     image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) SOLD
+  - image_path: /assets/images/khris-commission.jpg
+    image_description:
+    image_title: >-
+      KHRIS & EHREN - Acrylic on Box Canvas - 100x30cm / 39.6x11.9inch -
+      COMMISSION  Sold
   - image_path: /assets/images/barbara-harrison-caban---summertown-oxford-city.jpg
     image_description:
     image_title: >-
@@ -66,9 +71,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path:
-    image_description:
-    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
