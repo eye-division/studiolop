@@ -21,6 +21,14 @@ images:
       Party on Deep Pink 40x47inch ( 1.20x1.00cm ) Acrylic on Box Canvas
       AVAILABLE
     image_description:
+  - image_path: /assets/images/wine-by-the-sea.jpg
+    image_title: >-
+      Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
+      23.5x19.5inch - AVAILABLE
+    image_description:
+  - image_path: /assets/images/booklcub2-1.jpg
+    image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
+    image_description:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
@@ -29,9 +37,6 @@ images:
     image_description:
   - image_path: /assets/images/img-0624.JPG
     image_title: Acrylic on Canvas 4ftx31inch ( 1.22x79cm ) SOLD
-    image_description:
-  - image_path: /assets/images/booklcub2-1.jpg
-    image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
     image_description:
   - image_path: /assets/images/dinner-party-in-summer-with-dog.JPG
     image_title: Dinner Summer Party  2019 - Acrylic on Canvas 60cm sq (24inch sq ) SOLD
@@ -42,13 +47,10 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path: /assets/images/wine-by-the-sea.jpg
+  - image_path: /assets/images/new-party-painting-2020-1.JPG
     image_title: >-
-      Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
-      23.5x19.5inch - AVAILABLE
-    image_description:
-  - image_path:
-    image_title:
+      NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
+      AVAILABLE
   - image_path:
     image_title:
   - image_path:
