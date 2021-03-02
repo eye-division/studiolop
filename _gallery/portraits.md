@@ -5,6 +5,11 @@ _gallery_date:
 permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
+  - image_path: /assets/images/girl-on-blue-2021.jpg
+    image_description:
+    image_title: >-
+      Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45.7cm / 22x18inch -
+      AVAILABLE
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
@@ -56,14 +61,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/images/girl-on-blue-2021.jpg
+  - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
     image_description:
     image_title: >-
-      Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45.7cm / 22x18inch -
-      AVAILABLE
-  - image_path:
-    image_description:
-    image_title:
+      Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
+      22x18inch - AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
