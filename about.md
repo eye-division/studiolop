@@ -6,8 +6,6 @@ permalink: /about/
 
 &nbsp;
 
->
-
 Barbara Harrison Caban is a Swedish born artist & designer who's family moved to the UK 1975.After teaching preschool &nbsp;children in Oxford UK for 20 years Barbara became a full time artist in 1995. After the death of her first husband she moved to NYC in 2000 and since then she's divided her time between Oxford UK & NYC USA. Barbara's main attraction is painting people either in social gatherings or as portraits . A love for the sea as well as nature and animals &nbsp;shines through her paintings of harbors,birds,dogs & flowers. Through the years she has also created art using papier mache,textiles,clay and printing. Acrylic paints are Barbara's main medium .
 
 Commissions are welcome whereby the client is invited to provide photographs for Barbara to work from. The client would be asked to talk through sizing ,color choices & layout of the painting. She &nbsp;produce's the drawing first for the client to see before applying the paints. &nbsp;
