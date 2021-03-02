@@ -66,9 +66,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path:
+  - image_path: /assets/images/khris-commission.jpg
     image_description:
-    image_title:
+    image_title: >-
+      KHRIS & EHREN - Acrylic on Box Canvas - 100x30cm / 39.6x11.9inch -
+      COMMISSION  Sold
 _comments:
   title: add a Gallery title
   permalink: page URL name
