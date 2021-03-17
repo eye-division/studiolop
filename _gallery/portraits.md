@@ -10,14 +10,17 @@ images:
     image_title: >-
       Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45.7cm / 22x18inch -
       AVAILABLE
-  - image_path: /assets/images/bishi-2020.JPG
-    image_description:
-    image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
   - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
     image_description:
     image_title: >-
       Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
       22x18inch - AVAILABLE
+  - image_path: /assets/images/be-kind---painting-2021.JPG
+    image_description:
+    image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
+  - image_path: /assets/images/bishi-2020.JPG
+    image_description:
+    image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
