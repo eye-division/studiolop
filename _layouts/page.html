@@ -7,7 +7,9 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  {% if page.url == "index.html" and page.main_image_path %}
+  {% unless page.url == "/" %}
+
+  	{% if page.main_image_path %}
 
 
 	    <figure class="text-center gallery--feature">
@@ -28,6 +30,7 @@ layout: default
 	    {% if page.main_image_caption %}<figcaption>{{ alt_text }}</figcaption>{% endif %}
 	    </figure>
 	 {% endif %}
+{% endunless %}
 
 
 
