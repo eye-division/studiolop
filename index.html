@@ -2,6 +2,7 @@
 layout: page
 main_image_path: /assets/images/big-new-harbour.JPG
 main_image_title: Harbour New 2020 ! Acrylic on Canvas - 100x50cm/39.5x19.5inch
+
 _options:
   layout:
     hidden: true
@@ -30,24 +31,18 @@ _comments:
   caption: optional caption
 ---
 
-<div class="page">
+<div>
+  <div class="half textleft editable"><h3 class="pink">barbara harrison caban</h3></div>
+  <div class="half textright editable"><h3>artist &amp; designer</h3></div>
+</div>
+<div class="editable">
+</div>
 
-    <div>
-      <div class="half textleft editable"><h3 class="pink">barbara harrison caban</h3></div>
-      <div class="half textright editable"><h3>artist &amp; designer</h3></div>
-    </div>
-    <div class="editable">
-    </div>
+<div class="gallery">
 
-    <div class="gallery">
+  {% if page.main_image_path %}
+    {% include img.html src=page.main_image_path alt=page.main_image_title %}
+    <p>{{ page.main_image_title }}</p>
+  {% endif %}
 
-      {% if page.main_image_path %}
-        {% include img.html src=page.main_image_path alt=page.main_image_title %}
-        <p>{{ page.main_image_title }}</p>
-      {% endif %}
-
-    </div>
-
-
-
-  </div>
+</div>
