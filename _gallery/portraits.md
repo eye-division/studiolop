@@ -19,10 +19,10 @@ images:
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
   - image_path: /assets/images/faces.jpg
-    image_description: >-
-      Mini Portraits - Acrylic on Canvas - 6x4inch / 15x10cm - 20GBP each / $25
+    image_description:
+    image_title: >-
+      Mini Portraits - acrylic on Canvas - 6x4inch/15x10cm - 20GBP each / $25
       each
-    image_title:
   - image_path: /assets/images/bishi-2020.JPG
     image_description:
     image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
