@@ -74,6 +74,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/images/faces.jpg
+    image_description: >-
+      Mini Portraits - Acrylic on Canvas - 6x4inch / 15x10cm - 20GBP each / $25
+      each
+    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
