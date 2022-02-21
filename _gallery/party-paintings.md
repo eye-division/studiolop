@@ -49,8 +49,8 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/dogs--champange-1.jpg
+    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path:
     image_title:
     image_description:
