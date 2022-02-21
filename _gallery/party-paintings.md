@@ -34,6 +34,8 @@ images:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
+  - image_path: /assets/images/dogs--champange-1.jpg
+    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path: /assets/images/fullsizeoutput-ca2.jpeg
     image_title: Commission - SOLD - Acrylic on Canvas 4ftx30inch 9 1.20x76cm )
     image_description:
@@ -49,8 +51,6 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path: /assets/images/dogs--champange-1.jpg
-    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path:
     image_title:
     image_description:
