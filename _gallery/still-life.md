@@ -48,6 +48,9 @@ images:
   - image_path: /assets/images/muscari--jam-still-life.jpg
     image_description:
     image_title: Muscari & Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/books--coffee-still-life.jpg
+    image_description:
+    image_title: Books & Coffee-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
