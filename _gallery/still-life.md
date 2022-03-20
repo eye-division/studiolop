@@ -54,6 +54,9 @@ images:
   - image_path: /assets/images/cherries--pears-still-life.jpg
     image_description:
     image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/barbara-harrison-caban-still-life-with-oranges.jpg
+    image_description:
+    image_title: Still life with Oranges-Acrylic on Box Canvas-47x31inch/120x80cm-AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
