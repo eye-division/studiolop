@@ -39,6 +39,9 @@ images:
     image_title: >-
       Still life with Oranges & Honeysuckle-Acrylic on Box Canvas-24inch sq/61cm
       sq-AVAILABLE
+  - image_path: /assets/images/snowdrops--tea.jpg
+    image_description:
+    image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
