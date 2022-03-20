@@ -5,6 +5,23 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/still-life-with-cherries.jpg
 images:
+  - image_path: /assets/images/snowdrops--tea.jpg
+    image_description:
+    image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/barbara-harrison-caban----blue-still-life--oxford-city.jpg
+    image_description:
+    image_title: >-
+      Still life with Oranges & Honeysuckle-Acrylic on Box Canvas-24inch sq/61cm
+      sq-AVAILABLE
+  - image_path: /assets/images/still-life-with-apples.jpg
+    image_description:
+    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/still-life-with-fish.jpg
+    image_description:
+    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/jam.jpg
+    image_description:
+    image_title: Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/still-life-with-cherries.jpg
     image_description:
     image_title: Still Life with Cherries-Acrylic on Box Canvas-12inch sq / 30.5cm sq-SOLD
@@ -16,12 +33,6 @@ images:
     image_title: >-
       Still Life " Coffee Morning "-Acrylic on Box Canvas -12inch sq/30.5cm
       sq-SOLD
-  - image_path: /assets/images/still-life-with-apples.jpg
-    image_description:
-    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
-  - image_path: /assets/images/still-life-with-fish.jpg
-    image_description:
-    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/still-life-with-oranges.jpg
     image_description:
     image_title: Still Life with Oranges-Acrylic on Box Canvas-12inch sq/30.5cm sq - SOLD
@@ -34,17 +45,6 @@ images:
   - image_path: /assets/images/fish-2017.jpg
     image_description:
     image_title: Fish with Lemons - Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
-  - image_path: /assets/images/barbara-harrison-caban----blue-still-life--oxford-city.jpg
-    image_description:
-    image_title: >-
-      Still life with Oranges & Honeysuckle-Acrylic on Box Canvas-24inch sq/61cm
-      sq-AVAILABLE
-  - image_path: /assets/images/snowdrops--tea.jpg
-    image_description:
-    image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
-  - image_path: /assets/images/jam.jpg
-    image_description:
-    image_title: Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
