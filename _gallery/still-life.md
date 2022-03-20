@@ -3,13 +3,45 @@ title: Still Life
 description_markdown:
 _gallery_date:
 permalink: /gallery/stilllife/
-main_image_path: /assets/images/still-life-with-cherries.jpg
+main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
-  - image_path: /assets/images/still-life-with-cherries.jpg
+  - image_path: /assets/images/snowdrops--tea.jpg
+    image_description:
+    image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/cherries--pears-still-life.jpg
+    image_description:
+    image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/muscari--jam-still-life.jpg
+    image_description:
+    image_title: Muscari & Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/books--coffee-still-life.jpg
+    image_description:
+    image_title: Books & Coffee-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/still-life-with-apples.jpg
+    image_description:
+    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/still-life-with-fish.jpg
+    image_description:
+    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/jam.jpg
+    image_description:
+    image_title: Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
+  - image_path: /assets/images/barbara-harrison-caban----blue-still-life--oxford-city.jpg
     image_description:
     image_title: >-
-      Still Life with Cherries-Acrylic on Box Canvas-12inch sq / 30.5cm
+      Still life with Oranges & Honeysuckle-Acrylic on Box Canvas-24inch sq/61cm
       sq-AVAILABLE
+  - image_path: /assets/images/barbara-harrison-caban-still-life-with-oranges.jpg
+    image_description:
+    image_title: Still life with Oranges-Acrylic on Box Canvas-47x31inch/120x80cm-AVAILABLE
+  - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
+    image_description:
+    image_title: >-
+      Cakes, Fruits & Champange-Acrylic on Box
+      Canvas-47x31inch/120x80cm-AVAILABLE
+  - image_path: /assets/images/still-life-with-cherries.jpg
+    image_description:
+    image_title: Still Life with Cherries-Acrylic on Box Canvas-12inch sq / 30.5cm sq-SOLD
   - image_path: /assets/images/still-life-with-olives.jpg
     image_description:
     image_title: Still Life with Olives-Acrylic on Box Canvas-12inch sq/30.5cm sq - SOLD
@@ -17,18 +49,10 @@ images:
     image_description:
     image_title: >-
       Still Life " Coffee Morning "-Acrylic on Box Canvas -12inch sq/30.5cm
-      sq-AVAILABLE
-  - image_path: /assets/images/still-life-with-apples.jpg
-    image_description:
-    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
-  - image_path: /assets/images/still-life-with-fish.jpg
-    image_description:
-    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
+      sq-SOLD
   - image_path: /assets/images/still-life-with-oranges.jpg
     image_description:
-    image_title: >-
-      Still Life with Oranges-Acrylic on Box Canvas-12inch sq/30.5cm sq -
-      AVAILABLE
+    image_title: Still Life with Oranges-Acrylic on Box Canvas-12inch sq/30.5cm sq - SOLD
   - image_path: /assets/images/fullsizeoutput-a64.jpeg
     image_description:
     image_title: Still Life with Tea Pot-Acrylic on Box Canvas -16inch sq/40.5cm sq- SOLD
