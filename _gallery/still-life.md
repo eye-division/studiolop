@@ -42,6 +42,9 @@ images:
   - image_path: /assets/images/snowdrops--tea.jpg
     image_description:
     image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/images/jam.jpg
+    image_description:
+    image_title: Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
