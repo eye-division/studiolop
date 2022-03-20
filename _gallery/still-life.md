@@ -34,6 +34,11 @@ images:
   - image_path: /assets/images/fish-2017.jpg
     image_description:
     image_title: Fish with Lemons - Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
+  - image_path: /assets/images/barbara-harrison-caban----blue-still-life--oxford-city.jpg
+    image_description:
+    image_title: >-
+      Still life with Oranges & Honeysuckle-Acrylic on Box Canvas-24inch sq/61cm
+      sq-AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
