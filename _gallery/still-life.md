@@ -3,7 +3,7 @@ title: Still Life
 description_markdown:
 _gallery_date:
 permalink: /gallery/stilllife/
-main_image_path: /assets/images/still-life-with-cherries.jpg
+main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
   - image_path: /assets/images/snowdrops--tea.jpg
     image_description:
@@ -45,6 +45,9 @@ images:
   - image_path: /assets/images/fish-2017.jpg
     image_description:
     image_title: Fish with Lemons - Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
+  - image_path: /assets/images/muscari--jam-still-life.jpg
+    image_description:
+    image_title: Muscari & Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
