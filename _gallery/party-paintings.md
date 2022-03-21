@@ -30,9 +30,9 @@ images:
       Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
       23.5x19.5inch - AVAILABLE
     image_description:
-  - image_path:
+  - image_path: /assets/images/commission-2021---party.JPG
     image_title:
-    image_description:
+    image_description: Commission 2021-Party-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
