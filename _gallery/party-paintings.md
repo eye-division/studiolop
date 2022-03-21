@@ -99,7 +99,7 @@ images:
     image_title:
     image_description:
   - image_path:
-    image_title: Memories
+    image_title:
     image_description:
   - image_path:
     image_title:
