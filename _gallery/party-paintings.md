@@ -28,8 +28,8 @@ images:
       Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
       23.5x19.5inch - AVAILABLE
     image_description:
-  - image_path: /assets/images/booklcub2-1.jpg
-    image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
@@ -212,4 +212,3 @@ _comments:
   main_image_path: This is the image used to represent your gallery
   images: Add and edit your gallery images here
 ---
-
