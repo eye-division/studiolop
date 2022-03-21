@@ -23,22 +23,22 @@ images:
       AVAILABLE
     image_description:
   - image_path: /assets/images/four-dogs--party.jpg
-    image_title:
-    image_description: Four Dogs-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+    image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+    image_description:
   - image_path: /assets/images/img-3800-1.JPG
     image_title: Party on Deep Pink 40x47inch ( 1.20x1.00cm    ) Acrylic on Box Canvas SOLD
     image_description:
   - image_path: /assets/images/come-together---party.JPG
-    image_title:
-    image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
+    image_title: Come Together-Acrylic on Canvas-48x36inch/122x91cm-SOLD
+    image_description:
   - image_path: /assets/images/wine-by-the-sea.jpg
     image_title: >-
       Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
       23.5x19.5inch - AVAILABLE
     image_description:
   - image_path: /assets/images/commission-2021---party.JPG
-    image_title:
-    image_description: Commission 2021-Party-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
+    image_title: Commission 2021-Party-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
+    image_description:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
