@@ -29,8 +29,8 @@ images:
     image_title: Party on Deep Pink 40x47inch ( 1.20x1.00cm    ) Acrylic on Box Canvas SOLD
     image_description:
   - image_path: /assets/images/come-together---party.JPG
-    image_title:
-    image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
+    image_title: Come Together-Acrylic on Canvas-48x36inch/122x91cm-SOLD
+    image_description:
   - image_path: /assets/images/wine-by-the-sea.jpg
     image_title: >-
       Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
