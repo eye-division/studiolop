@@ -26,8 +26,8 @@ images:
       Romano III - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm 
       approx) SOLD
     image_description:
-  - image_path: /assets/images/7b90ab73-7e9c-427d-b096-e5a021f980d1.jpg
-    image_title: Sleeping Dog on Yellow - acrylic on Canvas 8x8inch ( 20x20cm ) AVAILABLE
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/img-1789.JPG
     image_title: LUNA - Commission - Acrylic on Canvas 12x12inch ( 30x30cm approx ) SOLD
