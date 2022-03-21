@@ -76,7 +76,7 @@ images:
     image_title:
     image_description:
   - image_path:
-    image_title: Golden
+    image_title:
   - image_path:
     image_title:
     image_description: 10&quot;x20&quot;/ 26x51cm, 2011,
