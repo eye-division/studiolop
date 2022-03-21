@@ -22,9 +22,15 @@ images:
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
       AVAILABLE
     image_description:
+  - image_path: /assets/images/four-dogs--party.jpg
+    image_title:
+    image_description: Four Dogs-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
   - image_path: /assets/images/img-3800-1.JPG
     image_title: Party on Deep Pink 40x47inch ( 1.20x1.00cm    ) Acrylic on Box Canvas SOLD
     image_description:
+  - image_path: /assets/images/come-together---party.JPG
+    image_title:
+    image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
   - image_path: /assets/images/wine-by-the-sea.jpg
     image_title: >-
       Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
@@ -51,12 +57,6 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path: /assets/images/come-together---party.JPG
-    image_title:
-    image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
-  - image_path: /assets/images/four-dogs--party.jpg
-    image_title:
-    image_description: Four Dogs-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
   - image_path:
     image_title:
     image_description:
