@@ -60,8 +60,8 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
-  - image_path: /assets/images/dog-on-blue.jpg
-    image_title: Dog on blue - Acrylic on canvas - 8x8inch ( 20.5x20.5cm ) AVAILABLE
+  - image_path:
+    image_title:
     image_description:
   - image_path:
     image_title:
