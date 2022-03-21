@@ -10,32 +10,38 @@ images:
     image_title: >-
       NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
       AVAILABLE
-  - image_path: /assets/images/pink-party.jpg
-    image_title: >-
-      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
-      AVAILABLE
-    image_description:
+  - image_path: /assets/images/dogs--champange-1.jpg
+    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path: /assets/images/garden-party.JPG
     image_title: >-
       Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
       AVAILABLE
     image_description:
+  - image_path: /assets/images/pink-party.jpg
+    image_title: >-
+      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
+      AVAILABLE
+    image_description:
+  - image_path: /assets/images/four-dogs--party.jpg
+    image_title:
+    image_description: Four Dogs-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
   - image_path: /assets/images/img-3800-1.JPG
     image_title: Party on Deep Pink 40x47inch ( 1.20x1.00cm    ) Acrylic on Box Canvas SOLD
     image_description:
+  - image_path: /assets/images/come-together---party.JPG
+    image_title:
+    image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
   - image_path: /assets/images/wine-by-the-sea.jpg
     image_title: >-
       Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
       23.5x19.5inch - AVAILABLE
     image_description:
-  - image_path: /assets/images/booklcub2-1.jpg
-    image_title: The Book Club - Acrylic on Box Canvas 40x40inch ( 1x1meter ) AVALABLE
-    image_description:
+  - image_path: /assets/images/commission-2021---party.JPG
+    image_title:
+    image_description: Commission 2021-Party-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
-  - image_path: /assets/images/dogs--champange-1.jpg
-    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path: /assets/images/fullsizeoutput-ca2.jpeg
     image_title: Commission - SOLD - Acrylic on Canvas 4ftx30inch 9 1.20x76cm )
     image_description:
@@ -71,15 +77,9 @@ images:
     image_description:
   - image_path:
     image_title:
-    image_description:
-  - image_path:
-    image_title: Small Bird SOLD
-    image_description:
-  - image_path:
-    image_title: Golden
   - image_path:
     image_title:
-    image_description: 10&quot;x20&quot;/ 26x51cm, 2011,
+    image_description:
   - image_path:
     image_title:
     image_description:
@@ -99,9 +99,6 @@ images:
     image_title:
     image_description:
   - image_path:
-    image_title: Memories
-    image_description:
-  - image_path:
     image_title:
     image_description:
   - image_path:
@@ -117,8 +114,11 @@ images:
     image_title:
     image_description:
   - image_path:
-    image_title: Three Women
-    image_description: 6&quot;x6&quot;, Acrylic on Canvas, 2012
+    image_title:
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
@@ -212,4 +212,3 @@ _comments:
   main_image_path: This is the image used to represent your gallery
   images: Add and edit your gallery images here
 ---
-
