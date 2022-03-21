@@ -3,7 +3,7 @@ title: Birds
 description_markdown:
 _gallery_date:
 permalink: /gallery/birds/
-main_image_path: /assets/images/bird-with-gold-frame.JPG
+main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
   - image_path: /assets/images/bird-with-gold-frame.JPG
     image_description:
@@ -49,7 +49,7 @@ images:
     image_description:
     image_title: >-
       Bird on Red with Bowl - Acrylic on canvas - 12x12inch ( 30.48x30.48cm )
-      AVAILABLE
+      SOLD
   - image_path: /assets/images/bird-on-black.JPG
     image_description:
     image_title: Bird on Black - Acrylic on box canvas - 12x12inch ( 30.48x30.48cm ) SOLD
