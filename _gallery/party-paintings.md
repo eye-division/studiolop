@@ -23,8 +23,8 @@ images:
       AVAILABLE
     image_description:
   - image_path: /assets/images/four-dogs--party.jpg
-    image_title:
-    image_description: Four Dogs-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+    image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+    image_description:
   - image_path: /assets/images/img-3800-1.JPG
     image_title: Party on Deep Pink 40x47inch ( 1.20x1.00cm    ) Acrylic on Box Canvas SOLD
     image_description:
