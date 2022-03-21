@@ -44,7 +44,7 @@ images:
     image_description:
     image_title: >-
       Bird on Yellow with Blossom - Acrylic on box canvas - 12x12inch (
-      30.48x30.48cm ) AVAILABLE
+      30.48x30.48cm ) SOLD
   - image_path: /assets/images/bird-on-red.jpg
     image_description:
     image_title: >-
