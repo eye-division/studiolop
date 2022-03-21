@@ -54,9 +54,9 @@ images:
   - image_path: /assets/images/come-together---party.JPG
     image_title:
     image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
-  - image_path:
+  - image_path: /assets/images/four-dogs--party.jpg
     image_title:
-    image_description:
+    image_description: Four Dogs-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
   - image_path:
     image_title:
     image_description:
