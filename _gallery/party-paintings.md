@@ -51,9 +51,9 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path:
+  - image_path: /assets/images/come-together---party.JPG
     image_title:
-    image_description:
+    image_description: Come Together -Acrylic on Canvas-48x36inch/122x91cm-SOLD
   - image_path:
     image_title:
     image_description:
