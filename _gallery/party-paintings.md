@@ -10,6 +10,8 @@ images:
     image_title: >-
       NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
       AVAILABLE
+  - image_path: /assets/images/dogs--champange-1.jpg
+    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path: /assets/images/pink-party.jpg
     image_title: >-
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
@@ -34,8 +36,6 @@ images:
   - image_path: /assets/images/barbara-harrison-caban.jpg
     image_title: Acrylic on Canvas 4x3ft ( 1.21x91cm ) 2014 SOLD
     image_description:
-  - image_path: /assets/images/dogs--champange-1.jpg
-    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch AVAILABLE'
   - image_path: /assets/images/fullsizeoutput-ca2.jpeg
     image_title: Commission - SOLD - Acrylic on Canvas 4ftx30inch 9 1.20x76cm )
     image_description:
@@ -73,7 +73,7 @@ images:
     image_title:
     image_description:
   - image_path:
-    image_title: Small Bird SOLD
+    image_title:
     image_description:
   - image_path:
     image_title: Golden
