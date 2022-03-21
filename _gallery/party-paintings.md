@@ -117,8 +117,8 @@ images:
     image_title:
     image_description:
   - image_path:
-    image_title: Three Women
-    image_description: 6&quot;x6&quot;, Acrylic on Canvas, 2012
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
