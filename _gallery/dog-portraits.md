@@ -20,7 +20,7 @@ images:
     image_title: >-
       Romano II - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
       approx ) SOLD
-    image_description: '12"x12",Acrylic on Acrylic, linen finished paper, 2013'
+    image_description: 12"x12",Acrylic on Acrylic, linen finished paper, 2013
   - image_path: /assets/images/516eb2825f981.jpg
     image_title: >-
       Romano III - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm 
@@ -63,10 +63,8 @@ images:
   - image_path: /assets/images/dog-on-blue.jpg
     image_title: Dog on blue - Acrylic on canvas - 8x8inch ( 20.5x20.5cm ) AVAILABLE
     image_description:
-  - image_path: /assets/images/sleeoing-dog-on-red.JPG
-    image_title: >-
-      Sleeping dog on red - Acrylic on canvas - 8x8inch ( 20.5x20.5cm )
-      AVAILABLE
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/ted.jpg
     image_title: Ted - Commission -Acrylic on Canvas - 12inch sq/30.5cm sq - SOLD
