@@ -5,6 +5,16 @@ _gallery_date:
 permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
+  - image_path: /assets/images/four-small-birdies.jpg
+    image_description:
+    image_title: >-
+      Four Small Individual Bird Paintings - Acrylic on Canvas - 6inch sq / 15cm
+      sq AVAILABLE
+  - image_path: /assets/images/bird---love-is.JPG
+    image_description:
+    image_title: >-
+      Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
+      30.48x30.48cm ) AVAILABLE
   - image_path: /assets/images/bird-with-gold-frame.JPG
     image_description:
     image_title: >-
@@ -35,16 +45,11 @@ images:
     image_title: >-
       Yellow Bird 2021 - Gouache & Metallic Paint on Handmade 100% Cotton Paper
       - 20.3cm sq / 8inch sq - SOLD
-  - image_path: /assets/images/bird---love-is.JPG
-    image_description:
-    image_title: >-
-      Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
-      30.48x30.48cm ) AVAILABLE
   - image_path: /assets/images/bird-on-yellow.JPG
     image_description:
     image_title: >-
       Bird on Yellow with Blossom - Acrylic on box canvas - 12x12inch (
-      30.48x30.48cm ) SOLD
+      30.48x30.48cm  ) SOLD
   - image_path: /assets/images/bird-on-red.jpg
     image_description:
     image_title: >-
@@ -58,11 +63,6 @@ images:
     image_title: >-
       Clay Bird mounted on canvas paper , acrylic ,varnish/shellac - framed in a
       shadow box w/glass 12x12inch ( 30.48x30.48cm ) AVAILABLE -
-  - image_path: /assets/images/flying-bird.jpg
-    image_description:
-    image_title: >-
-      Flying Bird with Trees - Acrylic on Canvas - 24x24inch ( 61x61cm )
-      AVAILABLE
   - image_path: /assets/images/framed-purple-bird.JPG
     image_description:
     image_title: >-
