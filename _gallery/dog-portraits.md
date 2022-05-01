@@ -42,6 +42,9 @@ images:
   - image_path: /assets/images/white-dog---commission-2022.jpg
     image_title: White Dog Commission -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
     image_description:
+  - image_path: /assets/images/two-dogs-commission-xmas-2021.jpg
+    image_title: Two Dogs Commission 2021 -Acrylic on Box Canvas - 12x16inch/30x40cm SOLD
+    image_description:
   - image_path: /assets/images/516eb1e223524.jpg
     image_title: >-
       Romano II - Acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
@@ -65,9 +68,6 @@ images:
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
-    image_description:
-  - image_path: /assets/images/two-dogs-commission-xmas-2021.jpg
-    image_title: Two Dogs Commission 2021 -Acrylic on Box Canvas - 12x16inch/30x40cm SOLD
     image_description:
 _comments:
   title: your gallery title
