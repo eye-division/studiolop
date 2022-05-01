@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
+  - image_path: /assets/images/woman-and-dog.JPG
+    image_description:
+    image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
   - image_path: /assets/images/girl-on-blue-2021.jpg
     image_description:
     image_title: >-
@@ -79,9 +82,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/images/woman-and-dog.JPG
-    image_description:
-    image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
