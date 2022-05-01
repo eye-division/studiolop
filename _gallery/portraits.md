@@ -18,6 +18,9 @@ images:
     image_title: >-
       Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
       22x18inch - AVAILABLE
+  - image_path: /assets/images/the-farewell.jpg
+    image_description:
+    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
@@ -82,9 +85,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/images/the-farewell.jpg
-    image_description:
-    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
