@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
+  - image_path: /assets/images/woman-and-dog.JPG
+    image_description:
+    image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
   - image_path: /assets/images/girl-on-blue-2021.jpg
     image_description:
     image_title: >-
@@ -15,6 +18,9 @@ images:
     image_title: >-
       Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
       22x18inch - AVAILABLE
+  - image_path: /assets/images/the-farewell.jpg
+    image_description:
+    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
