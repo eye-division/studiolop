@@ -23,9 +23,6 @@ images:
   - image_path: /assets/images/still-life-with-fish.jpg
     image_description:
     image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
-  - image_path: /assets/images/jam.jpg
-    image_description:
-    image_title: Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/barbara-harrison-caban----blue-still-life--oxford-city.jpg
     image_description:
     image_title: >-
@@ -39,6 +36,9 @@ images:
     image_title: >-
       Cakes, Fruits & Champange-Acrylic on Box
       Canvas-47x31inch/120x80cm-AVAILABLE
+  - image_path: /assets/images/jam.jpg
+    image_description:
+    image_title: Jam-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/still-life-with-cherries.jpg
     image_description:
     image_title: Still Life with Cherries-Acrylic on Box Canvas-12inch sq / 30.5cm sq-SOLD
@@ -62,6 +62,11 @@ images:
   - image_path: /assets/images/fish-2017.jpg
     image_description:
     image_title: Fish with Lemons - Acrylic on Box Canvas - 16inch sq/40.5cm sq - SOLD
+  - image_path: /assets/images/card-design-still-life-for-japan.JPG
+    image_description:
+    image_title: >-
+      Greeting Card Design - Still Life for a business in Japan - Canvas Paper
+      12inch sq/ 30.5cm sq SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
