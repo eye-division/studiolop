@@ -60,8 +60,8 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/dog-on-pink--commission-2022.jpg
+    image_title: Commissioned Dog on Pink -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
     image_description:
   - image_path:
     image_title:
