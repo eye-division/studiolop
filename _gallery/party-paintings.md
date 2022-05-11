@@ -9,7 +9,7 @@ images:
   - image_path: /assets/images/new-party-painting-2020-1.JPG
     image_title: >-
       NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
-      AVAILABLE
+      SOLD
   - image_path: /assets/images/dogs--champange-1.jpg
     image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch SOLD'
   - image_path: /assets/images/garden-party.JPG
