@@ -7,7 +7,7 @@ main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
   - image_path: /assets/images/snowdrops--tea.jpg
     image_description:
-    image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+    image_title: Snowdrops & Tea-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/cherries--pears-still-life.jpg
     image_description:
     image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
