@@ -6,12 +6,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
-  - image_path: /assets/images/new-party-painting-2020-1.JPG
-    image_title: >-
-      NEW 2020! Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch -
-      SOLD
-  - image_path: /assets/images/dogs--champange-1.jpg
-    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch SOLD'
+  - image_path: /assets/images/four-dogs--party.jpg
+    image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+    image_description:
   - image_path: /assets/images/garden-party.JPG
     image_title: >-
       Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
@@ -22,19 +19,20 @@ images:
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
       AVAILABLE
     image_description:
-  - image_path: /assets/images/four-dogs--party.jpg
-    image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+  - image_path: /assets/images/wine-by-the-sea.jpg
+    image_title: >-
+      Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
+      23.5x19.5inch - AVAILABLE
     image_description:
+  - image_path: /assets/images/new-party-painting-2020-1.JPG
+    image_title: ' Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch - SOLD'
+  - image_path: /assets/images/dogs--champange-1.jpg
+    image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch SOLD'
   - image_path: /assets/images/img-3800-1.JPG
     image_title: Party on Deep Pink 40x47inch ( 1.20x1.00cm    ) Acrylic on Box Canvas SOLD
     image_description:
   - image_path: /assets/images/come-together---party.JPG
     image_title: Come Together-Acrylic on Canvas-48x36inch/122x91cm-SOLD
-    image_description:
-  - image_path: /assets/images/wine-by-the-sea.jpg
-    image_title: >-
-      Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
-      23.5x19.5inch - AVAILABLE
     image_description:
   - image_path: /assets/images/commission-2021---party.JPG
     image_title: Commission 2021-Party-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
