@@ -27,7 +27,7 @@ images:
     image_description:
     image_title: >-
       Still life with Oranges & Honeysuckle-Acrylic on Box Canvas-24inch sq/61cm
-      sq-AVAILABLE
+      sq-SOLD
   - image_path: /assets/images/barbara-harrison-caban-still-life-with-oranges.jpg
     image_description:
     image_title: Still life with Oranges-Acrylic on Box Canvas-47x31inch/120x80cm-AVAILABLE
