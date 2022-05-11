@@ -25,7 +25,7 @@ images:
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
   - image_path: /assets/images/mini-portraits.jpg
-    image_description:
+    image_description: Top middle & bottom right - SOLD
     image_title: >-
       Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm -
       AVAILABLE

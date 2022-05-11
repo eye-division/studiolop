@@ -29,7 +29,7 @@ images:
   - image_path: /assets/images/img-5941.jpg
     image_title: >-
       Large Night Time Harbour - Acrylic on Box Canvas 60x90cm ( 24x36inch ) -
-      AVAILABLE
+      SOLD
     image_description:
   - image_path: /assets/images/small-harbour-1.JPG
     image_title: Small Harbour with Pink - Acrylic on Canvas - 30x30cm ) 12x12inch ) SOLD
@@ -98,7 +98,7 @@ images:
     image_description:
   - image_path:
     image_title:
-    image_description: '18x18,'
+    image_description: 18x18,
   - image_path:
     image_title:
     image_description:
