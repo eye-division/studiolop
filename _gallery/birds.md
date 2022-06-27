@@ -6,10 +6,10 @@ permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
   - image_path: /assets/images/four-small-birdies.jpg
-    image_description: Green Bird on Black - SOLD
+    image_description:
     image_title: >-
       Four Small Individual Bird Paintings - Acrylic on Canvas - 6inch sq / 15cm
-      sq AVAILABLE
+      sq SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
