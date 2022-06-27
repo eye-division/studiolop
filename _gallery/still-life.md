@@ -15,7 +15,7 @@ images:
       Canvas-47x31inch/120x80cm-AVAILABLE
   - image_path: /assets/images/still-life-with-fish.jpg
     image_description:
-    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-AVAILABLE
+    image_title: Still Life with Fish-Acrylic on Box Canvas -12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
