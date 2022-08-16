@@ -72,6 +72,11 @@ images:
     image_title: >-
       Oranges & Lemons - Still Life - Acrylic on Box Canvas19.7 inch sq / 50 cm
       sq - AVAILABLE
+  - image_path: /assets/images/still-life-with-candel.jpg
+    image_description:
+    image_title: >-
+      Still Life with Candle - acrylic on Box Canvas - 16 inch sq / 41 cm sq -
+      AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
