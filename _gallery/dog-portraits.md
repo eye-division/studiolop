@@ -16,25 +16,28 @@ images:
       Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
       30x30cm approx ) AVAILABLE
     image_description:
-  - image_path: /assets/images/5159fda720182.jpg
-    image_title: >-
-      ROMANO - Acrylic on canvas,linen finished paper, - 12x12inch ( 30x30cm 
-      approx) SOLD
-    image_description:
   - image_path: /assets/images/brown-dog.jpg
     image_title: >-
       Brown dog - acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
       approx ) AVAILABLE
+    image_description:
+  - image_path: /assets/images/516eb22fb866b.jpg
+    image_title: >-
+      Dog - Acrylic on Canvas,linen finished paper - 12x12inch ( 30x30cm approx)
+      SOLD
     image_description:
   - image_path: /assets/images/toung-out-dog.jpg
     image_title: >-
       Tongue out dog - Acrylic on canvas linen finished paper - 12x12inch (
       30x30cm approx ) AVAILABLE
     image_description:
-  - image_path: /assets/images/516eb22fb866b.jpg
+  - image_path: /assets/images/5159fda720182.jpg
     image_title: >-
-      Dog - Acrylic on Canvas,linen finished paper - 12x12inch ( 30x30cm approx)
-      SOLD
+      ROMANO - Acrylic on canvas,linen finished paper, - 12x12inch ( 30x30cm 
+      approx) SOLD
+    image_description:
+  - image_path: /assets/images/poppy-commission-dog.jpg
+    image_title: Poppy - Acrylic on Box Canvas - 12 inch sq / 30.5 cm sq - Commission
     image_description:
   - image_path: /assets/images/dog-on-pink--commission-2022.jpg
     image_title: Commissioned Dog on Pink -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
