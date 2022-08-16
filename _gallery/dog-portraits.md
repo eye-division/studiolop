@@ -37,7 +37,7 @@ images:
       approx) SOLD
     image_description:
   - image_path: /assets/images/poppy-commission-dog.jpg
-    image_title: Poppy - Acrylic on Box Canvas - 12 inch sq / 30.5 cm sq - Commission
+    image_title: Poppy - Acrylic on Box Canvas - 12 inch sq / 30.5 cm sq - Commission SOLD
     image_description:
   - image_path: /assets/images/dog-on-pink--commission-2022.jpg
     image_title: Commissioned Dog on Pink -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
