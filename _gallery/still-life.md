@@ -24,7 +24,7 @@ images:
   - image_path: /assets/images/oranges--lemons-still-life.jpg
     image_description:
     image_title: >-
-      Oranges & Lemons - Still Life - Acrylic on Box Canvas19.7 inch sq / 50 cm
+      Oranges & Lemons - Still Life - Acrylic on Box Canvas 19.7 inch sq / 50 cm
       sq - AVAILABLE
   - image_path: /assets/images/still-life-with-candel.jpg
     image_description:
