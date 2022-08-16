@@ -67,6 +67,11 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/images/oranges--lemons-still-life.jpg
+    image_description:
+    image_title: >-
+      Oranges & Lemons - Still Life - Acrylic on Box Canvas19.7 inch sq / 50 cm
+      sq - AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
