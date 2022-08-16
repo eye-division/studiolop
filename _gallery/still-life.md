@@ -77,6 +77,11 @@ images:
     image_title: >-
       Still Life with Candle - acrylic on Box Canvas - 16 inch sq / 41 cm sq -
       AVAILABLE
+  - image_path: /assets/images/pink-blossom-still-life.jpg
+    image_description:
+    image_title: >-
+      Pink Blossom - Still Life - Acrylic on Box Canvas - 12 inch sq / 30.5cm sq
+      - AVAILABLE
 _comments:
   title: add a Gallery title
   permalink: page URL name
