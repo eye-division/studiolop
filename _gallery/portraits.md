@@ -24,17 +24,6 @@ images:
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
-  - image_path: /assets/images/mini-portraits.jpg
-    image_description: Top middle ,right & bottom right - SOLD
-    image_title: >-
-      Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
-      AVAILABLE
-  - image_path: /assets/images/faces.jpg
-    image_description:
-    image_title: Individual Mini Portraits - Acrylic on Canvas - 6x4inch/15x10cm - SOLD
-  - image_path: /assets/images/lucrezia---commission.jpg
-    image_description:
-    image_title: Lucrezia - Commission - Acrylic on Canvas -SOLD
   - image_path: /assets/images/bishi-2020.JPG
     image_description:
     image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
@@ -63,11 +52,22 @@ images:
     image_title: >-
       Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
       50x100cm ) AVAILABLE
+  - image_path: /assets/images/mini-portraits.jpg
+    image_description: Top middle ,right & bottom right - SOLD
+    image_title: >-
+      Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
+      AVAILABLE
+  - image_path: /assets/images/faces.jpg
+    image_description:
+    image_title: Individual Mini Portraits - Acrylic on Canvas - 6x4inch/15x10cm - SOLD
   - image_path: /assets/images/henrietta-isabella-talulah.JPG
     image_description:
     image_title: >-
       Three Women - From left : Isabella - Talulah - Henrietta - Acrylic on box
       canvas in white float frames - 8x8inch ( 20x20cm ) AVAILABLE
+  - image_path: /assets/images/lucrezia---commission.jpg
+    image_description:
+    image_title: Lucrezia - Commission - Acrylic on Canvas -SOLD
   - image_path: /assets/images/friends-1.jpg
     image_description:
     image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) SOLD
@@ -91,6 +91,9 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/images/peace.jpg
+    image_description:
+    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
