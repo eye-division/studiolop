@@ -55,8 +55,10 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/last-days-of-summer---partypainting.jpg
+    image_title: >-
+      'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
+      2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
   - image_path:
     image_title:
