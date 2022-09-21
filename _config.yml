@@ -22,7 +22,6 @@ markdown: kramdown
 
 permalink: pretty
 
-uploads_dir: "assets/images"
 
 # Image CDN
 imagecdn:
