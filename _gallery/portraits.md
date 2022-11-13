@@ -14,8 +14,8 @@ images:
   - image_path: /assets/images/girl-on-blue-2021.jpg
     image_description:
     image_title: >-
-      Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45.7cm / 22x18inch -
-      AVAILABLE
+      Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45. .7cm / 22x18inch -
+      SOLD
   - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
     image_description:
     image_title: >-

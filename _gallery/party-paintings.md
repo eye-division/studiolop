@@ -60,11 +60,11 @@ images:
   - image_path: /assets/images/yellow-party.JPG
     image_title: Yellow Party  2018 - Acrylic on Box Canvas - 60x90cm ( 24x36inch ) SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/7990fece-cea5-47a9-a010-0dfe8ce110f8.jpeg
+    image_title: Girls Rock -Acrylic on Box Canvas-12inch sq/30.5cm sq -SOLD
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/af4950e9-9032-4f9c-8150-6001f5f2f51c.jpeg
+    image_title: The Boys - Acrylic on Box Canvas-12inch sq/30.5cm sq- SOLD
     image_description:
   - image_path:
     image_title:
