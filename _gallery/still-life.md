@@ -29,8 +29,8 @@ images:
   - image_path: /assets/images/still-life-with-candel.jpg
     image_description:
     image_title: >-
-      Still Life with Candle - acrylic on Box Canvas - 16 inch sq / 41 cm sq -
-      AVAILABLE
+      Still Life with Candle - acrylic on Box Canvas -  16     sq / 41 cm sq -
+      SOLD
   - image_path: /assets/images/barbara-harrison-caban-still-life-with-oranges.jpg
     image_description:
     image_title: Still life with Oranges-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
