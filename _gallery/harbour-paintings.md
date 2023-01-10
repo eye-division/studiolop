@@ -69,9 +69,9 @@ images:
       Night Time Harbour/Harbor - Acrylic on Box Canvas - 18x18inch ( 46x46cm
       approx ) SOLD
     image_description:
-  - image_path:
-    image_title:
-    image_description: '1'
+  - image_path: /assets/339602f7-6f2e-46ff-8c0e-0adfdbadbe21.jpeg
+    image_title: 'Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
+    image_description:
   - image_path:
     image_title:
     image_description:
