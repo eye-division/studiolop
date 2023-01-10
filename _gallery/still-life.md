@@ -82,6 +82,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
+    image_description:
+    image_title: 'Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
