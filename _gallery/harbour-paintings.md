@@ -6,6 +6,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/harbour-paintings/
 main_image_path: /assets/images/small-harbour.JPG
 images:
+  - image_path: /assets/339602f7-6f2e-46ff-8c0e-0adfdbadbe21.jpeg
+    image_title: 'Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
+    image_description:
   - image_path: /assets/images/big-new-harbour-1.JPG
     image_title: >-
       Large Harbour 2020 - Acrylic on Canvas - 50x100cm / 39.5x19.5inch
@@ -68,9 +71,6 @@ images:
     image_title: >-
       Night Time Harbour/Harbor - Acrylic on Box Canvas - 18x18inch ( 46x46cm
       approx ) SOLD
-    image_description:
-  - image_path: /assets/339602f7-6f2e-46ff-8c0e-0adfdbadbe21.jpeg
-    image_title: 'Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
     image_description:
   - image_path:
     image_title:
