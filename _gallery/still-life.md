@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
+  - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
+    image_description:
+    image_title: 'Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq AVAILABLE '
   - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
     image_description:
     image_title: >-
