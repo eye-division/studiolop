@@ -1,7 +1,7 @@
 ---
 title: Harbour Paintings
 _hide_content: true
-description_markdown:
+description_markdown: ''
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/harbour-paintings/
 main_image_path: /assets/images/small-harbour.JPG
@@ -74,96 +74,6 @@ images:
     image_title: >-
       Small Night Time Harbour/Harbor - Acrylic on Canvas - 6x8inch ( 15x21cm )
       SOLD
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description: 18x18,
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
     image_description:
 _comments:
   title: add a Gallery title
