@@ -1,6 +1,6 @@
 ---
 title: Still Life
-description_markdown:
+description_markdown: ''
 _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
@@ -85,6 +85,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
+    image_description: 'Cherries & Candy-  Acrylic on Box Canvas 30.5cm sq / 12inch sq AVAILABLE '
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
