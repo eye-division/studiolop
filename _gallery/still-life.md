@@ -14,8 +14,10 @@ images:
     image_description:
     image_title: '‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq AVAILABLE '
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
-    image_description: 'Cherries & Candy-  Acrylic on Box Canvas 30.5cm sq / 12inch sq AVAILABLE '
-    image_title: ''
+    image_description:
+    image_title: >-
+      ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq
+      AVAILABLE 
   - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
     image_description:
     image_title: 'Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq AVAILABLE '
