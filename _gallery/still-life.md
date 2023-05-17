@@ -8,7 +8,10 @@ images:
   - image_path: /assets/48e9fde2-3900-4951-8923-f240574e16f9.jpeg
     image_description: >-
       Everytime I Look at You it’s Spring - Acrylic on Box Canvas 120x80cm/
-      47x31inch
+      47x31inch AVAILABLE 
+    image_title: ''
+  - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
+    image_description: 'Grapes & Champange - Acrylic on Canvas 61cm sq / 24inch sq AVAILABLE '
     image_title: ''
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
     image_description: 'Cherries & Candy-  Acrylic on Box Canvas 30.5cm sq / 12inch sq AVAILABLE '
@@ -37,9 +40,6 @@ images:
     image_title: >-
       Oranges & Lemons - Still Life - Acrylic on Box Canvas 19.7 inch sq / 50 cm
       sq - AVAILABLE
-  - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
-    image_description: 'Grapes & Champange - Acrylic on Canvas 61cm sq / 24inch sq AVAILABLE '
-    image_title: ''
   - image_path: /assets/images/still-life-with-candel.jpg
     image_description:
     image_title: >-
