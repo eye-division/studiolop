@@ -93,6 +93,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
+    image_description: Grapes & Champange - Acrylic on Canvas 61cm sq / 24inch sq
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
