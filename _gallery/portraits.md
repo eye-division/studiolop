@@ -39,7 +39,7 @@ images:
     image_description:
     image_title: >-
       Brunette Woman on Pink - One of a Pair - Acrylic on Box Canvas - 14x18inch
-      ( 35.5x45.5cm ) AVAILABLE
+      SOLD 
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
