@@ -1,6 +1,6 @@
 ---
 title: Portraits
-description_markdown:
+description_markdown: ''
 _gallery_date:
 permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
@@ -34,7 +34,7 @@ images:
     image_description:
     image_title: >-
       Blond Woman on Pink - One of a pair - Acrylic on Box Canvas - 14x18inch (
-      35.5x45.5cm ) AVAILABLE
+      35.5x40.5cm) SOLD 
   - image_path: /assets/images/img-6318-jpg-brunette.jpg
     image_description:
     image_title: >-
