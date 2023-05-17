@@ -11,8 +11,8 @@ images:
       ‘Everytime I Look at You it’s Spring’ - Acrylic on Box
       Canvas-120x80cm/47x31inch AVAILABLE 
   - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
-    image_description: 'Grapes & Champange - Acrylic on Canvas 61cm sq / 24inch sq AVAILABLE '
-    image_title: ''
+    image_description:
+    image_title: '‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq AVAILABLE '
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
     image_description: 'Cherries & Candy-  Acrylic on Box Canvas 30.5cm sq / 12inch sq AVAILABLE '
     image_title: ''
