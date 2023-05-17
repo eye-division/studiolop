@@ -11,6 +11,9 @@ images:
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
       2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
+  - image_path: /assets/41aa4b5e-97c0-414d-b808-297a04fb8641.jpeg
+    image_title: ''
+    image_description: 'Dining Out - Acrylic on Box Canvas 120x80 cm / 47x31inch AVAILABLE '
   - image_path: /assets/images/four-dogs--party.jpg
     image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
     image_description:
@@ -72,9 +75,6 @@ images:
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
     image_description:
-  - image_path: /assets/41aa4b5e-97c0-414d-b808-297a04fb8641.jpeg
-    image_title: ''
-    image_description: 'Dining Out - Acrylic on Box Canvas 120x80 cm / 47x31inch AVAILABLE '
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
