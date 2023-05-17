@@ -1,7 +1,7 @@
 ---
 title: Party Paintings & Social Gatherings
 _hide_content: true
-description_markdown:
+description_markdown: ''
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
@@ -11,6 +11,9 @@ images:
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
       2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
+  - image_path: /assets/41aa4b5e-97c0-414d-b808-297a04fb8641.jpeg
+    image_title: ''
+    image_description: 'Dining Out - Acrylic on Box Canvas 120x80 cm / 47x31inch AVAILABLE '
   - image_path: /assets/images/four-dogs--party.jpg
     image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
     image_description:
@@ -66,144 +69,9 @@ images:
   - image_path: /assets/af4950e9-9032-4f9c-8150-6001f5f2f51c.jpeg
     image_title: The Boys - Acrylic on Box Canvas-12inch sq/30.5cm sq- SOLD
     image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title: The Singer
-    image_description: Acrylic on Hessian / Burlap, 1998
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /assets/images/5417350894b5b.jpg
     image_title: Moonlit Party -  Acrylic on Canvas - 1.20x76cm ( 4ftx30inch ) - SOLD
     image_description:
-  - image_path:
-    image_title:
-    image_description: 8&quot;x8&quot;, Acrylic on Canvas, 2014
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
     image_description:
