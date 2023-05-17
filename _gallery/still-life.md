@@ -88,6 +88,11 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/48e9fde2-3900-4951-8923-f240574e16f9.jpeg
+    image_description: >-
+      Everytime I Look at You it’s Spring - Acrylic on Box Canvas 120x80cm/
+      47x31inch
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
