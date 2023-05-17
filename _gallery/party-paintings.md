@@ -12,8 +12,8 @@ images:
       2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
   - image_path: /assets/41aa4b5e-97c0-414d-b808-297a04fb8641.jpeg
-    image_title: ''
-    image_description: 'Dining Out - Acrylic on Box Canvas 120x80 cm / 47x31inch AVAILABLE '
+    image_title: '‘Dining Out ‘ - Acrylic on Box Canvas- 120x80cm / 47x31inch AVAILABLE '
+    image_description:
   - image_path: /assets/images/four-dogs--party.jpg
     image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
     image_description:
