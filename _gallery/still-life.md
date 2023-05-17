@@ -6,10 +6,10 @@ permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
   - image_path: /assets/48e9fde2-3900-4951-8923-f240574e16f9.jpeg
-    image_description: >-
-      Everytime I Look at You it’s Spring - Acrylic on Box Canvas 120x80cm/
-      47x31inch AVAILABLE 
-    image_title: ''
+    image_description:
+    image_title: >-
+      ‘Everytime I Look at You it’s Spring’ - Acrylic on Box
+      Canvas-120x80cm/47x31inch AVAILABLE 
   - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
     image_description: 'Grapes & Champange - Acrylic on Canvas 61cm sq / 24inch sq AVAILABLE '
     image_title: ''
