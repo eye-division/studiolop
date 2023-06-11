@@ -26,7 +26,7 @@ images:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
-    image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
+    image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - SOLD
   - image_path: /assets/images/bishi-2020.JPG
     image_description:
     image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
