@@ -1,15 +1,15 @@
 ---
 title: Dog Portraits
 _hide_content: true
-description_markdown:
+description_markdown: ''
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/dog-portraits/
 main_image_path: /assets/images/img-0823.JPG
 images:
   - image_path: /assets/images/dog-with-pink-collar-1.jpg
     image_title: >-
-      Black dog with pink collar - Acrylic on canvas linen finished paper  -
-      12x12inch ( 30x30cm approx ) AVAILABLE
+      Black dog with pink collar - Acrylic on canvas linen finished paper ,12
+      inch sq/ 30cm sq SOLD
     image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
