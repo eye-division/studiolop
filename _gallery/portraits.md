@@ -7,7 +7,7 @@ main_image_path: /assets/images/friends.jpg
 images:
   - image_path: /assets/images/peace.jpg
     image_description:
-    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
+    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - SOLD
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
