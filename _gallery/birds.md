@@ -1,6 +1,6 @@
 ---
 title: Birds
-description_markdown:
+description_markdown: ''
 _gallery_date:
 permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
@@ -61,8 +61,8 @@ images:
   - image_path: /assets/images/clay-bird.jpg
     image_description:
     image_title: >-
-      Clay Bird mounted on canvas paper , acrylic ,varnish/shellac - framed in a
-      shadow box w/glass 12x12inch ( 30.48x30.48cm ) AVAILABLE -
+      Clay Bird mounted on canvas paper , acrylic ,varnish/shellac - framed-box
+      w/ glass12x12inc ( 30.48x30.48cm ) SOLD
   - image_path: /assets/images/framed-purple-bird.JPG
     image_description:
     image_title: >-
