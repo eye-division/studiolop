@@ -12,7 +12,7 @@ images:
       Canvas-120x80cm/47x31inch SOLD 
   - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
     image_description:
-    image_title: '‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq AVAILABLE '
+    image_title: ‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq SOLD
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
     image_description:
     image_title: >-
