@@ -33,8 +33,8 @@ images:
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
-      Blond Woman on Pink - One of a pair - Acrylic on Box Canvas - 14x18inch (
-      35.5x40.5cm) SOLD 
+      Blond Woman on Pink - Acrylic on Box Canvas - 14x18inch ( 35.5x40.5cm)
+      SOLD 
   - image_path: /assets/images/img-6318-jpg-brunette.jpg
     image_description:
     image_title: >-
