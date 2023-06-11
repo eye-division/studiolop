@@ -8,11 +8,11 @@ images:
   - image_path: /assets/48e9fde2-3900-4951-8923-f240574e16f9.jpeg
     image_description:
     image_title: >-
-      ‘Everytime I Look at You it’s Spring’ - Acrylic on Box
-      Canvas-120x80cm/47x31inch AVAILABLE 
+      ‘Everytime I Look at You it’s Spring’,Acrylic on Box
+      Canvas-120x80cm/47x31inch SOLD 
   - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
     image_description:
-    image_title: '‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq AVAILABLE '
+    image_title: ‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq SOLD
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
     image_description:
     image_title: >-
@@ -30,18 +30,18 @@ images:
     image_description:
     image_title: >-
       Pink Blossom - Still Life - Acrylic on Box Canvas - 12 inch sq / 30.5cm sq
-      - AVAILABLE
+      - SOLD
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/cherries--pears-still-life.jpg
     image_description:
-    image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+    image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/oranges--lemons-still-life.jpg
     image_description:
     image_title: >-
       Oranges & Lemons - Still Life - Acrylic on Box Canvas 19.7 inch sq / 50 cm
-      sq - AVAILABLE
+      sq - SOLD
   - image_path: /assets/images/still-life-with-candel.jpg
     image_description:
     image_title: >-

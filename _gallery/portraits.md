@@ -7,7 +7,7 @@ main_image_path: /assets/images/friends.jpg
 images:
   - image_path: /assets/images/peace.jpg
     image_description:
-    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
+    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - SOLD
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
@@ -26,20 +26,18 @@ images:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
-    image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - AVAILABLE
+    image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - SOLD
   - image_path: /assets/images/bishi-2020.JPG
     image_description:
     image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
-      Blond Woman on Pink - One of a pair - Acrylic on Box Canvas - 14x18inch (
-      35.5x40.5cm) SOLD 
+      Blond Woman on Pink - Acrylic on Box Canvas - 14x18inch ( 35.5x40.5cm)
+      SOLD 
   - image_path: /assets/images/img-6318-jpg-brunette.jpg
     image_description:
-    image_title: >-
-      Brunette Woman on Pink - One of a Pair - Acrylic on Box Canvas - 14x18inch
-      SOLD 
+    image_title: 'Brunette Woman on Pink -- Acrylic on Box Canvas - 14x18inch SOLD '
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
