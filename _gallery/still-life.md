@@ -98,6 +98,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/ab67560f-f720-4603-9c91-6c07c1c50fd3.jpeg
+    image_description:
+    image_title: Spring Blossom & Dog-Acrylic on Box Canvas 16inch sq/41cm sq SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
