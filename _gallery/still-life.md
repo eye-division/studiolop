@@ -30,7 +30,7 @@ images:
     image_description:
     image_title: >-
       Pink Blossom - Still Life - Acrylic on Box Canvas - 12 inch sq / 30.5cm sq
-      - AVAILABLE
+      - SOLD
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
