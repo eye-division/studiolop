@@ -13,6 +13,9 @@ images:
   - image_path: /assets/407126b4-718c-412d-847f-389f768b24e9.jpeg
     image_description:
     image_title: Bird on Pink - Acrylic on Canvas 8inch sq/20.5cm sq SOLD
+  - image_path: /assets/543bb1ce-135a-4b46-bd68-d5e74faf4ec0.jpeg
+    image_description:
+    image_title: Bird on Light Orange-Acrylic on Canvas-8inch sq/20.5cm sq SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
@@ -71,9 +74,11 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
-  - image_path: /assets/543bb1ce-135a-4b46-bd68-d5e74faf4ec0.jpeg
+  - image_path: /assets/1412001d-3aec-40c7-8603-6af1c8a807fc.jpeg
     image_description:
-    image_title: Bird on Light Orange-Acrylic on Canvas-8inch sq/20.5cm sq SOLD
+    image_title: >-
+      Two Birds on Yellow-Acrylic,Canvas Paper on Wood Panel 8x12inch/20x30cm
+      SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
