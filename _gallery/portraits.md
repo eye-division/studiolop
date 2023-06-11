@@ -37,9 +37,7 @@ images:
       SOLD 
   - image_path: /assets/images/img-6318-jpg-brunette.jpg
     image_description:
-    image_title: >-
-      Brunette Woman on Pink - One of a Pair - Acrylic on Box Canvas - 14x18inch
-      SOLD 
+    image_title: 'Brunette Woman on Pink -- Acrylic on Box Canvas - 14x18inch SOLD '
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
