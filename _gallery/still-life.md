@@ -36,7 +36,7 @@ images:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/cherries--pears-still-life.jpg
     image_description:
-    image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+    image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
   - image_path: /assets/images/oranges--lemons-still-life.jpg
     image_description:
     image_title: >-
