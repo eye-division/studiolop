@@ -28,9 +28,7 @@ images:
       SOLD
     image_description:
   - image_path: /assets/images/small-harbour-2-2021.jpg
-    image_title: >-
-      Harbour with Blue 2021 - Acrylic on Canvas - 30.5cm sq / 12inch sq  
-      AVAILABLE
+    image_title: 'Harbour with Blue 2021 - Acrylic on Canvas - 30.5cm sq / 12inch sq   SOLD '
     image_description:
   - image_path: /assets/images/img-5941.jpg
     image_title: >-
