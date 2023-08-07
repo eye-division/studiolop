@@ -107,6 +107,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
+    image_description:
+    image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
