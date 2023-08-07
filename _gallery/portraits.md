@@ -61,9 +61,6 @@ images:
   - image_path: /assets/images/faces.jpg
     image_description:
     image_title: Individual Mini Portraits - Acrylic on Canvas - 6x4inch/15x10cm - SOLD
-  - image_path: ''
-    image_description:
-    image_title:
   - image_path: /assets/images/lucrezia---commission.jpg
     image_description:
     image_title: Lucrezia - Commission - Acrylic on Canvas -SOLD
@@ -90,6 +87,9 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: ''
+    image_description:
+    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
