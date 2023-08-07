@@ -21,6 +21,11 @@ images:
   - image_path: /assets/543bb1ce-135a-4b46-bd68-d5e74faf4ec0.jpeg
     image_description:
     image_title: Bird on Light Orange-Acrylic on Canvas-8inch sq/20.5cm sq SOLD
+  - image_path: /assets/6b1fcd38-bbd1-407b-bfe8-9abf6b132e7f.jpeg
+    image_description:
+    image_title: >-
+      Two Hummingbird Birds -Float frame-Acrylic on Canvas 8inch sq/20cm sq
+      COMMISSION-SOLD
   - image_path: /assets/images/bird---love-is.JPG
     image_description:
     image_title: >-
@@ -79,11 +84,6 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
-  - image_path: /assets/6b1fcd38-bbd1-407b-bfe8-9abf6b132e7f.jpeg
-    image_description:
-    image_title: >-
-      Two Hummingbird Birds -Float frame-Acrylic on Canvas 8inch sq/20cm sq
-      COMMISSION-SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
