@@ -61,11 +61,9 @@ images:
   - image_path: /assets/images/faces.jpg
     image_description:
     image_title: Individual Mini Portraits - Acrylic on Canvas - 6x4inch/15x10cm - SOLD
-  - image_path: /assets/images/henrietta-isabella-talulah.JPG
+  - image_path: ''
     image_description:
-    image_title: >-
-      Three Women - From left : Isabella - Talulah - Henrietta - Acrylic on box
-      canvas in white float frames - 8x8inch ( 20x20cm ) AVAILABLE
+    image_title:
   - image_path: /assets/images/lucrezia---commission.jpg
     image_description:
     image_title: Lucrezia - Commission - Acrylic on Canvas -SOLD
