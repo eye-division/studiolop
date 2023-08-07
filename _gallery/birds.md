@@ -10,6 +10,11 @@ images:
     image_title: >-
       Four Small Individual Bird Paintings - Acrylic on Canvas - 6inch sq / 15cm
       sq SOLD
+  - image_path: /assets/1412001d-3aec-40c7-8603-6af1c8a807fc.jpeg
+    image_description:
+    image_title: >-
+      Two Birds on Yellow-Acrylic,Canvas Paper on Wood Panel 8x12inch/20x30cm
+      SOLD
   - image_path: /assets/407126b4-718c-412d-847f-389f768b24e9.jpeg
     image_description:
     image_title: Bird on Pink - Acrylic on Canvas 8inch sq/20.5cm sq SOLD
@@ -74,11 +79,11 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
-  - image_path: /assets/1412001d-3aec-40c7-8603-6af1c8a807fc.jpeg
+  - image_path: /assets/6b1fcd38-bbd1-407b-bfe8-9abf6b132e7f.jpeg
     image_description:
     image_title: >-
-      Two Birds on Yellow-Acrylic,Canvas Paper on Wood Panel 8x12inch/20x30cm
-      SOLD
+      Two Hummingbird Birds -Float frame-Acrylic on Canvas 8inch sq/20cm sq
+      COMMISSION-SOLD
 _comments:
   title: add a Gallery title
   permalink: page URL name
