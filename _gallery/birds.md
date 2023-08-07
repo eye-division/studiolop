@@ -5,6 +5,14 @@ _gallery_date:
 permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
+  - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
+    image_description:
+    image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
+  - image_path: /assets/images/bird---love-is.JPG
+    image_description:
+    image_title: >-
+      Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
+      30.48x30.48cm ) AVAILABLE
   - image_path: /assets/images/four-small-birdies.jpg
     image_description:
     image_title: >-
@@ -26,11 +34,6 @@ images:
     image_title: >-
       Two Hummingbird Birds -Float frame-Acrylic on Canvas 8inch sq/20cm sq
       COMMISSION-SOLD
-  - image_path: /assets/images/bird---love-is.JPG
-    image_description:
-    image_title: >-
-      Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
-      30.48x30.48cm ) AVAILABLE
   - image_path: /assets/images/bird-with-gold-frame.JPG
     image_description:
     image_title: >-
