@@ -5,6 +5,31 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
+  - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
+    image_description:
+    image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq AVAILABLE '
+  - image_path: /assets/c61b1640-c446-4809-a4cc-4e6568b7ecc8.jpeg
+    image_description:
+    image_title: 'Red Lollipop Flowers-Acrylic on Box Canvas 12inch sq/30.5cm sq AVAILABLE '
+  - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
+    image_description:
+    image_title: >-
+      Cakes, Fruits & Champange-Acrylic on Box
+      Canvas-47x31inch/120x80cm-AVAILABLE
+  - image_path: /assets/images/still-life-with-apples.jpg
+    image_description:
+    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+  - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
+    image_description:
+    image_title: 'Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq AVAILABLE '
+  - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
+    image_description:
+    image_title: >-
+      ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq
+      AVAILABLE 
+  - image_path: /assets/3b0561eb-29bd-4dc3-8124-b411ffb32144.jpeg
+    image_description:
+    image_title: COMMISSION-Still Life - Acrylic on Box Canvas 50cm sq/19.7inch sq SOLD
   - image_path: /assets/48e9fde2-3900-4951-8923-f240574e16f9.jpeg
     image_description:
     image_title: >-
@@ -13,30 +38,14 @@ images:
   - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
     image_description:
     image_title: ‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq SOLD
-  - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
-    image_description:
-    image_title: >-
-      ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq
-      AVAILABLE 
-  - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
-    image_description:
-    image_title: 'Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq AVAILABLE '
   - image_path: /assets/ab67560f-f720-4603-9c91-6c07c1c50fd3.jpeg
     image_description:
     image_title: Spring Blossom & Dog-Acrylic on Box Canvas 16inch sq/41cm sq SOLD
-  - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
-    image_description:
-    image_title: >-
-      Cakes, Fruits & Champange-Acrylic on Box
-      Canvas-47x31inch/120x80cm-AVAILABLE
   - image_path: /assets/images/pink-blossom-still-life.jpg
     image_description:
     image_title: >-
       Pink Blossom - Still Life - Acrylic on Box Canvas - 12 inch sq / 30.5cm sq
       - SOLD
-  - image_path: /assets/images/still-life-with-apples.jpg
-    image_description:
-    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/images/cherries--pears-still-life.jpg
     image_description:
     image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
