@@ -87,9 +87,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: ''
+  - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
     image_description:
-    image_title:
+    image_title: >-
+      Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
+      50cm sq AVAILABLE 
 _comments:
   title: add a Gallery title
   permalink: page URL name
