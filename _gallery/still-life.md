@@ -36,6 +36,11 @@ images:
     image_title: >-
       ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq
       AVAILABLE 
+  - image_path: /assets/43cb2ec5-c2c5-4104-9846-026335140a06.jpeg
+    image_description:
+    image_title: >-
+      Large Still Life - Commissioned- Acrylic on Box Canvas 31.4inch sq / 80cm
+      sq SOLD 
   - image_path: /assets/3b0561eb-29bd-4dc3-8124-b411ffb32144.jpeg
     image_description:
     image_title: COMMISSION-Still Life - Acrylic on Box Canvas 50cm sq/19.7inch sq SOLD
@@ -119,11 +124,6 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
-  - image_path: /assets/43cb2ec5-c2c5-4104-9846-026335140a06.jpeg
-    image_description:
-    image_title: >-
-      Large Still Life - Commissioned- Acrylic on Box Canvas 31.4inch sq / 80cm
-      sq SOLD 
 _comments:
   title: add a Gallery title
   permalink: page URL name
