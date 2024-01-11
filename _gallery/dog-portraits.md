@@ -72,6 +72,9 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
+  - image_path: /assets/99cedbea-a2a1-443f-9a9e-f80b33ea0547.jpeg
+    image_title: 'Rose - Acrylic on Box Canvas 16x14inch / 40x30cm Commission SOLD '
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
