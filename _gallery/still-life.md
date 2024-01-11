@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
+  - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
+    image_description: Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm
+    image_title: ''
   - image_path: /assets/cd6f4645-2782-4d98-b46e-fff45611ef81.jpeg
     image_description: Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq
     image_title: ''
@@ -116,9 +119,6 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
-  - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
-    image_description: Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm
-    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
