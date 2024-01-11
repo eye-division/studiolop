@@ -12,8 +12,8 @@ images:
     image_description:
     image_title: 'Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
   - image_path: /assets/8c81362b-92ca-48cf-b297-5f6e23fb11a4.jpeg
-    image_description: 'Lemons & Coffee Acrylic on Box Canvas 15.7inch sq/40cm sq AVAILABLE '
-    image_title: ''
+    image_description:
+    image_title: 'Lemons& Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
   - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
     image_description:
     image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq AVAILABLE '
