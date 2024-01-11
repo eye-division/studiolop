@@ -40,6 +40,21 @@ images:
   - image_path: /assets/images/bishi-2020.JPG
     image_description:
     image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
+  - image_path: /assets/images/img-1977.JPG
+    image_description:
+    image_title: >-
+      Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
+      50x100cm ) AVAILABLE
+  - image_path: /assets/images/woman-with-blue-hair.jpg
+    image_description:
+    image_title: >-
+      WOMAN WITH BLUE HAIR - Acrylic on canvas paper on wood board - Framed -
+      8x10inch ( 20x25.5cm ) AVAILABLE
+  - image_path: /assets/images/mini-portraits.jpg
+    image_description: Top middle ,right & bottom right - SOLD
+    image_title: >-
+      Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
+      AVAILABLE
   - image_path: /assets/images/girl-on-blue-2021.jpg
     image_description:
     image_title: >-
@@ -59,21 +74,6 @@ images:
   - image_path: /assets/images/img-6318-jpg-brunette.jpg
     image_description:
     image_title: 'Brunette Woman on Pink -- Acrylic on Box Canvas - 14x18inch SOLD '
-  - image_path: /assets/images/woman-with-blue-hair.jpg
-    image_description:
-    image_title: >-
-      WOMAN WITH BLUE HAIR - Acrylic on canvas paper on wood board - Framed -
-      8x10inch ( 20x25.5cm ) AVAILABLE
-  - image_path: /assets/images/img-1977.JPG
-    image_description:
-    image_title: >-
-      Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
-      50x100cm ) AVAILABLE
-  - image_path: /assets/images/mini-portraits.jpg
-    image_description: Top middle ,right & bottom right - SOLD
-    image_title: >-
-      Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
-      AVAILABLE
   - image_path: /assets/images/faces.jpg
     image_description:
     image_title: Individual Mini Portraits - Acrylic on Canvas - 6x4inch/15x10cm - SOLD
