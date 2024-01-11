@@ -87,6 +87,9 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
+  - image_path: /assets/3251ce8d-2693-418a-945f-b6657f37fcf4.jpeg
+    image_description:
+    image_title: 'Birdie on Lilac Acrylic on Canvas 8inch sq / 20cm sq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
