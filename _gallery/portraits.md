@@ -5,6 +5,21 @@ _gallery_date:
 permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
+  - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
+    image_description:
+    image_title: >-
+      Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
+      50cm sq AVAILABLE 
+  - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
+    image_description:
+    image_title: >-
+      Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
+      22x18inch - AVAILABLE
+  - image_path: /assets/images/the-beehive.JPG
+    image_description:
+    image_title: >-
+      WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
+      58x73cm ) AVAILABLE
   - image_path: /assets/images/peace.jpg
     image_description:
     image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - SOLD
@@ -16,11 +31,6 @@ images:
     image_title: >-
       Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45. .7cm / 22x18inch -
       SOLD
-  - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
-    image_description:
-    image_title: >-
-      Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
-      22x18inch - AVAILABLE
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
@@ -38,11 +48,6 @@ images:
   - image_path: /assets/images/img-6318-jpg-brunette.jpg
     image_description:
     image_title: 'Brunette Woman on Pink -- Acrylic on Box Canvas - 14x18inch SOLD '
-  - image_path: /assets/images/the-beehive.JPG
-    image_description:
-    image_title: >-
-      WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
-      58x73cm ) AVAILABLE
   - image_path: /assets/images/woman-with-blue-hair.jpg
     image_description:
     image_title: >-
@@ -87,11 +92,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
-    image_description:
-    image_title: >-
-      Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
-      50cm sq AVAILABLE 
 _comments:
   title: add a Gallery title
   permalink: page URL name
