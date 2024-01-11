@@ -25,26 +25,26 @@ images:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
-  - image_path: /assets/images/peace.jpg
-    image_description:
-    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - SOLD
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
+  - image_path: /assets/images/the-farewell.jpg
+    image_description:
+    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
+  - image_path: /assets/images/bishi-2020.JPG
+    image_description:
+    image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
   - image_path: /assets/images/girl-on-blue-2021.jpg
     image_description:
     image_title: >-
       Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45. .7cm / 22x18inch -
       SOLD
-  - image_path: /assets/images/the-farewell.jpg
-    image_description:
-    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - SOLD
-  - image_path: /assets/images/bishi-2020.JPG
+  - image_path: /assets/images/peace.jpg
     image_description:
-    image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
+    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - SOLD
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
