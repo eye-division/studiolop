@@ -20,12 +20,12 @@ images:
     image_title: >-
       Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
       22x18inch - AVAILABLE
-  - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
-    image_description:
-    image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
   - image_path: /assets/b9b0dd45-2cf7-48fa-b42f-322406accfe2.jpeg
     image_description:
     image_title: 'Afternoon Portrait- Acrylic on Box Canvas 12inch sq / 30.5cm sq AVAILABLE '
+  - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
+    image_description:
+    image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
