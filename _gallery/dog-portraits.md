@@ -45,6 +45,9 @@ images:
   - image_path: /assets/images/white-dog---commission-2022.jpg
     image_title: White Dog Commission -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
     image_description:
+  - image_path: /assets/99cedbea-a2a1-443f-9a9e-f80b33ea0547.jpeg
+    image_title: 'Rose - Acrylic on Box Canvas 16x14inch / 40x30cm Commission SOLD '
+    image_description:
   - image_path: /assets/images/two-dogs-commission-xmas-2021.jpg
     image_title: Two Dogs Commission 2021 -Acrylic on Box Canvas - 12x16inch/30x40cm SOLD
     image_description:
@@ -71,9 +74,6 @@ images:
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
-    image_description:
-  - image_path: /assets/99cedbea-a2a1-443f-9a9e-f80b33ea0547.jpeg
-    image_title: 'Rose - Acrylic on Box Canvas 16x14inch / 40x30cm Commission SOLD '
     image_description:
 _comments:
   title: your gallery title
