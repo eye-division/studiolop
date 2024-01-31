@@ -70,9 +70,9 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: Studiolop
-    url: https://www.facebook.com/Studiolop-423264891118417/?fref=ts
-    desc: Like on Facebook
+    username:
+    url:
+    desc:
     share: true
 
   - name: Instagram
