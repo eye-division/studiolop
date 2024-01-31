@@ -2,12 +2,13 @@
 layout: page
 title: Contact
 permalink: /contact/
-main_image_path: 
+main_image_path:
 main_image_caption:
 images:
   - image_path:
     image_title:
     image_description:
+show_captcha: true
 _options:
   layout:
     hidden: true
@@ -33,7 +34,7 @@ _comments:
 ---
 
 <div class="editable">
-            
+
           </div>
 
       <h4>Send an email</h4>
@@ -42,21 +43,24 @@ _comments:
 
       <fieldset>
             <input type="text" name="_gotcha" style="display:none" />
-            <!-- <input type="hidden" name="_to" value="barbaramolin2000@yahoo.com">-->
-            <input type="hidden" name="_to" value="a.ward@eyedivision.com" />
+            <input type="hidden" name="_to" value="barbaramolin2000@yahoo.com" />
             <input type="hidden" name="_cc" value="a.ward@eyedivision.com" />
             <input type="hidden" name="_subject" value="Web form" />
+            <input type="hidden" name="inbox_key" value="studio-lop-contact">
+
             <p>
             <label for="name">Name:</label>
-            <input type="text" name="name" />
+            <input type="text" name="name">
             </p>
             <p>
             <label for="_replyto">Email:</label>
-            <input type="text" name="_replyto" />
+            <input type="text" name="_replyto">
             </p>
             <p>
             <label>Message</label>
-            <textarea name="message"></textarea>
+            <textarea name="message">
+
+            </textarea>
             </p>
             {% if site.recaptcha_site_key %}
             <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
