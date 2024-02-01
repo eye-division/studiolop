@@ -68,6 +68,9 @@ images:
       Small Night Time Harbour/Harbor - Acrylic on Canvas - 6x8inch ( 15x21cm )
       SOLD
     image_description:
+  - image_path: /assets/f2fc9650-99df-4642-be4b-0948fab96714.jpeg
+    image_title: 'Starry Harbour - Acrylic on Box Canvas-40cm sq/15.7inch sq - AVAILABLE '
+    image_description:
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
