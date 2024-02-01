@@ -12,20 +12,15 @@ images:
   - image_path: /assets/89818baf-96a2-49a7-af0c-e435d59b4b0c.jpeg
     image_title: 'Dusk Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
     image_description:
-  - image_path: /assets/images/big-new-harbour-1.JPG
+  - image_path: /assets/images/small-harbour-2021.jpg
     image_title: >-
-      Large Harbour 2020 - Acrylic on Canvas - 50x100cm / 39.5x19.5inch
-      AVAILABLE
+      Small Harbour with Orange 2021 -Acrylic on Canvas -30.5cm sq /12inch sq
+      AVAILABLE 
     image_description:
   - image_path: /assets/images/harbour-18x14.JPG
     image_title: >-
       Harbour/ Harbor - Acrylic on Canvas - 18x14inch ( 46x35cm ) In white float
       frame. SOLD
-    image_description:
-  - image_path: /assets/images/small-harbour-2021.jpg
-    image_title: >-
-      Small Harbour with Orange 2021 -Acrylic on Canvas -30.5cm sq /12inch sq
-      AVAILABLE 
     image_description:
   - image_path: /assets/images/small-harbour-2-2021.jpg
     image_title: 'Harbour with Blue 2021 - Acrylic on Canvas - 30.5cm sq / 12inch sq   SOLD '
