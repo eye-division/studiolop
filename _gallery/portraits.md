@@ -45,11 +45,6 @@ images:
     image_title: >-
       Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
       50x100cm ) AVAILABLE
-  - image_path: /assets/images/woman-with-blue-hair.jpg
-    image_description:
-    image_title: >-
-      WOMAN WITH BLUE HAIR - Acrylic on canvas paper on wood board - Framed -
-      8x10inch ( 20x25.5cm ) AVAILABLE
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
