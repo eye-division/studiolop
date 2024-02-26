@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
+  - image_path: /assets/430d2f94-4c8a-41e5-805b-b5162004034e.jpeg
+    image_description:
+    image_title: 'The Weekend-Acrylic on Box Canvas - 60cm sq/23.6inch sq - AVAILABLE '
   - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
     image_description:
     image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
@@ -13,7 +16,7 @@ images:
     image_title: 'Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
   - image_path: /assets/8c81362b-92ca-48cf-b297-5f6e23fb11a4.jpeg
     image_description:
-    image_title: 'Lemons& Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
+    image_title: 'Lemons &  Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
   - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
     image_description:
     image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq AVAILABLE '

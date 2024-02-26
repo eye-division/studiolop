@@ -26,30 +26,30 @@ images:
   - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
     image_description:
     image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
+  - image_path: /assets/16d8fa1a-2e3a-4cdf-b1ae-90035b8a8eaa.jpeg
+    image_description:
+    image_title: >-
+      Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
+      -AVAILABLE 
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
+  - image_path: /assets/40ce4050-0cdf-41cd-8ccf-45a7d631c0c0.jpeg
+    image_description:
+    image_title: 'Six Women-Acrylic on Box Canvas-31x122cm / 12x48inch - AVAILABLE '
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
-  - image_path: /assets/images/bishi-2020.JPG
-    image_description:
-    image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
   - image_path: /assets/images/img-1977.JPG
     image_description:
     image_title: >-
       Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
       50x100cm ) AVAILABLE
-  - image_path: /assets/images/woman-with-blue-hair.jpg
-    image_description:
-    image_title: >-
-      WOMAN WITH BLUE HAIR - Acrylic on canvas paper on wood board - Framed -
-      8x10inch ( 20x25.5cm ) AVAILABLE
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-

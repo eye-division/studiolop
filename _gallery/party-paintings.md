@@ -6,6 +6,16 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
+  - image_path: /assets/98242db9-6afe-4810-8cc2-ebec46e486f4.jpeg
+    image_title: >-
+      Guys & Dolls 1 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
+      AVAILABLE 
+    image_description:
+  - image_path: /assets/8b079e3e-ecbf-47e0-b1d2-a442ef307399.jpeg
+    image_title: >-
+      Guys & Dolls 2 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
+      AVAILABLE 
+    image_description:
   - image_path: /assets/images/last-days-of-summer---partypainting.jpg
     image_title: >-
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
@@ -26,11 +36,6 @@ images:
     image_title: >-
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
       AVAILABLE
-    image_description:
-  - image_path: /assets/images/wine-by-the-sea.jpg
-    image_title: >-
-      Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
-      23.5x19.5inch - AVAILABLE
     image_description:
   - image_path: /assets/images/new-party-painting-2020-1.JPG
     image_title: ' Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch - SOLD'
