@@ -26,6 +26,11 @@ images:
   - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
     image_description:
     image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
+  - image_path: /assets/16d8fa1a-2e3a-4cdf-b1ae-90035b8a8eaa.jpeg
+    image_description:
+    image_title: >-
+      Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
+      -AVAILABLE 
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
@@ -55,11 +60,6 @@ images:
     image_title: >-
       Girl on Blue 2021 - acrylic on Box Canvas - 55.9x45. .7cm / 22x18inch -
       SOLD
-  - image_path: /assets/16d8fa1a-2e3a-4cdf-b1ae-90035b8a8eaa.jpeg
-    image_description:
-    image_title: >-
-      Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
-      -AVAILABLE 
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - SOLD
