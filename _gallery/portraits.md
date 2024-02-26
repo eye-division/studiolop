@@ -98,6 +98,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/16d8fa1a-2e3a-4cdf-b1ae-90035b8a8eaa.jpeg
+    image_description:
+    image_title: >-
+      Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
+      -AVAILABLE 
 _comments:
   title: add a Gallery title
   permalink: page URL name
