@@ -37,11 +37,6 @@ images:
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
       AVAILABLE
     image_description:
-  - image_path: /assets/images/wine-by-the-sea.jpg
-    image_title: >-
-      Rendezvous  after Lockdown 2020 - Acrylic on Box Canvas - 60x50cm /
-      23.5x19.5inch - AVAILABLE
-    image_description:
   - image_path: /assets/images/new-party-painting-2020-1.JPG
     image_title: ' Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch - SOLD'
   - image_path: /assets/images/dogs--champange-1.jpg
