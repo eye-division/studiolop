@@ -37,9 +37,6 @@ images:
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
-  - image_path: /assets/images/bishi-2020.JPG
-    image_description:
-    image_title: BISHI - Acrylic on Box Canvas 2020 - 61x76cm / 24x30inch - AVAILABLE
   - image_path: /assets/images/img-1977.JPG
     image_description:
     image_title: >-
@@ -98,6 +95,9 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/40ce4050-0cdf-41cd-8ccf-45a7d631c0c0.jpeg
+    image_description:
+    image_title: 'Six Women-Acrylic on Box Canvas-31x122cm / 12x48inch - AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
