@@ -31,6 +31,9 @@ images:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
+  - image_path: /assets/40ce4050-0cdf-41cd-8ccf-45a7d631c0c0.jpeg
+    image_description:
+    image_title: 'Six Women-Acrylic on Box Canvas-31x122cm / 12x48inch - AVAILABLE '
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
@@ -95,9 +98,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/40ce4050-0cdf-41cd-8ccf-45a7d631c0c0.jpeg
-    image_description:
-    image_title: 'Six Women-Acrylic on Box Canvas-31x122cm / 12x48inch - AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
