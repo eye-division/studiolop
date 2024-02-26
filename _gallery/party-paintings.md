@@ -80,6 +80,11 @@ images:
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
     image_description:
+  - image_path: /assets/8b079e3e-ecbf-47e0-b1d2-a442ef307399.jpeg
+    image_title: >-
+      Guys & Dolls 2 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
+      AVAILABLE 
+    image_description:
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
