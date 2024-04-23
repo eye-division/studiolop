@@ -5,6 +5,12 @@ _gallery_date:
 permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
+  - image_path: /assets/904b0347-1bba-4517-bfa0-77c66408ee28.jpeg
+    image_description:
+    image_title: 'Black & Pink Bird on handmade paper, Framed '
+  - image_path: /assets/01e2147a-7bc1-44d9-bb5f-0224283b2715.jpeg
+    image_description:
+    image_title: 'Black bird on Orange , Acrylic on Canvas Paper on board '
   - image_path: /assets/f19a0834-062d-4fe6-a6a8-bb9327496f4c.jpeg
     image_description:
     image_title: >-
