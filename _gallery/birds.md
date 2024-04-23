@@ -101,6 +101,9 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
+  - image_path: ''
+    image_description:
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
