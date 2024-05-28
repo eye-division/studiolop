@@ -10,7 +10,7 @@ images:
     image_title: Fancy Bird Acrylic on handmade paper, Framed  SOLD
   - image_path: /assets/01e2147a-7bc1-44d9-bb5f-0224283b2715.jpeg
     image_description:
-    image_title: Black bird on Orange , Acrylic on Canvas Paper on Board - SOLD
+    image_title: Black bird on Orange , Acrylic on Canvas Paper on Board - Framed - SOLD
   - image_path: /assets/f19a0834-062d-4fe6-a6a8-bb9327496f4c.jpeg
     image_description:
     image_title: >-
