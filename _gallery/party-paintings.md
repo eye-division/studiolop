@@ -6,9 +6,6 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
-  - image_path: /assets/d7ffb68d-44a1-4328-b575-d9a8c056b3a4.jpeg
-    image_title: The Neighbourghs , Acrylic on Box Canvas , 60cm sq/24inch sq
-    image_description:
   - image_path: /assets/98242db9-6afe-4810-8cc2-ebec46e486f4.jpeg
     image_title: >-
       Guys & Dolls 1 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
@@ -27,18 +24,21 @@ images:
   - image_path: /assets/41aa4b5e-97c0-414d-b808-297a04fb8641.jpeg
     image_title: '‘Dining Out ‘ - Acrylic on Box Canvas- 120x80cm / 47x31inch AVAILABLE '
     image_description:
-  - image_path: /assets/images/four-dogs--party.jpg
-    image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-AVAILABLE
+  - image_path: /assets/images/pink-party.jpg
+    image_title: >-
+      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
+      AVAILABLE
+    image_description:
+  - image_path: /assets/d7ffb68d-44a1-4328-b575-d9a8c056b3a4.jpeg
+    image_title: The Neighbourghs , Acrylic on Box Canvas , 60cm sq/24inch sq SOLD
     image_description:
   - image_path: /assets/images/garden-party.JPG
     image_title: >-
       Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
       AVAILABLE
     image_description:
-  - image_path: /assets/images/pink-party.jpg
-    image_title: >-
-      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
-      AVAILABLE
+  - image_path: /assets/images/four-dogs--party.jpg
+    image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-SOLD
     image_description:
   - image_path: /assets/images/new-party-painting-2020-1.JPG
     image_title: ' Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch - SOLD'

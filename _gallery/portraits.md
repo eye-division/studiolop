@@ -15,11 +15,6 @@ images:
     image_title: >-
       Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
       50cm sq AVAILABLE 
-  - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
-    image_description:
-    image_title: >-
-      Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
-      22x18inch - AVAILABLE
   - image_path: /assets/b9b0dd45-2cf7-48fa-b42f-322406accfe2.jpeg
     image_description:
     image_title: 'Afternoon Portrait- Acrylic on Box Canvas 12inch sq / 30.5cm sq AVAILABLE '
@@ -30,7 +25,10 @@ images:
     image_description:
     image_title: >-
       Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
-      -AVAILABLE 
+      Framed-AVAILABLE 
+  - image_path: /assets/images/the-farewell.jpg
+    image_description:
+    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
@@ -42,19 +40,24 @@ images:
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
-  - image_path: /assets/images/the-farewell.jpg
-    image_description:
-    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/img-1977.JPG
     image_description:
     image_title: >-
       Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
       50x100cm ) AVAILABLE
+  - image_path: /assets/images/peace.jpg
+    image_description:
+    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
       Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
       AVAILABLE
+  - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
+    image_description:
+    image_title: >-
+      Rejoice in Today { Spring } 2021 - Acrylic on Box Canvas - 55.9x45.7cm /
+      22x18inch  - SOLD
   - image_path: /assets/images/girl-on-blue-2021.jpg
     image_description:
     image_title: >-
@@ -63,9 +66,6 @@ images:
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - SOLD
-  - image_path: /assets/images/peace.jpg
-    image_description:
-    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - SOLD
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
