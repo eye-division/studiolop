@@ -8,6 +8,9 @@ images:
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
     image_title: 'Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq AVAILABLE '
+  - image_path: /assets/images/still-life-with-apples.jpg
+    image_description:
+    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/837a7a5f-756f-4264-83dd-4afbad7ee410.jpeg
     image_description:
     image_title: 'White Tulips , Acrylic on Box Canvas 60cm sq / 24inch sq Framed-AVAILABLE '
@@ -16,15 +19,15 @@ images:
     image_title: >-
       The Weekend-Acrylic on Box Canvas - 60cm sq/23.6inch sq - Framed
       -AVAILABLE 
-  - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
-    image_description:
-    image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
-  - image_path: /assets/cd6f4645-2782-4d98-b46e-fff45611ef81.jpeg
-    image_description:
-    image_title: 'Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
   - image_path: /assets/8c81362b-92ca-48cf-b297-5f6e23fb11a4.jpeg
     image_description:
     image_title: 'Lemons &  Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
+  - image_path: /assets/cd6f4645-2782-4d98-b46e-fff45611ef81.jpeg
+    image_description:
+    image_title: 'Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
+  - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
+    image_description:
+    image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
   - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
     image_description:
     image_title: >-
@@ -36,9 +39,6 @@ images:
   - image_path: /assets/c61b1640-c446-4809-a4cc-4e6568b7ecc8.jpeg
     image_description:
     image_title: Red Lollipop Flowers-Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
-  - image_path: /assets/images/still-life-with-apples.jpg
-    image_description:
-    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
   - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
     image_description:
     image_title: Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq SOLD
