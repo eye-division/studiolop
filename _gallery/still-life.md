@@ -25,17 +25,17 @@ images:
   - image_path: /assets/8c81362b-92ca-48cf-b297-5f6e23fb11a4.jpeg
     image_description:
     image_title: 'Lemons &  Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
+  - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
+    image_description:
+    image_title: >-
+      Cakes, Fruits & Champange-Acrylic on Box
+      Canvas-47x31inch/120x80cm-AVAILABLE
   - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
     image_description:
     image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq SOLD '
   - image_path: /assets/c61b1640-c446-4809-a4cc-4e6568b7ecc8.jpeg
     image_description:
     image_title: Red Lollipop Flowers-Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
-  - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
-    image_description:
-    image_title: >-
-      Cakes, Fruits & Champange-Acrylic on Box
-      Canvas-47x31inch/120x80cm-AVAILABLE
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
