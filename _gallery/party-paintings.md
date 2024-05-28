@@ -29,13 +29,13 @@ images:
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
       AVAILABLE
     image_description:
-  - image_path: /assets/d7ffb68d-44a1-4328-b575-d9a8c056b3a4.jpeg
-    image_title: The Neighbourghs , Acrylic on Box Canvas , 60cm sq/24inch sq SOLD
-    image_description:
   - image_path: /assets/images/garden-party.JPG
     image_title: >-
       Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
       AVAILABLE
+    image_description:
+  - image_path: /assets/d7ffb68d-44a1-4328-b575-d9a8c056b3a4.jpeg
+    image_title: The Neighbourghs , Acrylic on Box Canvas , 60cm sq/24inch sq SOLD
     image_description:
   - image_path: /assets/images/four-dogs--party.jpg
     image_title: Four Dogs 2022-Acrylic on Box Canvas-4ft sq/100cm sq-SOLD
