@@ -5,23 +5,11 @@ _gallery_date:
 permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
-  - image_path: /assets/904b0347-1bba-4517-bfa0-77c66408ee28.jpeg
-    image_description:
-    image_title: Fancy Bird Acrylic on handmade paper, Framed  SOLD
-  - image_path: /assets/01e2147a-7bc1-44d9-bb5f-0224283b2715.jpeg
-    image_description:
-    image_title: Black bird on Orange , Acrylic on Canvas Paper on Board - Framed - SOLD
   - image_path: /assets/f19a0834-062d-4fe6-a6a8-bb9327496f4c.jpeg
     image_description:
     image_title: >-
       Bird on Orange - Acrylic on Handmade Paper on Wood Board - 30.5x25.5cm /
-      12x10inch - AVAILABLE 
-  - image_path: /assets/39d54509-d3ef-40ea-8300-c4caf118f237.jpeg
-    image_description:
-    image_title: Blue Bird Acrylic on Canvas 8inch sq / 20cm sq SOLD
-  - image_path: /assets/3251ce8d-2693-418a-945f-b6657f37fcf4.jpeg
-    image_description:
-    image_title: Birdie on Lilac Acrylic on Canvas 8inch sq / 20cm sq SOLD
+      12x10inch Framed - AVAILABLE 
   - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
     image_description:
     image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
@@ -30,6 +18,18 @@ images:
     image_title: >-
       Turquoise bird - Love is always there - Acrylic on canvas - 12x12inch (
       30.48x30.48cm ) AVAILABLE
+  - image_path: /assets/904b0347-1bba-4517-bfa0-77c66408ee28.jpeg
+    image_description:
+    image_title: Fancy Bird Acrylic on handmade paper, Framed  SOLD
+  - image_path: /assets/01e2147a-7bc1-44d9-bb5f-0224283b2715.jpeg
+    image_description:
+    image_title: Black bird on Orange , Acrylic on Canvas Paper on Board - Framed - SOLD
+  - image_path: /assets/39d54509-d3ef-40ea-8300-c4caf118f237.jpeg
+    image_description:
+    image_title: Blue Bird Acrylic on Canvas 8inch sq / 20cm sq SOLD
+  - image_path: /assets/3251ce8d-2693-418a-945f-b6657f37fcf4.jpeg
+    image_description:
+    image_title: Birdie on Lilac Acrylic on Canvas 8inch sq / 20cm sq SOLD
   - image_path: /assets/images/four-small-birdies.jpg
     image_description:
     image_title: >-
