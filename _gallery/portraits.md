@@ -26,6 +26,9 @@ images:
     image_title: >-
       Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
       Framed-AVAILABLE 
+  - image_path: /assets/images/the-farewell.jpg
+    image_description:
+    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
@@ -37,14 +40,14 @@ images:
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
-  - image_path: /assets/images/the-farewell.jpg
-    image_description:
-    image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/images/img-1977.JPG
     image_description:
     image_title: >-
       Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
       50x100cm ) AVAILABLE
+  - image_path: /assets/images/peace.jpg
+    image_description:
+    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
@@ -63,9 +66,6 @@ images:
   - image_path: /assets/images/be-kind---painting-2021.JPG
     image_description:
     image_title: Be Kind - Acrylic on Canvas - 24inch sq / 61cm sq - SOLD
-  - image_path: /assets/images/peace.jpg
-    image_description:
-    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
   - image_path: /assets/images/img-6318-jpg-blond.jpg
     image_description:
     image_title: >-
