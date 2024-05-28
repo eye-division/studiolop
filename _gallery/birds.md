@@ -21,7 +21,7 @@ images:
     image_title: Blue Bird Acrylic on Canvas 8inch sq / 20cm sq SOLD
   - image_path: /assets/3251ce8d-2693-418a-945f-b6657f37fcf4.jpeg
     image_description:
-    image_title: 'Birdie on Lilac Acrylic on Canvas 8inch sq / 20cm sq AVAILABLE '
+    image_title: Birdie on Lilac Acrylic on Canvas 8inch sq / 20cm sq SOLD
   - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
     image_description:
     image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
