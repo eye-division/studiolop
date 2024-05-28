@@ -44,9 +44,7 @@ images:
     image_title: Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq SOLD
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
     image_description:
-    image_title: >-
-      ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq
-      AVAILABLE 
+    image_title: ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq SOLD
   - image_path: /assets/43cb2ec5-c2c5-4104-9846-026335140a06.jpeg
     image_description:
     image_title: >-
