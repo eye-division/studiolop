@@ -5,6 +5,12 @@ _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
+  - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
+    image_description:
+    image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq
+  - image_path: /assets/837a7a5f-756f-4264-83dd-4afbad7ee410.jpeg
+    image_description:
+    image_title: White Tulips , Acrylic on Box Canvas 60cm sq / 24inch sq
   - image_path: /assets/430d2f94-4c8a-41e5-805b-b5162004034e.jpeg
     image_description:
     image_title: 'The Weekend-Acrylic on Box Canvas - 60cm sq/23.6inch sq - AVAILABLE '

@@ -6,6 +6,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
+  - image_path: /assets/d7ffb68d-44a1-4328-b575-d9a8c056b3a4.jpeg
+    image_title: The Neighbourghs , Acrylic on Box Canvas , 60cm sq/24inch sq
+    image_description:
   - image_path: /assets/98242db9-6afe-4810-8cc2-ebec46e486f4.jpeg
     image_title: >-
       Guys & Dolls 1 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
