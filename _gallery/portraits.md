@@ -30,7 +30,7 @@ images:
     image_description:
     image_title: >-
       Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
-      -AVAILABLE 
+      Framed-AVAILABLE 
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
