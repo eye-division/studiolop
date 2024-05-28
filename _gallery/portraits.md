@@ -15,12 +15,9 @@ images:
     image_title: >-
       Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
       50cm sq AVAILABLE 
-  - image_path: /assets/b9b0dd45-2cf7-48fa-b42f-322406accfe2.jpeg
+  - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
     image_description:
-    image_title: 'Afternoon Portrait- Acrylic on Box Canvas 12inch sq / 30.5cm sq AVAILABLE '
-  - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
-    image_description:
-    image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
+    image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
   - image_path: /assets/16d8fa1a-2e3a-4cdf-b1ae-90035b8a8eaa.jpeg
     image_description:
     image_title: >-
@@ -29,6 +26,12 @@ images:
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
+  - image_path: /assets/b9b0dd45-2cf7-48fa-b42f-322406accfe2.jpeg
+    image_description:
+    image_title: 'Afternoon Portrait- Acrylic on Box Canvas 12inch sq / 30.5cm sq AVAILABLE '
+  - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
+    image_description:
+    image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
