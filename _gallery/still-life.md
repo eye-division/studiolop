@@ -13,7 +13,9 @@ images:
     image_title: 'White Tulips , Acrylic on Box Canvas 60cm sq / 24inch sq Framed-AVAILABLE '
   - image_path: /assets/430d2f94-4c8a-41e5-805b-b5162004034e.jpeg
     image_description:
-    image_title: 'The Weekend-Acrylic on Box Canvas - 60cm sq/23.6inch sq - AVAILABLE '
+    image_title: >-
+      The Weekend-Acrylic on Box Canvas - 60cm sq/23.6inch sq - Framed
+      -AVAILABLE 
   - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
     image_description:
     image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
