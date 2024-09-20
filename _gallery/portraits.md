@@ -5,6 +5,11 @@ _gallery_date:
 permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
+  - image_path: /assets/2e885a17-c933-4e30-8041-aa357b698753.jpeg
+    image_description: >-
+      Juntos - The dancer & his loving companion-Acrylic on Box Canvas - 12inch
+      sq/30.5cm sq AVAILABLE 
+    image_title: ''
   - image_path: /assets/a4f51dc8-ef9a-4fe6-94de-27eaa1903616.jpeg
     image_description:
     image_title: >-
@@ -98,11 +103,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/2e885a17-c933-4e30-8041-aa357b698753.jpeg
-    image_description: >-
-      Juntos - The dancer & his loving companion-Acrylic on Box Canvas - 12inch
-      sq/30.5cm sq AVAILABLE 
-    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
