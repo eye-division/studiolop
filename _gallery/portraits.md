@@ -18,11 +18,6 @@ images:
   - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
     image_description:
     image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
-  - image_path: /assets/16d8fa1a-2e3a-4cdf-b1ae-90035b8a8eaa.jpeg
-    image_description:
-    image_title: >-
-      Blue Hair - Acrylic on Canvas Paper on wood board - 25x20cm / 10x8inch
-      Framed-AVAILABLE 
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
@@ -37,9 +32,6 @@ images:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
-  - image_path: /assets/40ce4050-0cdf-41cd-8ccf-45a7d631c0c0.jpeg
-    image_description:
-    image_title: 'Six Women-Acrylic on Box Canvas-31x122cm / 12x48inch - AVAILABLE '
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
@@ -106,6 +98,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/2e885a17-c933-4e30-8041-aa357b698753.jpeg
+    image_description: >-
+      Juntos - The dancer & his loving companion-Acrylic on Box Canvas - 12inch
+      sq/30.5cm sq AVAILABLE 
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
