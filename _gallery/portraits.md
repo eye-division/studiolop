@@ -103,6 +103,11 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
+    image_description: >-
+      Stillness of Summer Nights - Acrylic on Box Canvas-60x50cm / 23.5x19.5inch
+      AVAILABLE 
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
