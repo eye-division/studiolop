@@ -108,6 +108,9 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path: /assets/043ec3cf-326d-47be-bd3f-a795fc529e96.jpeg
+    image_description: 'Autumn - Acrylic on Box Canvas-40.5x30.5cm / 16x12inch AVAILABLE '
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
