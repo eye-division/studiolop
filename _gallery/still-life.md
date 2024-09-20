@@ -133,6 +133,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/3e33b72f-ad69-48af-9850-6a23a2443911.jpeg
+    image_description: 'Blue Florals - Acrylic on Box Canvas-76x61cm / 30x24.5inch AVAILABLE '
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
