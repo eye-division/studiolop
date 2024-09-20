@@ -10,6 +10,11 @@ images:
       Juntos - The dancer & his loving companion-Acrylic on Box Canvas - 12inch
       sq/30.5cm sq AVAILABLE 
     image_title: ''
+  - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
+    image_description: >-
+      Stillness of Summer Nights - Acrylic on Box Canvas-60x50cm / 23.5x19.5inch
+      AVAILABLE 
+    image_title: ''
   - image_path: /assets/a4f51dc8-ef9a-4fe6-94de-27eaa1903616.jpeg
     image_description:
     image_title: >-
@@ -20,12 +25,12 @@ images:
     image_title: >-
       Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
       50cm sq AVAILABLE 
-  - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
-    image_description:
-    image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
+  - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
+    image_description:
+    image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
   - image_path: /assets/b9b0dd45-2cf7-48fa-b42f-322406accfe2.jpeg
     image_description:
     image_title: 'Afternoon Portrait- Acrylic on Box Canvas 12inch sq / 30.5cm sq AVAILABLE '
@@ -103,11 +108,6 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
-  - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
-    image_description: >-
-      Stillness of Summer Nights - Acrylic on Box Canvas-60x50cm / 23.5x19.5inch
-      AVAILABLE 
-    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
