@@ -75,6 +75,9 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
+  - image_path: /assets/2d79f6e4-45f3-4a73-99cd-3f8e6db703da.jpeg
+    image_title: ''
+    image_description: 'Hoshi & Dave Meowie - Acrylic on Box Canvas-41cm sq/16inch sq COMMISSION '
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
