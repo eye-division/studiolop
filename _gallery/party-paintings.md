@@ -21,9 +21,6 @@ images:
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
       2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
-  - image_path: /assets/41aa4b5e-97c0-414d-b808-297a04fb8641.jpeg
-    image_title: '‘Dining Out ‘ - Acrylic on Box Canvas- 120x80cm / 47x31inch AVAILABLE '
-    image_description:
   - image_path: /assets/images/pink-party.jpg
     image_title: >-
       Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
