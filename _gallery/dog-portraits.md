@@ -36,17 +36,20 @@ images:
       ROMANO - Acrylic on canvas,linen finished paper, - 12x12inch ( 30x30cm 
       approx) SOLD
     image_description:
+  - image_path: /assets/f4bc14ff-9adf-43b4-9a45-b658873099c9.jpeg
+    image_title: ''
+    image_description: 'Lola - Acrylic on Box Canvas- 40cm sq/16inch sq - COMMISSION '
   - image_path: /assets/2d79f6e4-45f3-4a73-99cd-3f8e6db703da.jpeg
     image_title: ''
     image_description: 'Hoshi & Dave Meowie - Acrylic on Box Canvas-41cm sq/16inch sq COMMISSION '
   - image_path: /assets/images/poppy-commission-dog.jpg
     image_title: Poppy - Acrylic on Box Canvas - 12 inch sq / 30.5 cm sq - Commission SOLD
     image_description:
-  - image_path: /assets/images/dog-on-pink--commission-2022.jpg
-    image_title: Commissioned Dog on Pink -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
-    image_description:
   - image_path: /assets/images/white-dog---commission-2022.jpg
     image_title: White Dog Commission -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
+    image_description:
+  - image_path: /assets/images/dog-on-pink--commission-2022.jpg
+    image_title: Commissioned Dog on Pink -Acrylic on Box Canvas - 12inch sq/30.5cm sq SOLD
     image_description:
   - image_path: /assets/99cedbea-a2a1-443f-9a9e-f80b33ea0547.jpeg
     image_title: 'Rose - Acrylic on Box Canvas 16x14inch / 40x30cm Commission SOLD '
@@ -78,9 +81,6 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
-  - image_path: /assets/f4bc14ff-9adf-43b4-9a45-b658873099c9.jpeg
-    image_title: ''
-    image_description: 'Lola - Acrylic on Box Canvas- 40cm sq/16inch sq - COMMISSION '
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
