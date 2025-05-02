@@ -84,6 +84,9 @@ images:
   - image_path: /assets/4c71c379-33f7-40d3-9517-e48f5e6a603c.jpeg
     image_title: 'Love - Acrylic on Canvas-100x50cm/39.5x19.5inch AVAILABLE '
     image_description:
+  - image_path: /assets/30795e65-8692-4334-a401-ddf4e24e8a68.jpeg
+    image_title: 'Three Companions-Acrylic on Box Canvas-100x50cm/39.5x19.5inch AVAILABLE '
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
