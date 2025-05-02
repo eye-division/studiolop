@@ -37,8 +37,8 @@ images:
       approx) SOLD
     image_description:
   - image_path: /assets/f4bc14ff-9adf-43b4-9a45-b658873099c9.jpeg
-    image_title: ''
-    image_description: 'Lola - Acrylic on Box Canvas- 40cm sq/16inch sq - COMMISSION '
+    image_title: Lola - Acrylic on Box Canvas - 40cm sq/16inch sq COMMISSION SOLD
+    image_description:
   - image_path: /assets/2d79f6e4-45f3-4a73-99cd-3f8e6db703da.jpeg
     image_title: ''
     image_description: 'Hoshi & Dave Meowie - Acrylic on Box Canvas-41cm sq/16inch sq COMMISSION '
