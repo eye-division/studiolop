@@ -24,9 +24,6 @@ images:
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
       2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /assets/images/garden-party.JPG
     image_title: >-
       Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
@@ -40,6 +37,11 @@ images:
     image_description:
   - image_path: /assets/images/new-party-painting-2020-1.JPG
     image_title: ' Party Painting - Acrylic on Canvas - 150x100cm / 59x39.5inch - SOLD'
+  - image_path: /assets/bd5f7b09-e6c7-4ab6-a3c9-e389b3c28b6a.jpeg
+    image_title: >-
+      Family of Five -Acrylic on custom Canvas-2m x90cm/6.6ft x35.4inch
+      COMMISSION SOLD
+    image_description:
   - image_path: /assets/images/dogs--champange-1.jpg
     image_title: '''Dogs & Champagne'' Acrylic on Box Canvas 120x80cm/47.2x31.4inch SOLD'
   - image_path: /assets/images/img-3800-1.JPG
