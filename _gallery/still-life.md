@@ -13,7 +13,7 @@ images:
     image_title: ''
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
-    image_title: 'Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq AVAILABLE '
+    image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq SOL
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
