@@ -39,18 +39,6 @@ images:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
-  - image_path:
-    image_description:
-    image_title:
-  - image_path:
-    image_description:
-    image_title:
-  - image_path: /assets/images/woman-and-dog.JPG
-    image_description:
-    image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
-  - image_path:
-    image_description:
-    image_title:
   - image_path: /assets/images/peace.jpg
     image_description:
     image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
@@ -59,6 +47,12 @@ images:
     image_title: >-
       Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
       AVAILABLE
+  - image_path: /assets/5134c243-c069-41c1-98a6-80bbbda19bc2.jpeg
+    image_description:
+    image_title: Simon & Luna -Acrylic on Canvas-40.6x50.8cm/16x20inch COMMISSION SOLD
+  - image_path: /assets/images/woman-and-dog.JPG
+    image_description:
+    image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
   - image_path: /assets/images/rejoice-in-today--spring--2021.JPG
     image_description:
     image_title: >-
@@ -86,14 +80,14 @@ images:
   - image_path: /assets/images/lucrezia---commission.jpg
     image_description:
     image_title: Lucrezia - Commission - Acrylic on Canvas -SOLD
-  - image_path: /assets/images/friends-1.jpg
-    image_description:
-    image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) SOLD
   - image_path: /assets/images/khris-commission.jpg
     image_description:
     image_title: >-
       KHRIS & EHREN - Acrylic on Box Canvas - 100x30cm / 39.6x11.9inch -
       COMMISSION  Sold
+  - image_path: /assets/images/friends-1.jpg
+    image_description:
+    image_title: FRIENDS - Acrylic on Canvas - 18x24inch ( 45.5x61cm ) SOLD
   - image_path: /assets/images/barbara-harrison-caban---summertown-oxford-city.jpg
     image_description:
     image_title: >-
@@ -109,6 +103,12 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path:
+    image_description:
+    image_title:
+  - image_path:
+    image_description:
+    image_title:
 _comments:
   title: add a Gallery title
   permalink: page URL name
