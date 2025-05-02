@@ -9,7 +9,7 @@ images:
     image_description:
     image_title: 'Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE '
   - image_path: /assets/0f6e42c2-a512-4ffb-b5ab-2ba8b6b92710.jpeg
-    image_description: Summer 2024 - Acrylic on Box Canvas-80cm sq/31.5inch sq SO
+    image_description:
     image_title: Summer 2024 - Acrylic on Box Canvas 80cm sq/31.5inch sq SOLD
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
@@ -137,6 +137,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/6636eab1-1775-4cd6-a60f-8e058d424bbf.jpeg
+    image_description:
+    image_title: 'Pale Pink Vase - Acrylic on Box Canvas- 30.5cm sq / 12inch sq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
