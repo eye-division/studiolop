@@ -1,5 +1,5 @@
 ---
-title: Still Life
+title: Still Life & Florals
 description_markdown: ''
 _gallery_date:
 permalink: /gallery/stilllife/
