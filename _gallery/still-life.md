@@ -146,6 +146,9 @@ images:
   - image_path: /assets/90c59b0f-1a65-4384-9555-0f2acb34eeaf.jpeg
     image_description:
     image_title: 'Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+  - image_path: /assets/d0e8c18e-1c47-4090-bd3f-03b4e5a375de.jpeg
+    image_description:
+    image_title: 'Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
