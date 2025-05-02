@@ -11,10 +11,10 @@ images:
       Juntos-The dancer & loving companion-Acrylic on Box Canvas-30.5cm
       sq/12inch sq AVAILABLE 
   - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
-    image_description: >-
-      Stillness of Summer Nights - Acrylic on Box Canvas-60x50cm / 23.5x19.5inch
+    image_description:
+    image_title: >-
+      Stillness of Summer Nights-Acrylic on Box Canvas-60x50cm/23.5x19.5inch
       AVAILABLE 
-    image_title: ''
   - image_path: /assets/043ec3cf-326d-47be-bd3f-a795fc529e96.jpeg
     image_description: 'Autumn - Acrylic on Box Canvas-40.5x30.5cm / 16x12inch AVAILABLE '
     image_title: ''
