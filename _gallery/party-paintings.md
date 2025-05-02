@@ -29,10 +29,8 @@ images:
       Family of Five -Acrylic on custom Canvas-2m x90cm/6.6ft x35.4inch
       COMMISSION SOLD
     image_description:
-  - image_path: /assets/images/garden-party.JPG
-    image_title: >-
-      Garden Party 2019 - Acrylic on Canvas 3ft x 37inch ( 1meter x 50cm )
-      AVAILABLE
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/d7ffb68d-44a1-4328-b575-d9a8c056b3a4.jpeg
     image_title: The Neighbourghs , Acrylic on Box Canvas , 60cm sq/24inch sq SOLD
