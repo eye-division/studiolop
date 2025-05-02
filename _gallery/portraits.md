@@ -37,9 +37,9 @@ images:
   - image_path:
     image_description:
     image_title:
-  - image_path: /assets/38b5ba40-4349-42fe-a64c-8af235db7714.jpeg
+  - image_path:
     image_description:
-    image_title: 'Evening Portrait - Acrylic on Box Canvas 12inch sq/ 30.5cm sq AVAILABLE '
+    image_title:
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
