@@ -1,19 +1,19 @@
 ---
-title: Still Life
+title: Still Life & Florals
 description_markdown: ''
 _gallery_date:
 permalink: /gallery/stilllife/
 main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
   - image_path: /assets/3e33b72f-ad69-48af-9850-6a23a2443911.jpeg
-    image_description: 'Blue Florals - Acrylic on Box Canvas-76x61cm / 30x24.5inch AVAILABLE '
-    image_title: ''
+    image_description:
+    image_title: 'Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE '
   - image_path: /assets/0f6e42c2-a512-4ffb-b5ab-2ba8b6b92710.jpeg
-    image_description: Summer 2024 - Acrylic on Box Canvas-80cm sq/31.5inch sq SOLD
-    image_title: ''
+    image_description:
+    image_title: Summer 2024 - Acrylic on Box Canvas 80cm sq/31.5inch sq SOLD
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
-    image_title: 'Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq AVAILABLE '
+    image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
@@ -36,9 +36,7 @@ images:
     image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
   - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
     image_description:
-    image_title: >-
-      Cakes, Fruits & Champange-Acrylic on Box
-      Canvas-47x31inch/120x80cm-AVAILABLE
+    image_title: Cakes, Fruits & Champange-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
   - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
     image_description:
     image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq SOLD '
@@ -139,6 +137,21 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/6636eab1-1775-4cd6-a60f-8e058d424bbf.jpeg
+    image_description:
+    image_title: 'Pale Pink Vase - Acrylic on Box Canvas- 30.5cm sq / 12inch sq AVAILABLE '
+  - image_path: /assets/d55d1f79-8944-4cc7-8fbc-2e4bb39b014c.jpeg
+    image_description:
+    image_title: 'Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+  - image_path: /assets/90c59b0f-1a65-4384-9555-0f2acb34eeaf.jpeg
+    image_description:
+    image_title: 'Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+  - image_path: /assets/d0e8c18e-1c47-4090-bd3f-03b4e5a375de.jpeg
+    image_description:
+    image_title: 'Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+  - image_path: /assets/77521cea-7a0b-4ff6-9b54-3789e0f1e1b9.jpeg
+    image_description:
+    image_title: 'September-Acrylic on Box Canvas-120x80cm/47x31.5inch AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
