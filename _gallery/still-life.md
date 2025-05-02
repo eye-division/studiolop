@@ -143,6 +143,9 @@ images:
   - image_path: /assets/d55d1f79-8944-4cc7-8fbc-2e4bb39b014c.jpeg
     image_description:
     image_title: 'Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+  - image_path: /assets/90c59b0f-1a65-4384-9555-0f2acb34eeaf.jpeg
+    image_description:
+    image_title: 'Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
