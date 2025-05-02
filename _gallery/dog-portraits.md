@@ -1,11 +1,17 @@
 ---
-title: Dog Portraits
+title: Dogs
 _hide_content: true
 description_markdown: ''
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/dog-portraits/
 main_image_path: /assets/images/img-0823.JPG
 images:
+  - image_path: /assets/30795e65-8692-4334-a401-ddf4e24e8a68.jpeg
+    image_title: 'Three Companions-Acrylic on Box Canvas-100x50cm/39.5x19.5inch AVAILABLE '
+    image_description:
+  - image_path: /assets/4c71c379-33f7-40d3-9517-e48f5e6a603c.jpeg
+    image_title: 'Love - Acrylic on Canvas-100x50cm/39.5x19.5inch AVAILABLE '
+    image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
       Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
@@ -37,8 +43,8 @@ images:
       approx) SOLD
     image_description:
   - image_path: /assets/f4bc14ff-9adf-43b4-9a45-b658873099c9.jpeg
-    image_title: ''
-    image_description: 'Lola - Acrylic on Box Canvas- 40cm sq/16inch sq - COMMISSION '
+    image_title: Lola - Acrylic on Box Canvas - 40cm sq/16inch sq COMMISSION SOLD
+    image_description:
   - image_path: /assets/2d79f6e4-45f3-4a73-99cd-3f8e6db703da.jpeg
     image_title: ''
     image_description: 'Hoshi & Dave Meowie - Acrylic on Box Canvas-41cm sq/16inch sq COMMISSION '
