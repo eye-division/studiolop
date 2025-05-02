@@ -6,10 +6,10 @@ permalink: /gallery/portraits/
 main_image_path: /assets/images/friends.jpg
 images:
   - image_path: /assets/2e885a17-c933-4e30-8041-aa357b698753.jpeg
-    image_description: >-
-      Juntos - The dancer & his loving companion-Acrylic on Box Canvas - 12inch
-      sq/30.5cm sq AVAILABLE 
-    image_title: ''
+    image_description:
+    image_title: >-
+      Juntos-The dancer & loving companion-Acrylic on Box Canvas-30.5cm
+      sq/12inch sq AVAILABLE 
   - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
     image_description: >-
       Stillness of Summer Nights - Acrylic on Box Canvas-60x50cm / 23.5x19.5inch
