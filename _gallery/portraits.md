@@ -10,6 +10,11 @@ images:
     image_title: >-
       Juntos-The dancer & loving companion-Acrylic on Box Canvas-30.5cm
       sq/12inch sq AVAILABLE 
+  - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
+    image_description:
+    image_title: >-
+      Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
+      50cm sq AVAILABLE 
   - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
     image_description:
     image_title: >-
@@ -23,36 +28,29 @@ images:
     image_title: >-
       Back to where I came from - Acrylic on Box Canvas 19.7inch sq / 50cm sq
       AVAILABLE 
-  - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
-    image_description:
-    image_title: >-
-      Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
-      50cm sq AVAILABLE 
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
   - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
     image_description:
     image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
-  - image_path:
-    image_description:
-    image_title:
-  - image_path:
-    image_description:
-    image_title:
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
       58x73cm ) AVAILABLE
+  - image_path:
+    image_description:
+    image_title:
+  - image_path:
+    image_description:
+    image_title:
   - image_path: /assets/images/woman-and-dog.JPG
     image_description:
     image_title: The Companion  - Acrylic on Box Canvas - 19.7inch sq / 50cm sq AVAILABLE
-  - image_path: /assets/images/img-1977.JPG
+  - image_path:
     image_description:
-    image_title: >-
-      Standing Woman with Belt - Acrylic on Box Canvas - 19.68x39.37inch (
-      50x100cm ) AVAILABLE
+    image_title:
   - image_path: /assets/images/peace.jpg
     image_description:
     image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
