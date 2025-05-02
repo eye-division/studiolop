@@ -1,5 +1,5 @@
 ---
-title: Dog Portraits
+title: Dogs
 _hide_content: true
 description_markdown: ''
 _gallery_date: 2016-05-01 00:00:00
