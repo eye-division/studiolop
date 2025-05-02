@@ -80,6 +80,9 @@ images:
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
     image_description:
+  - image_path: /assets/3e2788bc-e884-4b26-bad0-f1a0c7c8b9c7.jpeg
+    image_title: 'Share the Moments-Acrylic on Canvas-61cm sq/24inch sq AVAILABLE '
+    image_description:
 _comments:
   title: add a Gallery title
   main_image_path: This is the image used to represent your gallery
