@@ -6,6 +6,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
+  - image_path: /assets/3e2788bc-e884-4b26-bad0-f1a0c7c8b9c7.jpeg
+    image_title: 'Share the Moments-Acrylic on Canvas-61cm sq/24inch sq AVAILABLE '
+    image_description:
   - image_path: /assets/98242db9-6afe-4810-8cc2-ebec46e486f4.jpeg
     image_title: >-
       Guys & Dolls 1 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
@@ -21,10 +24,8 @@ images:
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
       2022-120x100cm (47.5x39.5inch) AVAILABLE
     image_description:
-  - image_path: /assets/images/pink-party.jpg
-    image_title: >-
-      Party Painting on Pink - Acrylic on Box Canvas - 1.00x50cm ( 40x20inch ) -
-      AVAILABLE
+  - image_path:
+    image_title:
     image_description:
   - image_path: /assets/images/garden-party.JPG
     image_title: >-
@@ -79,9 +80,6 @@ images:
     image_description:
   - image_path: /assets/images/58711c18bd66a.jpg
     image_title: Party Painting - Acrylic on Canvas - 1.50x1.00cm ( 4.11x3.4ft ) - SOLD
-    image_description:
-  - image_path: /assets/3e2788bc-e884-4b26-bad0-f1a0c7c8b9c7.jpeg
-    image_title: 'Share the Moments-Acrylic on Canvas-61cm sq/24inch sq AVAILABLE '
     image_description:
 _comments:
   title: add a Gallery title
