@@ -6,8 +6,8 @@ permalink: /gallery/birds/
 main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
   - image_path: /assets/1ad87968-1902-4632-a807-f6e13f57fc25.jpeg
-    image_description: 'Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE '
-    image_title: ''
+    image_description:
+    image_title: 'Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE '
   - image_path: /assets/f19a0834-062d-4fe6-a6a8-bb9327496f4c.jpeg
     image_description:
     image_title: >-
@@ -107,6 +107,9 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
+  - image_path: /assets/f2bfd7ac-b3aa-49f0-956a-9b66f9e45f9b.jpeg
+    image_description:
+    image_title: 'Two Separate Canvases-Acrylic on Box Canvas-20.3cm sq/8inch sq AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
