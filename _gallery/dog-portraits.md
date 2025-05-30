@@ -6,6 +6,9 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/dog-portraits/
 main_image_path: /assets/images/img-0823.JPG
 images:
+  - image_path: /assets/28653224-13f8-40c9-b610-2bb96c9fab01.jpeg
+    image_title: '“Watching over Me “ Acrylic on Box Canvas-100cm sq / 36inch sq AVAILABLE '
+    image_description:
   - image_path: /assets/30795e65-8692-4334-a401-ddf4e24e8a68.jpeg
     image_title: 'Three Companions-Acrylic on Box Canvas-100x50cm/39.5x19.5inch AVAILABLE '
     image_description:
@@ -88,9 +91,6 @@ images:
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
-    image_description:
-  - image_path: /assets/28653224-13f8-40c9-b610-2bb96c9fab01.jpeg
-    image_title: '“Watching over Me “ Acrylic on Box Canvas-100cm sq / 36inch sq AVAILABLE '
     image_description:
 _comments:
   title: your gallery title
