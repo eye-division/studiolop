@@ -89,6 +89,9 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
+  - image_path: /assets/28653224-13f8-40c9-b610-2bb96c9fab01.jpeg
+    image_title: '“Watching over Me “ Acrylic on Box Canvas-100cm sq / 36inch sq AVAILABLE '
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
