@@ -152,6 +152,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/bd136567-d991-43ff-aceb-efbad04a642e.jpeg
+    image_description:
+    image_title: '“Blue Chair “ Acrylic on Box Canvas - 91cm sq / 36inch sq - AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
