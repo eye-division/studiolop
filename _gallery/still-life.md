@@ -30,7 +30,7 @@ images:
     image_title: Summer 2024 - Acrylic on Box Canvas 80cm sq/31.5inch sq SOLD
   - image_path: /assets/90c59b0f-1a65-4384-9555-0f2acb34eeaf.jpeg
     image_description:
-    image_title: 'Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+    image_title: Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
     image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
