@@ -7,7 +7,7 @@ main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
   - image_path: /assets/1ad87968-1902-4632-a807-f6e13f57fc25.jpeg
     image_description:
-    image_title: 'Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE '
+    image_title: Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE £70
   - image_path: /assets/f2bfd7ac-b3aa-49f0-956a-9b66f9e45f9b.jpeg
     image_description:
     image_title: 'Two Separate Canvases-Acrylic on Box Canvas-20.3cm sq/8inch sq AVAILABLE '
