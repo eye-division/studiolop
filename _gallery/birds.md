@@ -20,7 +20,7 @@ images:
       12x10inch  Framed - AVAILABLE £75
   - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
     image_description:
-    image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
+    image_title: Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE £25
   - image_path: /assets/904b0347-1bba-4517-bfa0-77c66408ee28.jpeg
     image_description:
     image_title: Fancy Bird Acrylic on handmade paper, Framed  SOLD
