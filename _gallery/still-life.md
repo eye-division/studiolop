@@ -7,7 +7,7 @@ main_image_path: /assets/images/muscari--jam-still-life.jpg
 images:
   - image_path: /assets/bd136567-d991-43ff-aceb-efbad04a642e.jpeg
     image_description:
-    image_title: “Blue Chair “ Acrylic on Box Canvas - 91cm sq / 36inch sq - AVAILABLE £500
+    image_title: “Blue Chair “ Acrylic on Box Canvas - 91cm sq / 36inch sq - AVAILABLE £530
   - image_path: /assets/6636eab1-1775-4cd6-a60f-8e058d424bbf.jpeg
     image_description:
     image_title: 'Pale Pink Vase - Acrylic on Box Canvas- 30.5cm sq / 12inch sq AVAILABLE '
