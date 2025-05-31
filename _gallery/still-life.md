@@ -36,7 +36,9 @@ images:
     image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
-    image_title: Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+    image_title: >-
+      Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
+      £60 SALE!
   - image_path: /assets/837a7a5f-756f-4264-83dd-4afbad7ee410.jpeg
     image_description:
     image_title: 'White Tulips , Acrylic on Box Canvas 60cm sq / 24inch sq Framed-AVAILABLE '
