@@ -15,7 +15,7 @@ images:
     image_title: Starry Harbour - Acrylic on Box Canvas-40cm sq/15.7inch sq - AVAILABLE £90
     image_description:
   - image_path: /assets/339602f7-6f2e-46ff-8c0e-0adfdbadbe21.jpeg
-    image_title: 'Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
+    image_title: Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE £165
     image_description:
   - image_path: /assets/89818baf-96a2-49a7-af0c-e435d59b4b0c.jpeg
     image_title: 'Dusk Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
