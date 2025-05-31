@@ -16,8 +16,8 @@ images:
     image_description:
   - image_path: /assets/8b079e3e-ecbf-47e0-b1d2-a442ef307399.jpeg
     image_title: >-
-      Guys & Dolls 2 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq -
-      AVAILABLE 
+      Guys & Dolls 2 - Acrylic on Box Canvas - 30.5cm sq / 12inch sq - AVAILABLE
+      £75
     image_description:
   - image_path: /assets/images/last-days-of-summer---partypainting.jpg
     image_title: >-
