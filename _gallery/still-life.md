@@ -24,7 +24,7 @@ images:
     image_title: September-Acrylic on Box Canvas-120x80cm/47x31.5inch AVAILABLE £460
   - image_path: /assets/3e33b72f-ad69-48af-9850-6a23a2443911.jpeg
     image_description:
-    image_title: 'Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE '
+    image_title: Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE £375
   - image_path: /assets/0f6e42c2-a512-4ffb-b5ab-2ba8b6b92710.jpeg
     image_description:
     image_title: Summer 2024 - Acrylic on Box Canvas 80cm sq/31.5inch sq SOLD
