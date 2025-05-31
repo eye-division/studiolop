@@ -10,7 +10,9 @@ images:
     image_title: Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE £70
   - image_path: /assets/f2bfd7ac-b3aa-49f0-956a-9b66f9e45f9b.jpeg
     image_description:
-    image_title: 'Two Separate Canvases-Acrylic on Box Canvas-20.3cm sq/8inch sq AVAILABLE '
+    image_title: >-
+      Two Separate Canvases-Acrylic on Box Canvas-20.3cm sq/8inch sq AVAILABLE
+      £35 each
   - image_path: /assets/f19a0834-062d-4fe6-a6a8-bb9327496f4c.jpeg
     image_description:
     image_title: >-
