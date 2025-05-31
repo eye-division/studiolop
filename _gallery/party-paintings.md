@@ -7,7 +7,7 @@ permalink: /gallery/party-paintings/
 main_image_path: /assets/images/pink-party.jpg
 images:
   - image_path: /assets/3e2788bc-e884-4b26-bad0-f1a0c7c8b9c7.jpeg
-    image_title: 'Share the Moments-Acrylic on Canvas-61cm sq/24inch sq AVAILABLE '
+    image_title: Share the Moments-Acrylic on Canvas-61cm sq/24inch sq AVAILABLE £300
     image_description:
   - image_path: /assets/98242db9-6afe-4810-8cc2-ebec46e486f4.jpeg
     image_title: >-
