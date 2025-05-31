@@ -41,7 +41,9 @@ images:
       £60 SALE!
   - image_path: /assets/837a7a5f-756f-4264-83dd-4afbad7ee410.jpeg
     image_description:
-    image_title: 'White Tulips , Acrylic on Box Canvas 60cm sq / 24inch sq Framed-AVAILABLE '
+    image_title: >-
+      White Tulips , Acrylic on Box Canvas 60cm sq / 24inch sq Framed-AVAILABLE
+      £320
   - image_path: /assets/430d2f94-4c8a-41e5-805b-b5162004034e.jpeg
     image_description:
     image_title: >-
