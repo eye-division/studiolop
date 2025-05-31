@@ -9,7 +9,7 @@ images:
   - image_path: /assets/b846c500-8492-46a4-aa3c-ff7a3eacd4c8.jpeg
     image_title: >-
       Night time harbour with wolf , Acrylic on Box Canvas, 12inch sq / 30.5cm
-      sq. AVAILABLE 
+      sq. AVAILABLE £65 
     image_description:
   - image_path: /assets/f2fc9650-99df-4642-be4b-0948fab96714.jpeg
     image_title: 'Starry Harbour - Acrylic on Box Canvas-40cm sq/15.7inch sq - AVAILABLE '
