@@ -34,8 +34,8 @@ images:
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
-      WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (
-      58x73cm ) AVAILABLE
+      WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (  
+      58x73cm ) AVAILABLE £165
   - image_path: /assets/images/peace.jpg
     image_description:
     image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
