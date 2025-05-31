@@ -14,7 +14,7 @@ images:
     image_description:
     image_title: >-
       Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
-      50cm sq AVAILABLE 
+      50cm sq AVAILABLE £110 
   - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
     image_description:
     image_title: >-
