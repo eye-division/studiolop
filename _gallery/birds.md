@@ -7,18 +7,20 @@ main_image_path: /assets/images/blue-bird-on-paper.jpg
 images:
   - image_path: /assets/1ad87968-1902-4632-a807-f6e13f57fc25.jpeg
     image_description:
-    image_title: 'Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE '
+    image_title: Two Robins - Acrylic on Box Canvas - 40cm sq/15.7inch sq AVAILABLE £70
   - image_path: /assets/f2bfd7ac-b3aa-49f0-956a-9b66f9e45f9b.jpeg
     image_description:
-    image_title: 'Two Separate Canvases-Acrylic on Box Canvas-20.3cm sq/8inch sq AVAILABLE '
+    image_title: >-
+      Two Separate Canvases-Acrylic on Box Canvas-20.3cm sq/8inch sq AVAILABLE
+      £35 each
   - image_path: /assets/f19a0834-062d-4fe6-a6a8-bb9327496f4c.jpeg
     image_description:
     image_title: >-
       Bird on Orange - Acrylic on Handmade Paper on Wood Board - 30.5x25.5cm /
-      12x10inch Framed - AVAILABLE 
+      12x10inch  Framed - AVAILABLE £75
   - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
     image_description:
-    image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
+    image_title: Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE £25
   - image_path: /assets/904b0347-1bba-4517-bfa0-77c66408ee28.jpeg
     image_description:
     image_title: Fancy Bird Acrylic on handmade paper, Framed  SOLD
