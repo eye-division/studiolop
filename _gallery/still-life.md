@@ -18,7 +18,7 @@ images:
     image_title: Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
   - image_path: /assets/d0e8c18e-1c47-4090-bd3f-03b4e5a375de.jpeg
     image_description:
-    image_title: 'Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
+    image_title: Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
   - image_path: /assets/77521cea-7a0b-4ff6-9b54-3789e0f1e1b9.jpeg
     image_description:
     image_title: 'September-Acrylic on Box Canvas-120x80cm/47x31.5inch AVAILABLE '
