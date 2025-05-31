@@ -21,7 +21,7 @@ images:
     image_title: Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
   - image_path: /assets/77521cea-7a0b-4ff6-9b54-3789e0f1e1b9.jpeg
     image_description:
-    image_title: 'September-Acrylic on Box Canvas-120x80cm/47x31.5inch AVAILABLE '
+    image_title: September-Acrylic on Box Canvas-120x80cm/47x31.5inch AVAILABLE £460
   - image_path: /assets/3e33b72f-ad69-48af-9850-6a23a2443911.jpeg
     image_description:
     image_title: 'Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE '
