@@ -17,7 +17,7 @@ images:
     image_description:
     image_title: >-
       Bird on Orange - Acrylic on Handmade Paper on Wood Board - 30.5x25.5cm /
-      12x10inch Framed - AVAILABLE 
+      12x10inch  Framed - AVAILABLE £75
   - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
     image_description:
     image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
