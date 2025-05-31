@@ -9,7 +9,7 @@ images:
     image_description:
     image_title: >-
       Juntos-The dancer & loving companion-Acrylic on Box Canvas-30.5cm
-      sq/12inch sq AVAILABLE 
+      sq/12inch  sq AVAILABLE £75
   - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
     image_description:
     image_title: >-
