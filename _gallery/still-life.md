@@ -48,7 +48,7 @@ images:
     image_description:
     image_title: >-
       The Weekend-Acrylic on Box Canvas - 60cm sq/23.6inch sq - Framed
-      -AVAILABLE 
+      -AVAILABLE £320 
   - image_path: /assets/8c81362b-92ca-48cf-b297-5f6e23fb11a4.jpeg
     image_description:
     image_title: 'Lemons &  Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
