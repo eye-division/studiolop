@@ -10,7 +10,9 @@ images:
     image_title: “Blue Chair “ Acrylic on Box Canvas - 91cm sq / 36inch sq - AVAILABLE £530
   - image_path: /assets/6636eab1-1775-4cd6-a60f-8e058d424bbf.jpeg
     image_description:
-    image_title: 'Pale Pink Vase - Acrylic on Box Canvas- 30.5cm sq / 12inch sq AVAILABLE '
+    image_title: >-
+      Pale Pink Vase - Acrylic on Box Canvas- 30.5cm sq / 12inch sq AVAILABLE
+      £75
   - image_path: /assets/d55d1f79-8944-4cc7-8fbc-2e4bb39b014c.jpeg
     image_description:
     image_title: 'Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE '
