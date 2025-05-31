@@ -38,7 +38,7 @@ images:
       58x73cm ) AVAILABLE £165
   - image_path: /assets/images/peace.jpg
     image_description:
-    image_title: 'PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE '
+    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE £390
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
