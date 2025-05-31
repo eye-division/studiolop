@@ -43,7 +43,7 @@ images:
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
       Individual Mini Portraits = Acrylic on Canvas - 6x4inch / 15x10cm - 3
-      AVAILABLE
+      AVAILABLE £30 each 
   - image_path: /assets/5134c243-c069-41c1-98a6-80bbbda19bc2.jpeg
     image_description:
     image_title: Simon & Luna -Acrylic on Canvas-40.6x50.8cm/16x20inch COMMISSION SOLD
