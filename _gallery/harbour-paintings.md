@@ -23,7 +23,7 @@ images:
   - image_path: /assets/images/small-harbour-2021.jpg
     image_title: >-
       Small Harbour with Orange 2021 -Acrylic on Canvas -30.5cm sq /12inch sq
-      AVAILABLE 
+      AVAILABLE £45 Sale! 
     image_description:
   - image_path: /assets/images/harbour-18x14.JPG
     image_title: >-
