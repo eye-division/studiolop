@@ -19,7 +19,7 @@ images:
     image_description:
     image_title: >-
       Stillness of Summer Nights-Acrylic on Box Canvas-60x50cm/23.5x19.5inch
-      AVAILABLE 
+      AVAILABLE £95 
   - image_path: /assets/043ec3cf-326d-47be-bd3f-a795fc529e96.jpeg
     image_description:
     image_title: 'Autumn-Acrylic on Box Canvas-40.5x30.5cm /16x12inch AVAILABLE '
