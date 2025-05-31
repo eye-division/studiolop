@@ -9,21 +9,21 @@ images:
   - image_path: /assets/b846c500-8492-46a4-aa3c-ff7a3eacd4c8.jpeg
     image_title: >-
       Night time harbour with wolf , Acrylic on Box Canvas, 12inch sq / 30.5cm
-      sq. AVAILABLE 
+      sq. AVAILABLE £65 
     image_description:
   - image_path: /assets/f2fc9650-99df-4642-be4b-0948fab96714.jpeg
-    image_title: 'Starry Harbour - Acrylic on Box Canvas-40cm sq/15.7inch sq - AVAILABLE '
+    image_title: Starry Harbour - Acrylic on Box Canvas-40cm sq/15.7inch sq - AVAILABLE £90
     image_description:
   - image_path: /assets/339602f7-6f2e-46ff-8c0e-0adfdbadbe21.jpeg
-    image_title: 'Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
+    image_title: Night Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE £165
     image_description:
   - image_path: /assets/89818baf-96a2-49a7-af0c-e435d59b4b0c.jpeg
-    image_title: 'Dusk Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE '
+    image_title: Dusk Harbour Acrylic on Canvas 24inch sq/61cm sq AVAILABLE £165
     image_description:
   - image_path: /assets/images/small-harbour-2021.jpg
     image_title: >-
       Small Harbour with Orange 2021 -Acrylic on Canvas -30.5cm sq /12inch sq
-      AVAILABLE 
+      AVAILABLE £45 Sale! 
     image_description:
   - image_path: /assets/images/harbour-18x14.JPG
     image_title: >-
