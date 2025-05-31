@@ -22,7 +22,7 @@ images:
       AVAILABLE £95 
   - image_path: /assets/043ec3cf-326d-47be-bd3f-a795fc529e96.jpeg
     image_description:
-    image_title: 'Autumn-Acrylic on Box Canvas-40.5x30.5cm /16x12inch AVAILABLE '
+    image_title: Autumn-Acrylic on Box Canvas-40.5x30.5cm /16x12inch AVAILABLE £50
   - image_path: /assets/a4f51dc8-ef9a-4fe6-94de-27eaa1903616.jpeg
     image_description:
     image_title: >-
