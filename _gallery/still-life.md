@@ -54,7 +54,9 @@ images:
     image_title: Lemons &  Coffee Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE £85
   - image_path: /assets/cd6f4645-2782-4d98-b46e-fff45611ef81.jpeg
     image_description:
-    image_title: 'Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
+    image_title: >-
+      Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE
+      £85
   - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
     image_description:
     image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
