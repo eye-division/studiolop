@@ -27,7 +27,7 @@ images:
     image_description:
     image_title: >-
       Back to where I came from - Acrylic on Box Canvas 19.7inch sq / 50cm sq
-      AVAILABLE 
+      AVAILABLE £85 
   - image_path: /assets/images/the-farewell.jpg
     image_description:
     image_title: The Farewell - Acrylic on Box Canvas - 22x18inch / 55.9x45.7cm AVAILABLE
