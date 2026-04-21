@@ -36,7 +36,7 @@
 <!-- footer scripts -->
 {% if jekyll.environment == "production" and page.show_captcha %}
 
-  <script src="https://www.google.com/recaptcha/api.js?render=6LdvTWIpAAAAAHaqPZcyAsZUnISHKGd1OhS7Ob_x"></script>
+  <script src="https://www.google.com/recaptcha/api.js?render={{ site.recaptcha_site_key }}"></script>
   <script>
     var submitted = false;
     var tokenCreated = false;

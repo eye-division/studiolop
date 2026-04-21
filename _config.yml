@@ -91,7 +91,7 @@ social:
 
 #Google Recaptcha for contact form
 
-recaptcha_site_key: 6LdAWRQUAAAAAK1V7sKck5l5oOCytuUMp9xI3_ur
+recaptcha_site_key: 6LctmcIsAAAAAKCbStXgCnVpZ4rOjI9q87kG37iI
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
