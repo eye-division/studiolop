@@ -57,7 +57,7 @@
           grecaptcha.ready(function() {
             // do request for recaptcha token
             // response is promise with passed token
-            grecaptcha.execute('6LdvTWIpAAAAAHaqPZcyAsZUnISHKGd1OhS7Ob_x', {action: 'create_comment'}).then(function (token) {
+            grecaptcha.execute('{{ site.recaptcha_site_key }}', {action: 'create_comment'}).then(function (token) {
               // add token to form
               var input = document.createElement("input");
               input.type = "hidden";
