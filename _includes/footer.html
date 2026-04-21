@@ -42,13 +42,13 @@
     var tokenCreated = false;
     var formEl = document.getElementById('contact-form');
 
-    formEl.addEventListener("submit", function (event) {
+  formEl.addEventListener("submit", function (event) {
 
-      // Check if the recaptcha exists
-      if (!tokenCreated) {
+    // Check if the recaptcha exists
+    if (!tokenCreated) {
 
-        // Prevent submission
-        event.preventDefault();
+      // Prevent submission
+      event.preventDefault();
 
         // Prevent more than one submission
         if (!submitted) {
@@ -65,13 +65,15 @@
               input.value = token;
               formEl.appendChild(input);
 
-              // resubmit the form
-              tokenCreated = true;
-              formEl.submit();
-            });
+            // resubmit the form
+            tokenCreated = true;
+            formEl.submit();
           });
-        }
+        });
       }
-    });
-  </script>
+    }
+  });
+</script>
+
+
 {% endif %}
