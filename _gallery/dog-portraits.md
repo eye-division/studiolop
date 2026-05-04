@@ -21,6 +21,9 @@ images:
   - image_path: /assets/img-7920.jpeg
     image_title: 'Small black dog , Acrylic on Canvas,6x4inch / 15x10cm AVAILABLE '
     image_description:
+  - image_path: /assets/img-7921.jpeg
+    image_title: 'Small white dog , Acrylic on Canvas, 6x4inch / 15x10cm AVAILABLE '
+    image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
       Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
@@ -92,9 +95,6 @@ images:
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
-    image_description:
-  - image_path: /assets/img-7921.jpeg
-    image_title: 'Small white dog , Acrylic on Canvas, 6x4inch / 15x10cm AVAILABLE '
     image_description:
 _comments:
   title: your gallery title
