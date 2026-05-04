@@ -7,17 +7,22 @@ permalink: /gallery/dog-portraits/
 main_image_path: /assets/images/img-0823.JPG
 images:
   - image_path: /assets/28653224-13f8-40c9-b610-2bb96c9fab01.jpeg
-    image_title: >-
-      “Watching over Me “ Acrylic on Box Canvas-76cm sq / 30inch sq - AVAILABLE
-      £550
+    image_title: '“Watching over Me “ Acrylic on Box Canvas-76cm sq / 30inch sq - AVAILABLE '
+    image_description:
+  - image_path: /assets/img-7482.jpeg
+    image_title: 'The Chosen Ones,Acrylic on Box Canvas,4x3ft / 129x91cm AVAILABLE '
     image_description:
   - image_path: /assets/30795e65-8692-4334-a401-ddf4e24e8a68.jpeg
-    image_title: >-
-      Three Companions-Acrylic on Box Canvas-100x50cm/39.5x19.5inch AVAILABLE
-      £360
+    image_title: Three Companions-Acrylic on Box Canvas-100x50cm/39.5x19.5inch AVAILABLE
     image_description:
   - image_path: /assets/4c71c379-33f7-40d3-9517-e48f5e6a603c.jpeg
-    image_title: Love - Acrylic on Canvas-100x50cm/39.5x19.5inch AVAILABLE £450
+    image_title: 'Love - Acrylic on Canvas-100x50cm/39.5x19.5inch AVAILABLE '
+    image_description:
+  - image_path: /assets/img-7920.jpeg
+    image_title: 'Small black dog , Acrylic on Canvas,6x4inch / 15x10cm AVAILABLE '
+    image_description:
+  - image_path: /assets/img-7921.jpeg
+    image_title: 'Small white dog , Acrylic on Canvas, 6x4inch / 15x10cm AVAILABLE '
     image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
@@ -90,6 +95,9 @@ images:
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
+    image_description:
+  - image_path:
+    image_title: ''
     image_description:
 _comments:
   title: your gallery title

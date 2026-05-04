@@ -16,6 +16,19 @@ images:
   - image_path: /assets/d55d1f79-8944-4cc7-8fbc-2e4bb39b014c.jpeg
     image_description:
     image_title: Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
+  - image_path: /assets/img-7201.jpeg
+    image_description:
+    image_title: 'Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm AVAILABLE '
+  - image_path: /assets/img-7275.jpeg
+    image_description:
+    image_title: >-
+      Afternoon Java , Acrylic on Box Canvas,12inch sq AVAILABLE Bird/ 30.5cm sq
+      AVAILABLE 
+  - image_path: /assets/img-6055.jpeg
+    image_description:
+    image_title: >-
+      Autumn Still Life , Acrylic on Box Canvas, 22.5inch sq / 57cm sq
+      AVAILABLE 
   - image_path: /assets/d0e8c18e-1c47-4090-bd3f-03b4e5a375de.jpeg
     image_description:
     image_title: Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq SOLD
@@ -25,12 +38,20 @@ images:
   - image_path: /assets/3e33b72f-ad69-48af-9850-6a23a2443911.jpeg
     image_description:
     image_title: Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE £375
+  - image_path: /assets/img-7215.jpeg
+    image_description:
+    image_title: >-
+      Bring a little Joy , Acrylic on Box Canvas, 12inch sq / 30.5cm sq
+      AVAILABLE 
   - image_path: /assets/0f6e42c2-a512-4ffb-b5ab-2ba8b6b92710.jpeg
     image_description:
     image_title: Summer 2024 - Acrylic on Box Canvas 80cm sq/31.5inch sq SOLD
   - image_path: /assets/90c59b0f-1a65-4384-9555-0f2acb34eeaf.jpeg
     image_description:
     image_title: Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
+  - image_path: /assets/1fac0b72-9a1f-44e5-8b57-6c7920870ea6.jpeg
+    image_description:
+    image_title: 'Rejoice, Acrylic on Box Canvas , 30inch sq / 76cm sq AVAILABLE '
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
     image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
@@ -66,12 +87,12 @@ images:
   - image_path: /assets/960f6f62-83f0-464c-ae06-d80a0c62974a.jpeg
     image_description:
     image_title: '‘Summer’- Acrylic on Box Canvas-80cm sq/31.5inch sq SOLD '
-  - image_path: /assets/c61b1640-c446-4809-a4cc-4e6568b7ecc8.jpeg
-    image_description:
-    image_title: Red Lollipop Flowers-Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
   - image_path: /assets/5d45b153-a461-4b3c-a9c7-113f39fea401.jpeg
     image_description:
     image_title: Tulips & Coffee Acrylic on Box Canvas 12inch sq/30.5cmsq SOLD
+  - image_path: /assets/c61b1640-c446-4809-a4cc-4e6568b7ecc8.jpeg
+    image_description:
+    image_title: Red Lollipop Flowers-Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
   - image_path: /assets/d5f4186c-a6d8-416a-af1f-24611bbb611c.jpeg
     image_description:
     image_title: ‘ Cherries & Candy ‘ - Acrylic on Box Canvas-30.5cm sq / 12inch sq SOLD
@@ -91,14 +112,14 @@ images:
   - image_path: /assets/ad803222-5fa8-4157-9900-6602402755db.jpeg
     image_description:
     image_title: ‘Grapes & Champange’ - Acrylic on Canvas-61cm sq / 24inch sq SOLD
-  - image_path: /assets/ab67560f-f720-4603-9c91-6c07c1c50fd3.jpeg
-    image_description:
-    image_title: Spring Blossom & Dog-Acrylic on Box Canvas 16inch sq/41cm sq SOLD
   - image_path: /assets/images/pink-blossom-still-life.jpg
     image_description:
     image_title: >-
       Pink Blossom - Still Life - Acrylic on Box Canvas - 12 inch sq / 30.5cm sq
       - SOLD
+  - image_path: /assets/ab67560f-f720-4603-9c91-6c07c1c50fd3.jpeg
+    image_description:
+    image_title: Spring Blossom & Dog-Acrylic on Box Canvas 16inch sq/41cm sq SOLD
   - image_path: /assets/images/cherries--pears-still-life.jpg
     image_description:
     image_title: Cherries & Pears-Acrylic on Box Canvas-12inch sq/30.5cm sq-SOLD
@@ -163,6 +184,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: ''
+    image_description:
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
