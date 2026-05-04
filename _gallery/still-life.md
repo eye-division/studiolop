@@ -49,6 +49,9 @@ images:
   - image_path: /assets/90c59b0f-1a65-4384-9555-0f2acb34eeaf.jpeg
     image_description:
     image_title: Color in February-Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
+  - image_path: /assets/1fac0b72-9a1f-44e5-8b57-6c7920870ea6.jpeg
+    image_description:
+    image_title: 'Rejoice, Acrylic on Box Canvas , 30inch sq / 76cm sq AVAILABLE '
   - image_path: /assets/d0e2de21-0619-491c-9fd4-7fb66f43b406.jpeg
     image_description:
     image_title: Spring , Acrylic on Box Canvas 12inch sq/30.5cm sq SOLD
@@ -181,9 +184,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
-  - image_path: /assets/1fac0b72-9a1f-44e5-8b57-6c7920870ea6.jpeg
+  - image_path: ''
     image_description:
-    image_title: 'Rejoice, Acrylic on Box Canvas , 30inch sq / 76cm sq AVAILABLE '
+    image_title: ''
 _comments:
   title: add a Gallery title
   permalink: page URL name
