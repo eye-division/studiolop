@@ -16,6 +16,9 @@ images:
   - image_path: /assets/d55d1f79-8944-4cc7-8fbc-2e4bb39b014c.jpeg
     image_description:
     image_title: Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq AVAILABLE £75
+  - image_path: /assets/img-7201.jpeg
+    image_description:
+    image_title: 'Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm AVAILABLE '
   - image_path: /assets/img-7275.jpeg
     image_description:
     image_title: >-
@@ -168,9 +171,6 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
-  - image_path: /assets/img-7201.jpeg
-    image_description:
-    image_title: 'Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
