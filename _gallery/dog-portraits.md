@@ -18,6 +18,9 @@ images:
   - image_path: /assets/4c71c379-33f7-40d3-9517-e48f5e6a603c.jpeg
     image_title: 'Love - Acrylic on Canvas-100x50cm/39.5x19.5inch AVAILABLE '
     image_description:
+  - image_path: /assets/img-7920.jpeg
+    image_title: 'Small black dog , Acrylic on Canvas,6x4inch / 15x10cm AVAILABLE '
+    image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
       Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
@@ -89,9 +92,6 @@ images:
     image_description:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
-    image_description:
-  - image_path: /assets/img-7920.jpeg
-    image_title: 'Small black dog , Acrylic on Canvas,6x4inch / 15x10cm AVAILABLE '
     image_description:
 _comments:
   title: your gallery title
