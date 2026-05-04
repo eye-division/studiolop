@@ -168,6 +168,9 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
+  - image_path: /assets/img-7201.jpeg
+    image_description:
+    image_title: 'Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
