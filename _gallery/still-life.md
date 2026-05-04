@@ -24,6 +24,11 @@ images:
     image_title: >-
       Afternoon Java , Acrylic on Box Canvas,12inch sq AVAILABLE Bird/ 30.5cm sq
       AVAILABLE 
+  - image_path: /assets/img-6055.jpeg
+    image_description:
+    image_title: >-
+      Autumn Still Life , Acrylic on Box Canvas, 22.5inch sq / 57cm sq
+      AVAILABLE 
   - image_path: /assets/d0e8c18e-1c47-4090-bd3f-03b4e5a375de.jpeg
     image_description:
     image_title: Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq SOLD
@@ -176,11 +181,6 @@ images:
     image_title: >-
       Greeting Card Design - Still Life for a business in Japan - Canvas Paper
       12inch sq/ 30.5cm sq SOLD
-  - image_path: /assets/img-6055.jpeg
-    image_description:
-    image_title: >-
-      Autumn Still Life , Acrylic on Box Canvas, 22.5inch sq / 57cm sq
-      AVAILABLE 
 _comments:
   title: add a Gallery title
   permalink: page URL name
