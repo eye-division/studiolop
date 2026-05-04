@@ -93,6 +93,9 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
+  - image_path: /assets/img-7921.jpeg
+    image_title: 'Small white dog , Acrylic on Canvas, 6x4inch / 15x10cm AVAILABLE '
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
