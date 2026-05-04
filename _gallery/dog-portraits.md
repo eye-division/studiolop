@@ -87,6 +87,9 @@ images:
   - image_path: /assets/images/fudge.JPG
     image_title: Fudge - Commission - Acrylic on Canvas  20x24inch ( 50x60cm ) SOLD
     image_description:
+  - image_path: /assets/img-7482.jpeg
+    image_title: 'The Chosen Ones,Acrylic on Box Canvas,4x3ft / 129x91cm AVAILABLE '
+    image_description:
 _comments:
   title: your gallery title
   main_image_path: This is the image used to represent your gallery
