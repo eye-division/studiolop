@@ -31,8 +31,8 @@ images:
     image_description:
   - image_path: /assets/images/brown-dog.jpg
     image_title: >-
-      Brown dog - acrylic on canvas linen finished paper - 12x12inch ( 30x30cm
-      approx  )Framed AVAILABLE £40
+      Brown dog - acrylic on canvas linen finished paper 12inch sq / 30.5 cm sq
+      AVAILABLE 
     image_description:
   - image_path: /assets/images/dog-with-pink-collar-1.jpg
     image_title: >-
