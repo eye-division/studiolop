@@ -36,9 +36,6 @@ images:
     image_title: >-
       WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inc  /
       58x73cm AVAILABLE 
-  - image_path: /assets/images/peace.jpg
-    image_description:
-    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE £390
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
@@ -100,6 +97,9 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path:
+    image_description:
+    image_title:
   - image_path:
     image_description:
     image_title:
