@@ -74,7 +74,7 @@ images:
     image_title: 'Cherries & Muscari Acrylic on Box Canvas 15.7inch sq / 40cm sq AVAILABLE '
   - image_path: /assets/20fa4243-cdf0-4bf6-bc78-f338674967c3.jpeg
     image_description:
-    image_title: Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE £375
+    image_title: 'Tea & Oranges Acrylic on Box Canvas 36x24inch/91x61cm AVAILABLE '
   - image_path: /assets/images/barbara-harrison-caban--cakes-fruits--champange.jpg
     image_description:
     image_title: Cakes, Fruits & Champange-Acrylic on Box Canvas-47x31inch/120x80cm-SOLD
