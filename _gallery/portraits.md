@@ -30,7 +30,7 @@ images:
       AVAILABLE 
   - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
     image_description:
-    image_title: Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE £65
+    image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
