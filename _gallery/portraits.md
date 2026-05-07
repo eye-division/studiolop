@@ -9,36 +9,33 @@ images:
     image_description:
     image_title: >-
       Juntos-The dancer & loving companion-Acrylic on Box Canvas-30.5cm
-      sq/12inch  sq AVAILABLE £75
+      sq/12inch sq AVAILABLE 
   - image_path: /assets/0b22d999-e1a3-4f42-bec4-417927d2b403.jpeg
     image_description:
     image_title: >-
       Together is the best place to be - Acrylic on Box Canvas 19.7inch sq /
-      50cm sq AVAILABLE £110 
+      50cm sq AVAILABLE 
   - image_path: /assets/3cd52694-8b39-4088-a107-55bd84fecea3.jpeg
     image_description:
     image_title: >-
       Stillness of Summer Nights-Acrylic on Box Canvas-60x50cm/23.5x19.5inch
-      AVAILABLE £95 
+      AVAILABLE 
   - image_path: /assets/043ec3cf-326d-47be-bd3f-a795fc529e96.jpeg
     image_description:
-    image_title: Autumn-Acrylic on Box Canvas-40.5x30.5cm /16x12inch AVAILABLE £50
+    image_title: 'Autumn-Acrylic on Box Canvas-40.5x30.5cm /16x12inch AVAILABLE '
   - image_path: /assets/a4f51dc8-ef9a-4fe6-94de-27eaa1903616.jpeg
     image_description:
     image_title: >-
       Back to where I came from - Acrylic on Box Canvas 19.7inch sq / 50cm sq
-      AVAILABLE £85 
+      AVAILABLE 
   - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
     image_description:
-    image_title: Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE £65
+    image_title: 'Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE '
   - image_path: /assets/images/the-beehive.JPG
     image_description:
     image_title: >-
-      WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inch (  
-      58x73cm ) AVAILABLE £165
-  - image_path: /assets/images/peace.jpg
-    image_description:
-    image_title: PEACE - Acrylic on Box Canvas -31x47 inch / 80x120 cm - AVAILABLE £390
+      WOMAN WITH BEEHIVE - Acrylic on canvas in white wood frame - 23x29inc  /
+      58x73cm AVAILABLE 
   - image_path: /assets/images/mini-portraits.jpg
     image_description: Top middle ,right & bottom right - SOLD
     image_title: >-
@@ -100,6 +97,9 @@ images:
     image_title: >-
       PORTRAIT OF TRACY - Acrylic on canvas in white wood float frame -
       14x18inch (35.5x45.4cm ) SOLD
+  - image_path:
+    image_description:
+    image_title:
   - image_path:
     image_description:
     image_title:
