@@ -26,8 +26,8 @@ images:
     image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
-      Grey dog on yellow - Acrylic on canvas linen finished paper - 12x12inch (
-      30x30cm  approx ) Framed AVAILABLE £40
+      Grey dog on yellow - Acrylic on canvas linen finished canvas paper 12inch
+      sq / 30.5cm sq AVAILABLE 
     image_description:
   - image_path: /assets/images/brown-dog.jpg
     image_title: >-
