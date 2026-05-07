@@ -35,7 +35,7 @@ images:
     image_title: 'September-Acrylic on Box Canvas-120x80cm/47x31.5inch AVAILABLE '
   - image_path: /assets/3e33b72f-ad69-48af-9850-6a23a2443911.jpeg
     image_description:
-    image_title: Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE £375
+    image_title: 'Blue Florals-Acrylic on Box Canvas-76x61cm/30x24.5inch AVAILABLE '
   - image_path: /assets/img-7215.jpeg
     image_description:
     image_title: >-
