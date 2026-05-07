@@ -59,6 +59,9 @@ images:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
       - 18.5x12inch ( 45.72x30.48cm approx ) SOLD
+  - image_path: /assets/img-7373.jpeg
+    image_description:
+    image_title: 'Blue bird on  Yellow, Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
   - image_path: /assets/images/black-bird-on-paper.jpg
     image_description:
     image_title: >-
@@ -107,9 +110,6 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
-  - image_path: /assets/img-7373.jpeg
-    image_description:
-    image_title: 'Blue bird on  Yellow, Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
