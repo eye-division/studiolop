@@ -27,7 +27,7 @@ images:
     image_description:
     image_title: >-
       Back to where I came from - Acrylic on Box Canvas 19.7inch sq / 50cm sq
-      AVAILABLE £85 
+      AVAILABLE 
   - image_path: /assets/cb371837-2e66-4a3a-9721-c23961a90ad2.jpeg
     image_description:
     image_title: Comfort - Acrylic on Box Canvas- 40cm sq / 15.7inch sq AVAILABLE £65
