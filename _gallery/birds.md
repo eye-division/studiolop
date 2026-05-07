@@ -18,6 +18,12 @@ images:
     image_title: >-
       Bird on Orange - Acrylic on Handmade Paper on Wood Board - 30.5x25.5cm /
       12x10inch  Framed - AVAILABLE
+  - image_path: /assets/img-7372.jpeg
+    image_description:
+    image_title: 'Blackbird on Green,Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
+  - image_path: /assets/img-7373.jpeg
+    image_description:
+    image_title: 'Blue bird on  Yellow, Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
   - image_path: /assets/f4e13e05-4c47-44c3-b9b5-7850723ae06c.jpeg
     image_description:
     image_title: 'Small Bird on Blue - Acrylic on Canvas- 6inch sq/15cm sq AVAILABLE '
@@ -59,9 +65,6 @@ images:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
       - 18.5x12inch ( 45.72x30.48cm approx ) SOLD
-  - image_path: /assets/img-7373.jpeg
-    image_description:
-    image_title: 'Blue bird on  Yellow, Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
   - image_path: /assets/images/black-bird-on-paper.jpg
     image_description:
     image_title: >-
@@ -110,9 +113,6 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
-  - image_path: /assets/img-7372.jpeg
-    image_description:
-    image_title: 'Blackbird on Green,Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
