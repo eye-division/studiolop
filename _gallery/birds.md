@@ -54,7 +54,7 @@ images:
     image_title: >-
       Two Hummingbird Birds -Float frame-Acrylic on Canvas 8inch sq/20cm sq
       COMMISSION-SOLD
-  - image_path: /assets/images/bird-with-gold-frame.JPG
+  - image_path:
     image_description:
     image_title: >-
       BIRD IN GOLD FRAME - Acrylic on canvas paper on wood board-varnish/shellac
@@ -110,6 +110,9 @@ images:
     image_title: >-
       Purple Bird in Wood Frame - Acrylic on canvas paper on wood board
       ,varnish/shellac - 13x11inch ( 33x28cm ) SOLD
+  - image_path: /assets/img-7372.jpeg
+    image_description:
+    image_title: 'Blackbird on Green,Acrylic on Box Canvas 10x8inch / 25x20cm AVAILABLE '
 _comments:
   title: add a Gallery title
   permalink: page URL name
