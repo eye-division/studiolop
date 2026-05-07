@@ -56,8 +56,8 @@ images:
   - image_path: /assets/images/still-life-with-apples.jpg
     image_description:
     image_title: >-
-      Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm sq-AVAILABLE
-      £60 SALE!
+      Still Life with Apples-Acrylic on Box Canvas-12inch sq/30.5cm
+      sq-AVAILABLE 
   - image_path: /assets/837a7a5f-756f-4264-83dd-4afbad7ee410.jpeg
     image_description:
     image_title: >-
