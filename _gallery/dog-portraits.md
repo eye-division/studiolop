@@ -32,7 +32,7 @@ images:
   - image_path: /assets/images/brown-dog.jpg
     image_title: >-
       Brown dog - acrylic on canvas linen finished paper 12inch sq / 30.5 cm sq
-      AVAILABLE 
+      SOLD
     image_description:
   - image_path: /assets/images/dog-with-pink-collar-1.jpg
     image_title: >-
