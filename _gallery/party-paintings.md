@@ -22,7 +22,7 @@ images:
   - image_path: /assets/images/last-days-of-summer---partypainting.jpg
     image_title: >-
       'Las Days of Summer' - Party Painting - Acrylic on Box Canvas
-      2022-120x100cm/ 40x39.5inch)  AVAILABLE 
+      2022-120x100cm/(40 x39.5inch)  SOLD
     image_description:
   - image_path: /assets/bd5f7b09-e6c7-4ab6-a3c9-e389b3c28b6a.jpeg
     image_title: >-
