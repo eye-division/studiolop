@@ -8,6 +8,11 @@ images:
   - image_path: /assets/bd136567-d991-43ff-aceb-efbad04a642e.jpeg
     image_description:
     image_title: '“Blue Chair “ Acrylic on Box Canvas - 91cm sq / 36inch sq - AVAILABLE '
+  - image_path: /assets/img-6512.jpeg
+    image_description:
+    image_title: >-
+      Black cat & coffee , Acrylic on Box Canvas, 12inch sq / 30.5cm sq
+      AVAILABLE 
   - image_path: /assets/6636eab1-1775-4cd6-a60f-8e058d424bbf.jpeg
     image_description:
     image_title: Pale Pink Vase - Acrylic on Box Canvas- 30.5cm sq / 12inch sq SOLD
@@ -17,16 +22,9 @@ images:
   - image_path: /assets/img-7201.jpeg
     image_description:
     image_title: Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm SOLD
-  - image_path: /assets/img-6512.jpeg
-    image_description:
-    image_title: >-
-      Black cat & coffee , Acrylic on Box Canvas, 12inch sq / 30.5cm sq
-      AVAILABLE 
   - image_path: /assets/img-7275.jpeg
     image_description:
-    image_title: >-
-      Afternoon Java , Acrylic on Box Canvas,12inch sq AVAILABLE Bird/ 30.5cm sq
-      SOLD
+    image_title: Afternoon Java , Acrylic on Box Canvas,12inch sq / 30.5cm sq SOLD
   - image_path: /assets/img-6055.jpeg
     image_description:
     image_title: Autumn Still Life , Acrylic on Box Canvas, 22.5inch sq / 57cm sq SOLD
