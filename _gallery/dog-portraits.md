@@ -9,11 +9,11 @@ images:
   - image_path: /assets/28653224-13f8-40c9-b610-2bb96c9fab01.jpeg
     image_title: '“Watching over Me “ Acrylic on Box Canvas-76cm sq / 30inch sq - AVAILABLE '
     image_description:
-  - image_path: /assets/img-7482.jpeg
-    image_title: The Chosen Ones,Acrylic on Box Canvas,4x3ft / 129x91cm SOLD
-    image_description:
   - image_path: /assets/30795e65-8692-4334-a401-ddf4e24e8a68.jpeg
     image_title: Three Companions-Acrylic on Box Canvas-100x50cm/39.5x19.5inch AVAILABLE
+    image_description:
+  - image_path: /assets/img-7482.jpeg
+    image_title: The Chosen Ones,Acrylic on Box Canvas,4x3ft / 129x91cm SOLD
     image_description:
   - image_path: /assets/4c71c379-33f7-40d3-9517-e48f5e6a603c.jpeg
     image_title: Love - Acrylic on Canvas-100x50cm/39.5x19.5inch SOLD
