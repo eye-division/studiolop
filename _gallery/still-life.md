@@ -16,7 +16,7 @@ images:
     image_title: Aperitif- Acrylic on Box Canvas- 30.5cm sq/12inch sq SOLD
   - image_path: /assets/img-7201.jpeg
     image_description:
-    image_title: 'Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm AVAILABLE '
+    image_title: Hot Cross Buns , Acrylic on Box Canvas, 12inch sq / 30.5cm SOLD
   - image_path: /assets/img-6512.jpeg
     image_description:
     image_title: >-
