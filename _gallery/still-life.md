@@ -29,9 +29,7 @@ images:
       SOLD
   - image_path: /assets/img-6055.jpeg
     image_description:
-    image_title: >-
-      Autumn Still Life , Acrylic on Box Canvas, 22.5inch sq / 57cm sq
-      AVAILABLE 
+    image_title: Autumn Still Life , Acrylic on Box Canvas, 22.5inch sq / 57cm sq SOLD
   - image_path: /assets/d0e8c18e-1c47-4090-bd3f-03b4e5a375de.jpeg
     image_description:
     image_title: Pink on Black- Acrylic on Box Canvas- 30.5cm sq/12inch sq SOLD
