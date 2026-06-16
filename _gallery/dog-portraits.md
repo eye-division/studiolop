@@ -22,7 +22,7 @@ images:
     image_title: Small black dog , Acrylic on Canvas,6x4inch / 15x10cm SOLD
     image_description:
   - image_path: /assets/img-7921.jpeg
-    image_title: 'Small white dog , Acrylic on Canvas, 6x4inch / 15x10cm AVAILABLE '
+    image_title: Small white dog , Acrylic on Canvas, 6x4inch / 15x10cm SOLD
     image_description:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
