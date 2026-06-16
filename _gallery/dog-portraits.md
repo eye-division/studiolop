@@ -27,7 +27,7 @@ images:
   - image_path: /assets/images/grey-dog.jpg
     image_title: >-
       Grey dog on yellow - Acrylic on canvas linen finished canvas paper 12inch
-      sq / 30.5cm sq AVAILABLE 
+      sq / 30.   5cm sq SOLD
     image_description:
   - image_path: /assets/images/brown-dog.jpg
     image_title: >-
