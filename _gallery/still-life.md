@@ -26,7 +26,7 @@ images:
     image_description:
     image_title: >-
       Afternoon Java , Acrylic on Box Canvas,12inch sq AVAILABLE Bird/ 30.5cm sq
-      AVAILABLE 
+      SOLD
   - image_path: /assets/img-6055.jpeg
     image_description:
     image_title: >-
